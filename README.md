@@ -1,7 +1,7 @@
 # Jamaica — Laws of Jamaica (LawCodex)
 
 Revised (consolidated) statutes of **Jamaica** as plain Markdown, converted from the official PDFs of the
-**Laws of Jamaica** website of the Ministry of Justice (Law Reform Department / Legal Reform),
+**Laws of Jamaica** website of the Ministry of Justice,
 <https://laws.moj.gov.jm> → Library → *Revised Laws of Jamaica*.
 
 Retrieved: 2026-10-13.
