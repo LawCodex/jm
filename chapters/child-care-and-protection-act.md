@@ -7,7 +7,7 @@ status: in_force
 legal_areas: "Children"
 source: "https://laws.moj.gov.jm/library/statute/the-child-care-and-protection-act"
 source_pdf: "https://laws.moj.gov.jm/library/statute/the-child-care-and-protection-act/download"
-text_source: "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)"
+text_source: "text layer of the official PDF"
 pages: 92
 retrieved: 2026-10-13
 ---

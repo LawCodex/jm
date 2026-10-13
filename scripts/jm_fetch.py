@@ -65,6 +65,41 @@ def pdf_ok(path, expected_len=None):
     return subprocess.run(["pdfinfo", path], capture_output=True).returncode == 0
 
 
+def download(url, path):
+    """Stream to path.part, resuming with HTTP Range after broken connections."""
+    part = path + ".part"
+    total = None
+    for attempt in range(8):
+        have = os.path.getsize(part) if os.path.exists(part) else 0
+        headers = {"Range": f"bytes={have}-"} if have else {}
+        try:
+            with s.get(url, headers=headers, stream=True, timeout=300) as r:
+                if r.status_code == 200:
+                    have = 0
+                    total = int(r.headers.get("content-length", 0)) or None
+                    mode = "wb"
+                elif r.status_code == 206:
+                    m = re.search(r"/(\d+)$", r.headers.get("content-range", ""))
+                    total = int(m.group(1)) if m else total
+                    mode = "ab"
+                elif r.status_code == 416:
+                    break
+                else:
+                    return r.status_code
+                with open(part, mode) as f:
+                    for chunk in r.iter_content(1 << 16):
+                        f.write(chunk)
+            if total is None or os.path.getsize(part) >= total:
+                break
+        except requests.RequestException as e:
+            print("  resume", url, e, file=sys.stderr, flush=True)
+            time.sleep(10 * (attempt + 1))
+    if os.path.exists(part) and (total is None or os.path.getsize(part) == total):
+        os.replace(part, path)
+        return 200
+    return -1
+
+
 def listing(kind):
     path = {"statutes": "/library/statutes/revised",
             "subsidiary": "/library/subsidiary-legislation/revised"}[kind]
@@ -128,18 +163,12 @@ def main():
             continue
         if meta.get("download") and not meta.get("pdf_ok"):
             if not pdf_ok(ppath, meta.get("pdf_len")):
-                try:
-                    r = get(BASE + meta["download"])
-                except RuntimeError as e:
-                    print(n, slug, "FAILED", e, flush=True)
-                    continue
-                ct = r.headers.get("content-type", "")
-                if r.status_code == 200 and "pdf" in ct:
-                    open(ppath, "wb").write(r.content)
-                    cl = r.headers.get("content-length")
-                    meta["pdf_len"] = int(cl) if cl else len(r.content)
+                code = download(BASE + meta["download"], ppath)
+                if code != 200:
+                    meta["error"] = str(code)
                 else:
-                    meta["error"] = f"{r.status_code} {ct}"
+                    meta.pop("error", None)
+                    meta["pdf_len"] = os.path.getsize(ppath)
                 time.sleep(DELAY)
             meta["pdf_ok"] = pdf_ok(ppath, meta.get("pdf_len"))
         json.dump(meta, open(mpath, "w"), indent=1)

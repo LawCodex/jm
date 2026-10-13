@@ -5,7 +5,7 @@ The official PDFs are mostly scanned pages carrying an embedded OCR text layer
 (Adobe Acrobat Paper Capture). We use that text layer as-is (no OCR of our
 own); documents without a usable text layer are reported as gaps.
 """
-import datetime, json, os, re, sys
+import datetime, json, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import jm_pdfmd as pm
 
@@ -60,6 +60,8 @@ def main():
                                    "source": BASE + m["href"]})
             continue
         is_const = "constitution-order-in-council" in slug
+        info = subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout
+        scanned = bool(re.search(r"^(Creator|Producer):.*(Scan|Capture|Paper)", info, re.M | re.I))
         fname = re.sub(r"^the-", "", slug)[:100].strip("-") + ".md"
         rel = ("constitution/" if is_const else "chapters/") + fname
         num = m.get("Number", "")
@@ -75,7 +77,8 @@ def main():
             "legal_areas": m.get("legal_areas") or None,
             "source": BASE + m["href"],
             "source_pdf": BASE + m["download"],
-            "text_source": "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)",
+            "text_source": "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)"
+                           if scanned else "text layer of the official PDF",
             "pages": st["pages"],
             "retrieved": retrieved,
         }

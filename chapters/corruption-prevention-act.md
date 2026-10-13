@@ -7,7 +7,7 @@ status: in_force
 legal_areas: "Criminal Procedures"
 source: "https://laws.moj.gov.jm/library/statute/the-corruption-prevention-act"
 source_pdf: "https://laws.moj.gov.jm/library/statute/the-corruption-prevention-act/download"
-text_source: "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)"
+text_source: "text layer of the official PDF"
 pages: 28
 retrieved: 2026-10-13
 ---

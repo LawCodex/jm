@@ -7,7 +7,7 @@ status: in_force
 legal_areas: "Transport"
 source: "https://laws.moj.gov.jm/library/statute/the-civil-aviation-act"
 source_pdf: "https://laws.moj.gov.jm/library/statute/the-civil-aviation-act/download"
-text_source: "embedded text layer of the official PDF (OCR by the publisher; may contain recognition errors)"
+text_source: "text layer of the official PDF"
 pages: 61
 retrieved: 2026-10-13
 ---
