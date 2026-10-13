@@ -96,7 +96,7 @@ member of the Corporation shall unless his appointment is sooner revoked hold of
 
 (9) The appointment, removal, death, departure from the Island or resignation of any member of the Corporation shall be notified in the Gazette.
 
-4 . 4 1 ) The Corporation shall be a body corporate having Incorwra-tion. perpetual succession and a common seal and shall have power to purchase, lease or otherwise acquire and hold and dispose of land, shares and other property of whatsoever kind whether similar to the foregoing or not.
+4 . 4 1 ) The Corporation shall be a body corporate having Incorwra-perpetual succession and a common seal and shall have power to purchase, lease or otherwise acquire and hold and dispose of land, shares and other property of whatsoever kind whether similar to the foregoing or not.
 
 (2) The seal of the Corporation shall be authenticated by the signatures of the chairman or one member of the Corporation authorized to act in that behalf, and the secretary of the Corporation, and such seal shall be officially and judicially noticed.
 
@@ -104,7 +104,7 @@ member of the Corporation shall unless his appointment is sooner revoked hold of
 
 (4) The Corporation may sue and be sued in their corporate name and may for all purposes be described by such name.
 
-5 . 4 1 ) The Corporation shall meet at such times as may Produrn be necessary or expedient for the transaction of business, and meet-in@ of and such meetings shall be held at such place and time and E;? on such days as the Corporation may determine.
+5 . 4 1 ) The Corporation shall meet at such times as may Produrn and meet-be necessary or expedient for the transaction of business, in@ of E;? and such meetings shall be held at such place and time and on such days as the Corporation may determine.
 
 (2) The chairman may at any time call a special meeting of the Corporation and shall call a special meeting within seven days of the requisition for that purpose addressed to him by any three members of the Corporation.
 
@@ -140,21 +140,29 @@ Provided that-
 
 [The indusion of this page is authorize3 by L.N. 480119731
 
-**8.** (1) It shall be the duty of the Corporation to Functions stimulate, facilitate and undertake the development of of tioa
+**8.** (1) It shall be the duty of the Corporation to Functions stimulate, facilitate and undertake the development of tioa
 
 agriculture in this Island.
 
-(2) The Corporation shall have power, for the purpose of the discharge of their duty under subsection (1)-
+(2) The Corporation shall have power, for the purpose of the discharge of their duty under subsection
 
-(a) to carry on all activities the carrying on whereof appears to them to be requisite, advantageous or convenient for or in connection with the discharge of their said duty, including the processing and marketing of products;
+*(1)-*
+
+to carry on all activities the carrying on whereof (a)
+
+appears to them to be requisite, advantageous or convenient for or in connection with the discharge of their said duty, including the processing and marketing of products;
 
 (4 to promote the carrying on of any such activities by other bodies or persons, and for that purpose to establish or expand, or promote the establishment or expansion of, other bodies to carry on any such activities either under the control or partial control of the Corporation or independently, and to give assistance to such bodies or to other bodies or persons appearing to the Corporation to have facilities for the carrying on of any such activities, including financial assistance by the taking up of share or loan capital or by loan or otherwise;
 
-(c) to carry on any such activities in association with other bodies or persons (including Government authorities) or as managing agents or otherwise on their behalf.
+to carry on any such activities in association with (c)
 
-9 . 4 1 ) Subject to the provisions of subsection (2), the Borrowing Corporation may borrow sums required by them for meet- powem ing any of their obligations or discharging any of their functions.
+other bodies or persons (including Government authorities) or as managing agents or otherwise on their behalf.
 
-(2) The power of the Corporation to borrow shall be exercisable only with the approval of the Minister, as to the amount, as to the sources of the borrowing and as to
+9 . 4 1 ) Subject to the provisions of subsection (2), the Borrowing powem Corporation may borrow sums required by them for meeting any of their obligations or discharging any of their functions.
+
+*the*
+
+(2) The power of the Corporation to borrow shall be exercisable only with the approval of the Minister, as to amount, as to the sources of the borrowing and as to
 
 a
 
@@ -192,9 +200,13 @@ tion under section 10, and of any sums issued in fulfilment rantees.
 
 of any guarantee given thereunder, and payments of interest on what is outstanding for the time being in respect of such advances and of any sum so issued at such rate as the Minister may direct, and different rates of interest may be directed as respects different advances or sums and as respects interest for dif€erent periods.
 
-**12.** The Minister may, after consultation with the chair- Powersof Miniskr. man, give to the Corporation directions of a general character as to the policy to be followed in the exercise and performance of their functions in relation to matters appearing to him to concern the public interest, and the Corporation shall give effect to any such directions.
+*Powersof Miniskr.*
 
-1 3 4 1 ) The Corporation shall establish a reserve fund. Reserve fund.
+**12.** The Minister may, after consultation with the chairman, give to the Corporation directions of a general character as to the policy to be followed in the exercise and performance of their functions in relation to matters appearing to him to concern the public interest, and the Corporation shall give effect to any such directions.
+
+*Reserve fund.*
+
+1 3 4 1 ) The Corporation shall establish a reserve fund.
 
 (2) The management of the said fund, the sums to be carried from time to time to the credit thereof, and the application thereof, shall be as the Corporation may determine :
 
@@ -204,11 +216,15 @@ Provided that-
 
 (b) the power of the Minister to give directions to the Corporation shall extend to the giving to them of directions as to any matter relating to the establishment or management of the said fund, the Carrying of funds to the credit thereof, or the application thereof, notwithstanding that the directions may be of a specific character.
 
-**14.** It shall be the duty of the Corporation so to exercise Balancing of revenue and perform their functions as to secure that their revenues B c F o I m ~ are not less than sufficient to meet all sums properly chargeable to their revenue account (including, without prejudice to the generality of that expression, provisions in respect of their obligations under sections 11 and 13), taking one year with another.
+*Balancing of revenue B c F o I m ~*
 
-**15.** No member of the Corporation shall be prsonally Liabilityof liable for any act or default of the Corporation done or members of
+**14.** It shall be the duty of the Corporation so to exercise and perform their functions as to secure that their revenues are not less than sufficient to meet all sums properly chargeable to their revenue account (including, without prejudice to the generality of that expression, provisions in respect of their obligations under sections 11 and 13), taking one year with another.
 
-omitted to be done in good faith in the course of the tion. operations of the Corporation.
+*Liabilityof members*
+
+**15.** No member of the Corporation shall be prsonally liable for any act or default of the Corporation done or
+
+omitted to be done in good faith in the course of the operations of the Corporation.
 
 16.41) The Corporation shall keep proper accounts in Accounts
 

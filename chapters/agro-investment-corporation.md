@@ -76,9 +76,11 @@ Interpretation.
 
 "the Corporation" means the Ago-Investment Corporation 14 of 2010 S. 2. ' established in accordance with this Act.
 
-3 . 4 1 ) There shall be establishbd in accordance with this Establishment of Act a body, to be called the Agro-Investment Corporation, Corpora-which shall consist of a chairman, a deputy chairman and tion. such number of other members, not being less than four nor S. 14 2. of 2010 more than eight, as the Minister may from time to time determine.
+3 . 4 1 ) There shall be establishbd in accordance with this Establishment of Act a body, to be called the Agro-Investment Corporation, Corpora-which shall consist of a chairman, a deputy chairman and tion. S. 14 2. of 2010 such number of other members, not being less than four nor more than eight, as the Minister may from time to time determine.
 
-(2) The chairman, deputy chairman and the other mem-bers of the Corporation shall be appointed by the Minister from amongst persons appearing to him to be qualified as having had . experience in, and having shown capacity in, matters relating to agriculture, finance, or administration.
+*.*
+
+(2) The chairman, deputy chairman and the other mem-bers of the Corporation shall be appointed by the Minister from amongst persons appearing to him to be qualified as having had experience in, and having shown capacity in, matters relating to agriculture, finance, or administration.
 
 '
 
@@ -100,9 +102,9 @@ to him to have the qualifications necessary for appointment as a member of the C
 
 (9) The appointment, removal, death, departure from the Islahd or resignation of any member of the Corporation shall be notified in the Gazette.
 
-The Corporation shall be a body corporate having Incorpora- 4.-(1)
+The Corporation shall be a body corporate having 4.-(1)
 
-perpetual succession and a common seal and shall have tion, power to purchase, lease or otherwise acquire and hold and dispose of land, shares and other property of whatsoever kind whether similar to the foregoing or not.
+Incorpora-perpetual succession and a common seal and shall have tion, power to purchase, lease or otherwise acquire and hold and dispose of land, shares and other property of whatsoever kind whether similar to the foregoing or not.
 
 (2) The seal of the Corporation shall be authenticated by the signatures of the chairman or one member of. the Corporation authorized to act i n that behalf, and the secretary of the Corporation, and such seal shali be officially and judicially noticed.
 
@@ -110,7 +112,7 @@ perpetual succession and a common seal and shall have tion, power to purchase, l
 
 (4) The Corporation may sue and be sued in their corporate name and may for all purposes be described by such name.
 
-5 4 1 ) The Corporation shall meet at such times as may Procedure be necessary. or expedient for the transaction of business, and meet- ' ingrofqr-and such meetings shall be held at such place and time and potation, on such days as the Corporation may determine.
+5 4 1 ) The Corporation shall meet at such times as may Procedure and meet- ' be necessary. or expedient for the transaction of business, ingrofqr-and such meetings shall be held at such place and time and potation, on such days as the Corporation may determine.
 
 (2) The chairman may at any time call a special meeting of the Corporation and shall call a special meeting within seven days of the requisition for that purpose addressed to him by any three members of the Corporation.
 
@@ -140,15 +142,17 @@ Minister; and
 
 (c) no provision shall be made for the payment of any pensions, gratuities or other like benefits to any secretary, officers or servants or to others by reference to their service without the prior approval of the Minister.
 
-8 . 1 ) It shall be the duty of the Corporation to Functionsof 'stimulate, facilitate and undertake the development of agri- cOvOratiOn. culture in this Island.
+8 . 1 ) It shall be the duty of the Corporation to Functionsof 'stimulate, facilitate and undertake the development of agri-
 
-(2) The Corporation shall have power, for the purpose of the discharge of their duty under subsection (1)-
+cOvOratiOn. culture in this Island.
+
+(2) The Corporation shall have power, for the purpose of the discharge of their duty under subsection
+
+*(1)-*
 
 (a) to carry on all activities the carrying on whereof appears to thei to be requisite, advantageous or convenient for or in connection with the discharge of their said duty, including the processing and marketing of products;
 
-. I
-
-(b) to promote the carrying on of any such activities by other bodies or persons, and for that purpose to establish or expand, or promote the establish-
+. I (b) to promote the carrying on of any such activities by other bodies or persons, and for that purpose to establish or expand, or promote the establish-
 
 ment or expansion of, other bodies to carry on any such activities either under the control or partial control of the Corporation or independently, and to give assistance to such bodies or to other bodies or persons appearing to the Corporation to have facilities for the carrying on of any such activities, including financial assistance by the taking up of . share or loan capital or by loan or otherivise;
 
@@ -156,7 +160,9 @@ ment or expansion of, other bodies to carry on any such activities either under 
 
 **9.** \41) Subject to the provisions of subsection (2), the Borrowing Corporation may borrow sums required by them for meeting any of their obligations or discharging any of their functions.
 
-(2) The power of the Corporation to borrow shall be exercisable only with the approval of the Minister, as to the amount, as to the sources of the borrowing and as to
+*the*
+
+(2) The power of the Corporation to borrow shall be exercisable only with the approval of the Minister, as to amount, as to the sources of the borrowing and as to
 
 the terms on which the borrowing may be 'effected. An approval given in any respect for the purposes of this 'subsection may be either general or limited to a particular borrowing or otherwise, and may be either unconditional or subject to conditions.
 
@@ -194,7 +200,7 @@ Provided that-
 
 **14.** It shall be the duty of the Corporation so to exercise Balancing :iE:=YI and perform their functions as to secure that their revenues are not less than sufficient to meet all sums properly chargeable to their revenue account (including, without prejudice to the generality of that expression, provisions in respect of their obligations under sections 11 and 13), taking one year with another.
 
-**15.** No member of the Corporation shall be personally Liabilityof liable for any act or default of the Corporation done or members of co,,,ora-omitted to be done in good faith in the course of the tion. operations of the Corporation.
+**15.** No member of the Corporation shall be personally Liabilityof members of liable for any act or default of the Corporation done or co,,,ora-omitted to be done in good faith in the course of the tion. operations of the Corporation.
 
 /' t
 

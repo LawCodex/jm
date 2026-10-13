@@ -260,7 +260,9 @@ LN. 480119731
 
 ## PART I. Preliminary
 
-**1.** This Act may be cited as the Bills of Exchange Act. shorttitk
+*shorttitk*
+
+**1.** This Act may be cited as the Bills of Exchange Act.
 
 *Intspra-tation.*
 
@@ -330,23 +332,29 @@ Any other bill is a foreign bill.
 
 Unless the contrary appear on the face of the bill, the holder may treat it as an inland bill.
 
-**5.** A bill may be drawn payable to or to the order of the Effectwhere Wemt drawer; or it may be drawn payable to or to the order of partiato bill are the the drawee.
+*Effectwhere Wemt partiato bill are the aamc pcmon.*
 
-aamc pcmon.
+**5.** A bill may be drawn payable to or to the order of the drawer; or it may be drawn payable to or to the order of the drawee.
 
 Where in a bill drawer and drawee are the same person, or where the drawee is a fictitious person or a pason not having capacity to contract, the holder may treat the instrument, at his option, either as a bill of exchange or as a promissory note.
 
-**6.** The drawee must be named or otherwise indicated in AddrssPof drawee. a bill with reasonable certainty.
+*AddrssPof drawee.*
+
+**6.** The drawee must be named or otherwise indicated in a bill with reasonable certainty.
 
 A bill may be addressed to two or more drawees, whether they are partners or not, but an order addressed to two drawees in the alternative, or to two or more drawees in succession, is not a bill of exchange.
 
-**7.** Where a bill is not payable to bearer, the payee must certainty required a8 be named or otherwise indicated therein with reasonable topyM. certainty.
+*certainty required a8 topyM.*
+
+**7.** Where a bill is not payable to bearer, the payee must be named or otherwise indicated therein with reasonable certainty.
 
 A bill may be made payable to two or more payees jointly, or it may be made payable in the alternative to one of two, or one or some of several payees. A bill may also be made payable to the holder of an office for the time being.
 
 Where the payee is a fictitious or non-existing person the bill may be treated as payable to bearer.
 
-**8.** When a bill contains words prohibiting transfer, or Whatbius indicating an intention that it should not be transferable, are
+*Whatbius are*
+
+**8.** When a bill contains words prohibiting transfer, or indicating an intention that it should not be transferable,
 
 it is valid as between the parties thereto, but is not negotiable.
 
@@ -376,7 +384,9 @@ Where the sum payable is expressed in words and also in figures, and there is a 
 
 Where a bill is expressed to be payable with interest, unless the instrument otherwise provides, interest runs from the date of the bill, and if the bill is undated from the issue thereof.
 
-**10.** A bill is payable on demand-Bill payable on demand.
+*Bill payable on demand.*
+
+**10.** A bill is payable on demand-
 
 (a) which is expressed to be payable on demand, or at sight, or on presentation; or
 
@@ -384,7 +394,9 @@ Where a bill is expressed to be payable with interest, unless the instrument oth
 
 Where a bill is accepted or indorsed when it is overdue it shall, as regards the acceptor who so accepts, or any indorser who so indorses it, be deemed a bill payable on demand.
 
-**11.** A bill is payable at a determinable future time within Bill pwbls at a future the meaning of this Act which is expressed to be payable- tiimt.
+*Bill pwbls at a future tiimt.*
+
+**11.** A bill is payable at a determinable future time within the meaning of this Act which is expressed to be payable-
 
 at a fixed period after date or sight;
 
@@ -394,7 +406,9 @@ at a fixed period after date or sight;
 
 An instrument expressed to be payable on a contingency is not a bill, and the happening of the event does not cure the defect.
 
-**12.** Where a bill expressed to be payable at a fixed period Om date iss in ion bdl of after date is issued undated, or where the acceptance of a payable bill payable at a fixed period after sight is undated, any aftcrdatr holder may insert therein the true date of issue or acceptance, and the bill shall be payable accordingly :
+*iss in ion bdl of Om date payable aftcrdatr*
+
+**12.** Where a bill expressed to be payable at a fixed period after date is issued undated, or where the acceptance of a bill payable at a fixed period after sight is undated, any holder may insert therein the true date of issue or acceptance, and the bill shall be payable accordingly :
 
 Provided that-
 
@@ -488,7 +502,9 @@ thereto prior to its completion, it must be filled u p within a reasonable time,
 
 Provided that if any such instrument, after completion, is negotiated to a holder in due course, it shall be valid and effectual for all purposes in his hands, and he may enforce it as if it had been filled up within a reasonable time, and strictly in accordance with the authority given.
 
-**21.** Every contract on a bill, whether it be the drawer’s, Delivery. the acceptor’s or an indorser’s is incomplete and revocable, until delivery of the instrument in order to give effect thereto :
+*Delivery.*
+
+**21.** Every contract on a bill, whether it be the drawer’s, the acceptor’s or an indorser’s is incomplete and revocable, until delivery of the instrument in order to give effect thereto :
 
 Provided that where an acceptance is written on a bill, and the drawee gives notice to or according to the directions of the person entitled to the bill that he has accepted it, the acceptance then becomes complete and irrevocable.
 
@@ -530,21 +546,21 @@ The signature of the name of a firm is equivalent to the signature, by the perso
 
 Provided that nothing in this section shall affect the ratification of an unauthorized signature not amounting to a forgery.
 
-**25.** A signature by procuration operates as notice that :muration the agent has but a limited authority to sign, and the prin- rignames.
+*:muration rignames.*
 
-cipal is only bound by such signature if the agent in so signing was acting within the actual limits of his authority.
+**25.** A signature by procuration operates as notice that the agent has but a limited authority to sign, and the principal is only bound by such signature if the agent in so signing was acting within the actual limits of his authority.
 
-**26.** Where a person signs a bill as drawer, indorser or 9-9n aignrng am acceptor, and adds words to his signature indicating that agentorin seEnk he signs for or on behalf of a principal, or in a representa-
+*9-9n aignrng am agentorin seEnk*
 
-tive character, he is not personally liable thereon; but the mere addition to his signature of words describing him as an agent, or as filling a representative character, does not exempt him from personal liability.
+**26.** Where a person signs a bill as drawer, indorser or acceptor, and adds words to his signature indicating that he signs for or on behalf of a principal, or in a representative character, he is not personally liable thereon; but the mere addition to his signature of words describing him as an agent, or as filling a representative character, does not exempt him from personal liability.
 
 In determining whether a signature on a bill is that of the principal or that of the agent by whose hand it is written, the construction most favourable to the validity of the instrument shall be adopted.
 
 The Consideration far a Bill
 
-**27.** Valuable consideration for a bill may be constituted Vnlncaod bolder for by-
+*Vnlncaod bolder for Am*
 
-Am
+**27.** Valuable consideration for a bill may be constituted by-
 
 (a) any consideration sufficient to support a simple contract;
 
@@ -580,11 +596,15 @@ In particular the title of a person who negotiates a bill is defective, within t
 
 A holder (whether for value or not) who derives his title to a bill through a holder in due course, and who is not himself a party to any fraud or illegality affecting it, has all the rights of that holder in due course as regards the acceptor and all parties to the bill prior to that holder.
 
-**30.** Every party whose signature appears on a bill is ~ tion tnump-of p r i m facie deemed to have become a party thereto for wiucand value. Every holder of a bill is prima fucie deemed to be podfaith. a holder in due course; but if in an action on a bill, it is admitted or proved that the acceptance, issue or subsequent negotiation of the bill is affected with fraud, duress, or force and fear, or illegality the burden of proof is shifted, unless and until the holder proves that, subsequent to the alleged fraud or illegality, value has in good faith been given for the bill.
+*~ tion tnump-of wiucand podfaith.*
+
+**30.** Every party whose signature appears on a bill is p r i m facie deemed to have become a party thereto for value. Every holder of a bill is prima fucie deemed to be a holder in due course; but if in an action on a bill, it is admitted or proved that the acceptance, issue or subsequent negotiation of the bill is affected with fraud, duress, or force and fear, or illegality the burden of proof is shifted, unless and until the holder proves that, subsequent to the alleged fraud or illegality, value has in good faith been given for the bill.
 
 Negotiarion of Bills
 
-**31.** A bill is negotiated when it is transferred from one N ~ g ~ t i a - person to another in such a manner as to constitute the tloo of bills. transferee the holder of the bill.
+*N ~ g ~ t i a - tloo of bills.*
+
+**31.** A bill is negotiated when it is transferred from one person to another in such a manner as to constitute the transferee the holder of the bill.
 
 A bill payable to bearer is negotiated by delivery.
 
@@ -594,9 +614,11 @@ Where the holder of a bill payable to his order transfers it for value without i
 
 Where any person is under obligation to indorse a bill in a representative capacity, he may indorse the bill in such terms as to negative personal liability.
 
-**32.** An indorsement, in order to operate as a negotiation, RcquisiEs of a valid must comply with the following conditions, namely-
+*RcquisiEs of a valid $, do\* menL*
 
-$, do* menL It must be written on the bill itself, and be signed by the indorser. The simple signature of the indorser on the bill, without additional words, is suflicient.
+**32.** An indorsement, in order to operate as a negotiation, must comply with the following conditions, namely-
+
+It must be written on the bill itself, and be signed by the indorser. The simple signature of the indorser on the bill, without additional words, is suflicient.
 
 An indorsement written on an allonge, or on a “copy” of a bill issued or negotiated in a country where
 
@@ -610,35 +632,37 @@ Where, in a bill payable to order, the payee or indorse is wrongly designated, o
 
 Where there are two or more indorsements on a bill, each indorsement is deemed to have been made in the order in which it appears on the bill, until the contrary is proved.
 
-An indorsement may be made in blank or special. It may also contain terms making it restrictive.
+indorsement may be made in blank or special. It An
 
-*Conditional indorse-ment.*
+may also contain terms making it restrictive.
 
-**33.** Where a bill purports to be indorsed conditionally the condition may be disregarded by the payer, and payment to the indorsee is valid, whether the condition has been fulfilled or not.
+*Conditional indorse-the ment.*
 
-*Indorsc-ment in blank and spcial indorsc-mcnt*
+*been*
+
+**33.** Where a bill purports to be indorsed conditionally condition may be disregarded by the payer, and payment to the indorsee is valid, whether the condition has fulfilled or not.
+
+*Indorsc-ment in blank and spcial indorsc-A mcnt*
 
 **34.** An indorsement in blank specifies no indorsee, and a bill so indorsed becomes payable to bearer.
 
-A special indorsement specifies the person to whom, or to whose order, the bill is to be payable.
+special indorsement specifies the person to whom, or to whose order, the bill is to be payable.
 
 The provisions of this Act relating to a payee apply, with the necessary modifications, to an indorsee under a special indorsement.
 
 When a bill has been indorsed in blank, any holder may convert the blank indorsement into a special indorsement by writing, above the indorser’s signature, a direction to pay the bill to or to the order of himself, or some other person.
 
-**35.** An indorsement is restrictive which prohibits the Restrictive
+*Restrictive indorse-ment.*
 
-*ment.*
-
-further negotiation of the bill, or which expresses that it indorse-is a mere authority to deal with the bill as thereby directed, and not a transfer of the ownership thereof, as, for example, if a bill be indorsed “pay D only”, or “pay D for the account of X , or “pay D or order for collection”.
+**35.** An indorsement is restrictive which prohibits the further negotiation of the bill, or which expresses that it is a mere authority to deal with the bill as thereby directed, and not a transfer of the ownership thereof, as, for example, if a bill be indorsed “pay D only”, or “pay D for the account of X , or “pay D or order for collection”.
 
 A restrictive indorsement gives the indorsee the right to receive payment of the bill, and to sue any party thereto that his indorser could have sued, but gives him no power to transfer his rights as indorsee, unless it expressly authorize him to do so.
 
 Where a restrictive indorsement authorizes further transfer, all subsequent indorsees take the bill with the same rights, and subject to the same liabilities, as the first indorsee under the restrictive indorsement.
 
-*of overdue bilL honoured*
+*Ncgotiatioa of overdue o r d i ~ - bilL honoured*
 
-**36.** (1) Where a bill is negotiable in its origin it con- Ncgotiatioa tinues to be negotiable until it has been (a) restrictively o r d i ~ - indorsed, or (b) discharged by payment or otherwise.
+**36.** (1) Where a bill is negotiable in its origin it con-tinues to be negotiable until it has been (a) restrictively indorsed, or (b) discharged by payment or otherwise.
 
 (2) Where an overdue bill is negotiated, it can only be negotiated subject to any defect of title affecting it at its maturity, and thenceforward no person who takes it can acquire or give a better title than that which the person from whom he took it had.
 
@@ -684,7 +708,7 @@ In no other case is presentment for acceptance necessary in order to render liab
 
 Where the holder of a bill, drawn payable elsewhere than at the place of business or residence of the drawee, has not time, with the exercise of reasonable diligence, to present the bill for acceptance before presenting it for payment on the day that it falls due, the delay caused by presenting the bill for acceptance before presenting it for payment is excused, and does not discharge the drawer and indorsers.
 
-**40.** Subject to the provisions of this Act, when a bill Timefor payable after sight is negotiated, the holder must either presenting bfi~pa,.abl~ whr present it for acceptance or negotiate it within a reasonable time.
+**40.** Subject to the provisions of this Act, when a bill Timefor presenting payable after sight is negotiated, the holder must either bfi~pa,.abl~ whr present it for acceptance or negotiate it within a reasonable time.
 
 If he do not do so, the drawer and all indorsers prior to that holder are discharged.
 
@@ -694,9 +718,7 @@ BlLLS OF EXCHANGE
 
 *Rules as to resentment P tan-. or a m p - and excuses for non-prewnt-rnent.*
 
-**41.** A bill is duly presented for acceptance which is presented in accordance with the following rules-
-
-(a) The presentment must be made by or on behalf of the holder to the drawee, or to some person authorized to accept or refuse acceptance on his behalf, at a reasonable hour on a business day, and before the bill is overdue.
+**41.** A bill is duly presented for acceptance which is presented in accordance with the following rules- (a) The presentment must be made by or on behalf of the holder to the drawee, or to some person authorized to accept or refuse acceptance on his behalf, at a reasonable hour on a business day, and before the bill is overdue.
 
 (b) Where a bill is addressed to two or more drawees who are not partners, presentment must be made to them all, unless one has authority to accept for all, then presentment may be made to him only.
 
@@ -714,29 +736,31 @@ Presentment in accordance with these rules is excused, and a bill may be treated
 
 (3 where, although the presentment has been irregular, acceptance has been refused on some other ground.
 
-The fact that the holder has reason to believe that the bill on presentment will be dishonoured does not excuse presentment.
+*on*
 
-*NO"-acceptance.*
+The fact that the holder has reason to believe that the bill presentment will be dishonoured does not excuse presentment.
 
-**42.** When a bill is duly presented for acceptance and is not accepted within the customary time, the person present-
+*NO"-acceptance. not*
+
+**42.** When a bill is duly presented for acceptance and is accepted within the customary time, the person present-
+
+m
 
 ing it must treat it as dishonoured by non-acceptance. If he does not, the holder shall lose his right of recourse against the drawer and indorsers.
 
-*Dishonour by non- ;z,E;z-*
+*Dishonour by non- ;z,E;z-sequenc\*l.*
 
 **43.** A bill is dishonoured by non-acceptance-
 
-(a) when it is duly presented for acceptance, and such an acceptance as is prescribed by this Act is re- sequenc*l. fused, or cannot be obtained, or
+(a) when it is duly presented for acceptance, and such an acceptance as is prescribed by this Act is re-fused, or cannot be obtained, or
 
 (b) when presentment for acceptance is excused and the bill is not accepted.
 
 Subject to the provisions of this Act, when a bill is dishonoured by non-acceptance, an immediate right of recourse against the drawer and indorsers accrues to the holder, and no presentment for payment is necessary.
 
-**44.** (1) The holder of a bill may refuse to take a quali- Dutiesasto
+*Dutiesasto ~ ~ ~ ~ ~*
 
-*~ ~*
-
-fied acceptance, and if he does not obtain an unqualified ~ ~ ~ acceptance may treat the bill as dishonoured by nonacceptance.
+**44.** (1) The holder of a bill may refuse to take a qualified acceptance, and if he does not obtain an unqualified acceptance may treat the bill as dishonoured by nonacceptance.
 
 (2) Where a qualified acceptance is taken, and the drawer or an indorser has not expressly or impliedly authorized the holder to take a qualified acceptance, or does not subsequently assent thereto, such drawer or indorser is discharged from his liability on the bill.
 
@@ -744,11 +768,13 @@ The provisions of this subsection do not apply to a partial acceptance, whereof 
 
 (3) When the drawer or indorser of a bill receives notice of a qualified acceptance, and does not within a reasonable time express his dissent to the holder, he shall be deemed to have assented thereto.
 
-*Rulcsasto prcscntment forpayment.*
+*Rulcsasto prcscntment duly forpayment.*
 
-**45.** Subject to the provisions of this Act, a bill must be duly presented for payment. If it be not so presented the drawer and indorsers shall be discharged.
+**45.** Subject to the provisions of this Act, a bill must be presented for payment. If it be not so presented the drawer and indorsers shall be discharged.
 
-A bill is duly presented for payment which is presented in accordance with the following rules-
+*A in*
+
+bill is duly presented for payment which is presented accordance with the following rules-
 
 (a) Where the bill is not payable on demand, presentment must be made on the day it falls due.
 
@@ -772,17 +798,29 @@ m h
 
 (e) Where a bill is presented at the proper place, and after the exercise of reasonable diligence no person authorized to pay or refuse payment can be found there, no further presentment to the drawee or acceptor is required.
 
-(f, Where a bill is drawn upon, or accepted by two or more persons who are not partners, and no place of payment is specified, presentment must be made to them all.
+*(f,*
 
-(g) Where the drawee or acceptor of a bill is dead, and no place of payment is specified, presentment must be made to a personal representative if such there be, and with the exercise of reasonable diligence he can be found.
+Where a bill is drawn upon, or accepted by two or more persons who are not partners, and no place of payment is specified, presentment must be made to them all.
+
+Where the drawee or acceptor of a bill is dead, and (g)
+
+no place of payment is specified, presentment must be made to a personal representative if such there be, and with the exercise of reasonable diligence he can be found.
 
 (h) Where authorized by agreement or usage, a presentment through the post office is sufficient.
 
-**46.** Delay in making presentment for payment is excused E X C U E S ~ O ~ when the delay is caused by circumstances beyond the con- delay or trol of the holder, and not imputable to his default, misconduct or negligence. When the cause of delay ceases to payment operate presentment must be made with reasonable diligence.
+*E X C U E S ~ O ~ delay or*
+
+*when trol of*
+
+*payment*
+
+**46.** Delay in making presentment for payment is excused the delay is caused by circumstances beyond the con-the holder, and not imputable to his default, misconduct or negligence. When the cause of delay ceases to operate presentment must be made with reasonable diligence.
 
 Presentment for payment is dispensed with-
 
-(a) where, after the exercise of reasonable diligence, presentment, as required by this Act, cannot be
+where, after the exercise of reasonable diligence, (a)
+
+presentment, as required by this Act, cannot be
 
 *\-*
 
@@ -790,27 +828,27 @@ effected. The fact that the holder has reason to believe that the bill will, on 
 
 ( b ) where the drawer is a fictitious person;
 
-(c) as regards the drawer, where the drawee or acceptor is not bound, as between himself and the drawer, to accept or pay the bill, and the drawer has no reason to believe that the bill would be paid if presented,
+as regards the drawer, where the drawee or (c)
+
+acceptor is not bound, as between himself and the drawer, to accept or pay the bill, and the drawer has no reason to believe that the bill would be paid if presented,
 
 (d) as regards an indorser, where the bill was accepted or made for the accommodation of that indorser, and he has no reason to expect that the bill would be paid if presented;
 
-(e) by waiver of presentment, express or implied.
+by waiver of presentment, express or implied. (e)
 
-Dishonour 47. A bill is dishonoured by non-payment (a) when it is by non-
+*Dishonour by non-duly payment.*
 
-duly presented for payment and payment is refused or payment.
-
-cannot be obtained; or (b) when presentment is excused and the bill is overdue and unpaid.
+**47.** A bill is dishonoured by non-payment (a) when it is presented for payment and payment is refused or cannot be obtained; or (b) when presentment is excused and the bill is overdue and unpaid.
 
 Subject to the provisions of this Act, when a bill is dishonoured by non-payment, an immediate right of recourse against the drawer and indorsers accrues to the holder.
 
-Notice of 48. Subject to the provisions of this Act, when a bill has dishonour
+*Notice of dishonour been and effect 01 non-notice. notice*
 
-been dishonoured by non-acceptance or by non-payment, and effect 01
+Subject to the provisions of this Act, when a bill has 48.
 
-non-notice.
+*is not*
 
-notice of dishonour must be given to the drawer and each indorser, and any drawer or indorser to whom such notice is not given is discharged :
+dishonoured by non-acceptance or by non-payment, of dishonour must be given to the drawer and each indorser, and any drawer or indorser to whom such notice given is discharged :
 
 Provided that-
 
@@ -818,9 +856,13 @@ Provided that-
 
 (b) where a bill is dishonoured by non-acceptance, and due notice of dishonour is given, it shall not be necessary to give notice of a subsequent dishonour by non-payment unless the bill shall in the meantime have been accepted.
 
-*notice of*
+*~ d e s a s t o notice of*
 
-**49.** Notice of dishonour, in order to be valid and effec- ~ d e s a s t o tual, must be given in accordance with the fOllOWhg dishonour.
+*tual,*
+
+*dishonour.*
+
+**49.** Notice of dishonour, in order to be valid and effec-must be given in accordance with the fOllOWhg
 
 *rules-*
 
@@ -828,25 +870,37 @@ The notice must be given by or on behalf of the (0)
 
 holder, or by or on behalf of an indorser who, at the time of giving it, is himself liable on the bill.
 
-( b ) Notice of dishonour may be given by an agent, either in his own name, or in the name of any party entitled to give notice, whether that party be his principal or not.
+*( b )*
+
+Notice of dishonour may be given by an agent, either in his own name, or in the name of any party entitled to give notice, whether that party be his principal or not.
 
 (c) Where the notice is given by or on behalf of the holder, it enures for the benefit of all subsequent holders, and all prior indorsers who have a right of recourse against the party to whom it is given.
 
-(4 Where notice is given by or on behalf of an indorser entitled to give notice as hereinbefore provided, it enures for the benefit of the holder and all indorsers subsequent to the party to whom notice is given.
+*(4*
+
+Where notice is given by or on behalf of an indorser entitled to give notice as hereinbefore provided, it enures for the benefit of the holder and all indorsers subsequent to the party to whom notice is given.
 
 (e) The notice may be given in writing or by personal communication, and may be given in any terms which sufficiently identify the bill, and intimate that the bill has been dishonoured by non-acoept-ance or non-payment.
 
-(f, The return of a dishonoured bill to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour.
+*(f,*
+
+The return of a dishonoured bill to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour.
 
 .-
 
-(9) A written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication. A misdescrip tion of the bill shall not vitiate the notice, unless the party to whom the notice is given is in fact misled thereby.
+A written notice need not be signed, and an insuffi- (9)
+
+cient written notice may be supplemented and validated by verbal communication. A misdescrip tion of the bill shall not vitiate the notice, unless the party to whom the notice is given is in fact misled thereby.
 
 (h) Where notice of dishonour is required to be given to any person, it may be given either to the party himself, or to his agent in that behalf.
 
-(zl Where the drawer or indorser is dead, and the party giving notice knows it, the notice must be given to a personal representative if such there be, and with the exercise of reasonable diligence he can be found.
+*(zl*
 
-(11 Where the drawer or indorser is bankrupt, notice may be given either to the party himself or to the trustee.
+Where the drawer or indorser is dead, and the party giving notice knows it, the notice must be given to a personal representative if such there be, and with the exercise of reasonable diligence he can be found.
+
+*(11*
+
+Where the drawer or indorser is bankrupt, notice may be given either to the party himself or to the trustee.
 
 (k) Where there are two or more drawers or indorsers who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice for the others.
 
@@ -866,47 +920,65 @@ notice is sent off on the day after the dis-honour of the bill, if there be a po
 
 (0) Where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour, notwithstanding any miscarriage by the post office.
 
-**50.** Delay in giving notice of dishonour is excused where Excusesfor the delay is caused by circumstances beyond the control of E:.g:y the party giving notice, and not imputable to his default, misconduct or negligence. When the cause of delay ceases to operate the notice must be given with reasonable diligence.
+*Excusesfor E:.g:y*
+
+*the the*
+
+*to*
+
+**50.** Delay in giving notice of dishonour is excused where delay is caused by circumstances beyond the control of party giving notice, and not imputable to his default, misconduct or negligence. When the cause of delay ceases operate the notice must be given with reasonable diligence.
 
 Notice of dishonour is dispensed with-
 
-(U) when, after the exercise of reasonable diligence, notice, as required by this Act, cannot be given to or does not reach the drawer or indorser sought to be charged,
+when, after the exercise of reasonable diligence, (U)
+
+notice, as required by this Act, cannot be given to or does not reach the drawer or indorser sought to be charged,
 
 (b) by waiver, express or implied. Notice of dis-honour may be waived before the time of giving notice has arrived, or after the omission to give due notice;
 
 (c) as regards, the drawer in the following cases, namely: (1) where drawer and drawee are the same person; ( 2 ) where the drawee is a fictitious person or a person not having capacity to contract;
 
-(3) where the drawer is t’he person to whom the bill is presented for payment; (4) where the drawee or acceptor is as between himself and the drawer under no obligation to accept or pay the bill; (5) where the drawer has countermanded payment;
-
-(d) as regards the indorser in the following cases, namely: (1) where the drawee is a fictitious person or a person not having capacity to contract and the indorser was aware of the fact at the time he indorsed the bill; (2) where the indorser is the person to whom the bill is presented for payment;
+(3) where the drawer is t’he person to whom the bill is presented for payment; (4) where the drawee or acceptor is as between himself and the drawer under no obligation to accept or pay the bill; (5) where the drawer has countermanded payment; (d) as regards the indorser in the following cases, namely: (1) where the drawee is a fictitious person or a person not having capacity to contract and the indorser was aware of the fact at the time he indorsed the bill; (2) where the indorser is the person to whom the bill is presented for payment;
 
 (3) where the bill was accepted or made for his accommodation.
 
-Sl.-(l) Where an inland bill has been dishonoured it Noting or
+*Noting or protest of may, if bill.*
 
-protest of
+*sary to*
 
-may, if the holder think fit, be noted for non-acceptance or bill.
+Sl.-(l) Where an inland bill has been dishonoured it the holder think fit, be noted for non-acceptance or non-payment, as the case may be; but it shall not be neces-note or protest any such bill in order to preserve the recourse against the drawer or indorser.
 
-non-payment, as the case may be; but it shall not be necessary to note or protest any such bill in order to preserve the recourse against the drawer or indorser.
+*it to be must be a bill,*
 
-(2) Where a foreign bill, appearing on the face of it to be such, has been dishonoured by non-acceptance, it must be duly protested for non-acceptance, and where such a bill, which has not been previously dishonoured by nonacceptance, is dishonoured by non-payment, it must be duly protested for non-payment. If it be not so protested the drawer and indorsers are discharged. Where a bill does not appear on the face of it to be a foreign bill, protest thereof in case of dishonour is unnecessary.
+*drawer not thereof*
 
-(3) A bill which has been protested for non-acceptance may be subsequently protested for non-payment.
+(2) Where a foreign bill, appearing on the face of such, has been dishonoured by non-acceptance, it duly protested for non-acceptance, and where such which has not been previously dishonoured by nonacceptance, is dishonoured by non-payment, it must be duly protested for non-payment. If it be not so protested the and indorsers are discharged. Where a bill does appear on the face of it to be a foreign bill, protest in case of dishonour is unnecessary.
 
-(4) Subject to the provisions of this Act, when a bill is noted or protested it may be noted on the day of its dishonour and must be noted not later than the next succeeding business day. When a bill has been duly noted, the protest may be subsequently extended as of the date of the noting.
+*ance*
 
-(5) Where the acceptor of a bill becomes bankrupt or suspends payment before it matures, the holder may cause the bill to be protested for better security against the drawer and indorsers.
+(3) A bill which has been protested for non-accept-may be subsequently protested for non-payment.
+
+*bill is*
+
+*ceeding protest noting.*
+
+(4) Subject to the provisions of this Act, when a noted or protested it may be noted on the day of its dishonour and must be noted not later than the next suc-business day. When a bill has been duly noted, the may be subsequently extended as of the date of the
+
+*the bill and*
+
+(5) Where the acceptor of a bill becomes bankrupt or suspends payment before it matures, the holder may cause to be protested for better security against the drawer indorsers.
 
 (6) A bill must be protested at the place where it is dishonoured :
 
 Provided that-
 
-(U) when a bill is presented through the post office, and returned by the post dishonoured, it may be protested at the place to which it is returned, and on the day of its return if received during business hours, and if not received during business hours, then not later than the next business day;
+when a bill is presented through the post office, and (U)
 
-(b) when a bill, drawn payable at the place of business or residence of some person other than the drawee, has been dishonoured by non-acceptance, it must be protested for non-payment at the place where it is expressed to be payable, and no further presentment for payment to or demand on the drawee is necessary.
+returned by the post dishonoured, it may be protested at the place to which it is returned, and on the day of its return if received during business hours, and if not received during business hours, then not later than the next business day; (b) when a bill, drawn payable at the place of business or residence of some person other than the drawee, has been dishonoured by non-acceptance, it must be protested for non-payment at the place where it is expressed to be payable, and no further presentment for payment to or demand on the drawee is necessary.
 
-(7) A protest must contain a copy of the bill, and must be signed by the notary making it, and must speczy- (U) the person at whose request the bill is protested;
+*must be*
+
+(7) A protest must contain a copy of the bill, and signed by the notary making it, and must speczy-the person at whose request the bill is protested; (U)
 
 (b) the place and date of protest, the cause or reason for protesting the bill, the demand made and the
 
@@ -942,7 +1014,9 @@ of funds in the hands of the drawee available for the pay-drawee.
 
 ment thereof, and the drawee of a bill who does not accept as required by this Act is not liable on the instrument.
 
-**54.** The acceptor of a bill, by accepting it-Liability of acaeptor. (U) engages that he will pay it according to the tenor of his acceptance;
+**54.** The acceptor of a bill, by accepting it-Liability of acaeptor. engages that he will pay it according to the tenor (U)
+
+of his acceptance;
 
 (6) is precluded from denying to a holder in due course
 
@@ -952,15 +1026,15 @@ ment thereof, and the drawee of a bill who does not accept as required by this A
 
 (iii) in the case of a bill payable to the order of a third person, the existence of the payee and his then capacity to indorse, but not the genuineness or validity of his indorsement.
 
-**55.** The drawer of a bill by drawing it-Liability of drawer or
-
-(a) engages that on due presentment it shall be indorser. accepted and paid according to its tenor, and that if it be dishonoured he will compensate the holder, or any indorser who is compelled to pay it:
+**55.** The drawer of a bill by drawing it-Liability of drawer or (a) engages that on due presentment it shall be indorser. accepted and paid according to its tenor, and that if it be dishonoured he will compensate the holder, or any indorser who is compelled to pay it:
 
 Provided that the requisite proceedings on dishonour be duly taken;
 
 (6) is precluded from denying to a holder in due course the existence of the payee, and his then capacity to indorse.
 
-The indorser of a bill by indorsing it-
+*The*
+
+indorser of a bill by indorsing it-
 
 (i) engages that on due presentment it shall be accepted and paid according to its tenor, and that if it be dishonoured he will compensate the holder, or a subsequent indorser who is compelled to pay it :
 
@@ -1002,13 +1076,9 @@ In the case of a bill which has been dishonoured abroad, in lieu of the above da
 
 Where by this Act interest may be recovered as damages, such interest may, if justice require it, be withheld wholly or in part, and where a bill i s expressed to be payable with interest at a given rate, interest as damages may or may not be given at the same rate as interest proper.
 
-*by delively*
+*Transferor by delively and transferee.*
 
-**58.** Where the holder of a bill payable to bearer negotiates Transferor it by delivery without indorsing it, he is called a “transferor and
-
-*transferee.*
-
-by delivery”.
+**58.** Where the holder of a bill payable to bearer negotiates it by delivery without indorsing it, he is called a “transferor by delivery”.
 
 A transferor by delivery is not liable on the instrument.
 
@@ -1016,9 +1086,9 @@ A transferor by delivery who negotiates a bill thereby warrants to his immediate
 
 Discharge of Bill
 
-*in due course.*
+*Payment in due course.*
 
-**59.** A bill is discharged by payment in due course by or Payment on behalf of the drawee or acceptor.
+**59.** A bill is discharged by payment in due course by or on behalf of the drawee or acceptor.
 
 “Payment in due course” means payment made at or after the maturity of the bill to the holder thereof in good faith, and without notice that his title to the bill is defective. Subject to the provisions hereinafter contained, when a bill is paid by the drawer or an indorser it is not dis-charged; but-
 
@@ -1068,7 +1138,11 @@ would have had a right of recourse against the party whose signature is cancelle
 
 A cancellation made unintentionally, or under a mistake, or without the authority of the holder, is inoperative; but where a bill, or any signature thereon, appears to have been cancelled, the burden of proof lies on the party who alleges that the cancellation was made unintentionally, or under a mistake, or without authority.
 
-**64.** Where a bill or acceptance is materially altered with- Ateration out the assent of all parties liable on the bill, the bill is OfbiU. avoided except as against a party who has himself made, authorized or assented to, the alteration, and subsequent indorsers :
+*Ateration*
+
+*OfbiU.*
+
+**64.** Where a bill or acceptance is materially altered without the assent of all parties liable on the bill, the bill is avoided except as against a party who has himself made, authorized or assented to, the alteration, and subsequent indorsers :
 
 Provided that where a bill has been materially altered, but the alteration is not apparent, and the bill is in the hands of a holder in due course, such holder may avail himself of the bill as if it had not been altered, and may enforce payment of it according to its original tenor.
 
@@ -1076,9 +1150,11 @@ In particular the following alterations are material, namely, any alteration of 
 
 Acceptance and Payment for Honour
 
-*CP~~~CC*
+*A for C C honour CP~~~CC*
 
-**65.** Where a bill of exchange has been protested for A for C C honour dishonour by non-acceptance, or protested for better security, and is not overdue, any person, not being a proet. party already liable thereon, may, with the consent of the holder, intervene and accept the bill supra protest, for the
+*proet.*
+
+**65.** Where a bill of exchange has been protested for dishonour by non-acceptance, or protested for better security, and is not overdue, any person, not being a party already liable thereon, may, with the consent of the holder, intervene and accept the bill supra protest, for the
 
 honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
 
@@ -1118,7 +1194,7 @@ Delay in presentment or non-presentment is excused by any circumstance which wou
 
 When a bill of exchange is dishonoured by the acceptor for honour it must be protested for non-payment by him.
 
-**68.** Where a bill has been protested for non-payment, Payment any person may intervene and pay it s u p protest for the for honour lupra honour of any party liable thereon, or for the honour of the protest. person for whose account the bill is drawn.
+**68.** Where a bill has been protested for non-payment, Payment for honour any person may intervene and pay it s u p protest for the lupra honour of any party liable thereon, or for the honour of the protest. person for whose account the bill is drawn.
 
 Where two or more persons offer to pay a bill for the honour of different parties, the person whose payment will discharge most parties to the bill shall have the preference.
 
@@ -1172,11 +1248,11 @@ When the acceptor of a bill drawn in a set pays it without requiring the part be
 
 Subject to the preceding rules, where any one part of a bill drawn in a set is discharged by payment or otherwise, the whole bill is discharged.
 
-*Rules where laws wn-*
+*Rules where laws wn- 4icr.*
 
 Conflict of Laws
 
-**72.** Where a bill drawn in one country is negotiated, 4icr. accepted or payable, in another, the rights, duties and liabilities, of the parties thereto are determined as follows-
+**72.** Where a bill drawn in one country is negotiated, accepted or payable, in another, the rights, duties and liabilities, of the parties thereto are determined as follows-
 
 The validity of a bill as regards requisites in form is determined by the law of the place of issue, and the validity, as regards requisites in form of the supervening contract, such as acceptance or indorsement, or acceptance supra protest, is determined by the law of the place where such contract was made :
 
@@ -1202,17 +1278,37 @@ Where a bill is drawn in one country and is payable in another, the due date the
 
 ## PART III. Cheques on a Banker
 
-**73.** A cheque is a bill of exchange drawn on a banker Ch-defined. payable on demand.
+*Ch-defined.*
 
-Except as otherwise provided in this Part, and in section U/l%s 93, the provisions of this Act applicable to a bill of ex- s.z. change payable on demand apply to a cheque.
+**73.** A cheque is a bill of exchange drawn on a banker payable on demand.
 
-**74.** Subject to the provisions of this Act-Presentment of where a cheque is not presented for payment within a chwwfor PaYmcn~ reasonable time of its issue, and the drawer or the person on whose account it is drawn had the right, at the time of such presentment, as between him and the banker, to have the cheque paid, and suffers actual damage through the delay, he is discharged to the extent of such damage, that is to say, to the extent to which such drawer or person is a creditor of such banker to a larger amount than he would have been had such cheque been paid;
+*U/l%s*
 
-in determining what is a reasonable time, regard shall be had to the nature of the instrument, the usage of trade and of bankers, and the facts of the particular case;
+*93, the*
+
+*s.z.*
+
+*change*
+
+Except as otherwise provided in this Part, and in section provisions of this Act applicable to a bill of ex-payable on demand apply to a cheque.
+
+*Presentment of chwwfor PaYmcn~*
+
+**74.** Subject to the provisions of this Act-
+
+where a cheque is not presented for payment within a reasonable time of its issue, and the drawer or the person on whose account it is drawn had the right, at the time of such presentment, as between him and the banker, to have the cheque paid, and suffers actual damage through the delay, he is discharged to the extent of such damage, that is to say, to the extent to which such drawer or person is a creditor of such banker to a larger amount than he would have been had such cheque been paid;
+
+*in*
+
+determining what is a reasonable time, regard shall be had to the nature of the instrument, the usage of trade and of bankers, and the facts of the particular case;
 
 the holder of such cheque, as to which such drawer or person is discharged, shall be a creditor, in lieu of such drawer or person, of such banker, to the extent of such discharge, and entitled to recover the amount from him.
 
-**75.** The duty and authority of a banker to pay a cheque Revocation of banker's drawn on him by his customer are determined by-
+*Revocation of banker's*
+
+*drawn*
+
+**75.** The duty and authority of a banker to pay a cheque on him by his customer are determined by-
 
 (1) countermand of payment;
 
@@ -1268,7 +1364,9 @@ inclupion of this page ia iuthorivod by LN. 480119731
 
 obliterate or, except as authorized by this Act, to add to or alter the crossing.
 
-79.41) where a cheque is crossed specially to more than Dutlesof one banker, except when crossed to an agent for collection, banker crowed as to
+*Dutlesof crowed as to banker*
+
+79.41) where a cheque is crossed specially to more than one banker, except when crossed to an agent for collection,
 
 being a banker, the banker on whom it is drawn shall refuse payment thereof.
 
@@ -1276,7 +1374,11 @@ being a banker, the banker on whom it is drawn shall refuse payment thereof.
 
 Provided that where a cheque is presented for payment which does not at the time of presentment appear to be crossed, or to have had a crossing which has been obliter-ated, or to have been added to or altered otherwise than as authorized by this Act, the banker paying the cheque in good faith, and without negligence, shall not be responsible or incur any liability, nor shall the payment be questioned by reason of the cheque having been crossed, or of the crossing having been obliterated, or having been added to or altered otherwise than as authorized by this Act, and of payment having been made otherwise than to a banker or to the banker to whom the cheque is or was crossed, or to his agent for collection being a banker as the case may be.
 
-**80.** Where the banker on whom a crossed cheque is Protection drawn, in good faith, and without negligence, pays it, if to banter anddrawer crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection c r o d . being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights, and be
+*Protection banter to anddrawer*
+
+*c r o d .*
+
+**80.** Where the banker on whom a crossed cheque is drawn, in good faith, and without negligence, pays it, if crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights, and be
 
 placed in the same position, as if payment of the cheque had been made to the true owner thereof.
 
@@ -1308,19 +1410,27 @@ in writing, made by one person to another, signed by the maker, engaging to pay,
 
 (4) A note which is, or on the face of it purports to be, both made and payable within this Island is an inland note. Any other note is a foreign note.
 
-**84.** A promissory note is inchoate and incomplete until filivcry necessary delivery thereof to the payee or bearer.
+*filivcry necessary*
 
-8 5 4 1 ) A promissory note may be made by two or more JOOFP“ makers, and they may be liable thereon jointly, or jointly not-. and severally, according to its tenor.
+**84.** A promissory note is inchoate and incomplete until delivery thereof to the payee or bearer.
+
+*JOOFP“ not-.*
+
+8 5 4 1 ) A promissory note may be made by two or more makers, and they may be liable thereon jointly, or jointly and severally, according to its tenor.
 
 (2) Where a note runs “I promise to pay”, and is signed by two or more persons, it is deemed to be their joint and several note.
 
-8 6 4 1 ) Where a note payable on demand has been Notepay able on indorsed, it must be presented for payment within a reason- demand able time of the indorsement. If it be not so presented the indorser is discharged.
+*Notepay able on demand*
+
+8 6 4 1 ) Where a note payable on demand has been indorsed, it must be presented for payment within a reasonable time of the indorsement. If it be not so presented the indorser is discharged.
 
 (2) In determining what is a reasonable time, regard shall be had to the nature of the instrument, the usage of trade, and the facts of the particular case.
 
 (3) Where a note payable on demand is negotiated, it is not deemed to be overdue, for the purpose of affecting the holder with defects of title of which he had no notice, by reason that it appears that a reasonable time for presenting it for payment has elapsed since its issue.
 
-\8741) Where a promissory note is in the body of it hescat-men1 of made payable at a particular place, it must be presented for notefor payment at that place in order to render the maker liable. payment In any other case, presentment for payment is not necessary in order to render the maker liable.
+*hescat-men1 of notefor payment*
+
+\8741) Where a promissory note is in the body of it made payable at a particular place, it must be presented for payment at that place in order to render the maker liable. In any other case, presentment for payment is not necessary in order to render the maker liable.
 
 (2) Presentment for payment is necessary in order to render the indorser of a note liable.
 
@@ -1376,9 +1486,9 @@ that he should sign it with his own hand, but it is sufficient if his signature 
 
 But nothing in this section shall be construed as requiring the bill or note of a corporation to be under seal.
 
-*lion t,me.*
+*Comwuh-lion of t,me.*
 
-**92.** Where, by this Act, the time limited for doing any Comwuh-act or thing is less than three days, in reckoning time, non- of business days are excluded.
+**92.** Where, by this Act, the time limited for doing any act or thing is less than three days, in reckoning time, nonbusiness days are excluded.
 
 “Non-business days” for the purposes of this Act mean Sunday, Good Friday, Christmas Day or any holiday.
 
@@ -1390,7 +1500,9 @@ Any other day is a business day.
 
 2511968
 
-(a) if the time for doing any act or thing expires or s.3. falls on a Saturday, that time is deemed to expire or fall, as the case may be, on the next succeeding business day;
+*s.3.*
+
+(a) if the time for doing any act or thing expires or falls on a Saturday, that time is deemed to expire or fall, as the case may be, on the next succeeding business day;
 
 (b) a bill or note payable on demand cannot be duly presented for acceptance or payment on a Saturday; and
 
@@ -1440,7 +1552,9 @@ Savings.
 
 (3) Nothing in this Act shall dect-
 
-( a ) the provisions of the Stamp Duty Act, or any enactment amending the same, or any law or enactment for the time being in force relating to the Revenue;
+*( a )*
+
+the provisions of the Stamp Duty Act, or any enactment amending the same, or any law or enactment for the time being in force relating to the Revenue;
 
 (b) the provisions of the Companies Act or any enactment amending it, or any law relating to Joint Stock Banks or Companies.
 

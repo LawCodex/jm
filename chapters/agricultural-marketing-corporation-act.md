@@ -106,17 +106,21 @@ porarily as chairman;
 
 ## PART II. Eszublishment and powers of the Corporation
 
-**3.** \-(1) There shall be established for the purposes of this Ei;pE;h-Act a body to be called the Agricultural Marketing Corpo- Agricultural Marketing ration.
+**3.** \-(1) There shall be established for the purposes of this Ei;pE;h-Act a body to be called the Agricultural Marketing Corpo-
+
+Agricultural Marketing ration.
 
 Corporation.
 
-(2) The provisions of the Schedule shall have effect Schedule. as to the constitution of the Corporation and otherwise in relation thereto.
+*as*
 
-The Corporation shall have power to establish ~ ~ ~ ; ;
+(2) The provisions of the Schedule shall have effect Schedule. to the constitution of the Corporation and otherwise in relation thereto.
 
-**4.** (1)
+~ ~ ~ ; ;
 
-and maintain an efficient system of marketing for agricul- tion.
+**4.** (1) The Corporation shall have power to establish and maintain an efficient system of marketing for agricul-
+
+tion.
 
 tural produce by securing the most favourable arrange-
 
@@ -158,17 +162,25 @@ uf r : v m x s .
 
 the purposes authorized by this Act or by any other enactment relating to the functions of the Corporation.
 
-8 - 4 1 ) Subject to the provisions of subsection (2) the Borrowing Corporation may borrow sums required by it for meeting powers. any of its obligations or discharging any of its functions.
+*Borrowing powers.*
+
+8 - 4 1 ) Subject to the provisions of subsection (2) the Corporation may borrow sums required by it for meeting any of its obligations or discharging any of its functions.
 
 (2) The power of the Corporation to borrow shall be exercisable only with the approval of the Minister after consultation with the Minister responsible for finance as to the amount, as to the sources of the borrowing and as to the terms on which the borrowing may be effected. An approval given in any respect for the purposes of this subsection may be either general or limited to a particular borrowing or otherwise, and may be either unconditional or subject to conditions.
 
-**9.** (1) The Minister may from time to t h e make Advances, advances and grants to the Corporation out of moneys grants and waranlee provided by Parliament for the purpose. pf borrow-Ulp.
+*Advances, grants and waranlee pf borrow-Ulp.*
+
+**9.** (1) The Minister may from time to t h e make advances and grants to the Corporation out of moneys provided by Parliament for the purpose.
 
 (2) With the approval of the House of Representa-tives, the Minister responsible for finance may guarantee, in such manner and on such conditions as he may think fit, the repayment of the principal and the payment of interest on any authorized borrowings of the Corporation made otherwise than by way of advance under subsection (1).
 
 (3) Where the Minister responsible for finance is satisfied that there has been default in the repayment of any principal moneys or in the payment of interest guaranteed under this section, he shall direct the repayment, or, as the case may be, the payment, out of the Consolidated Fund and assets of the Island of the amount in respect of which there has been such default.
 
-**10.** The Corporation shall make to the Accountant- Repayment General, at such times and in such manner as the Minister of, and intHzston, may direct, payments of such amounts as may be so di- ;:Tgzs rected in or towards repayment of advances made to the issuedto Corporation under section 9, and of any sums issued in : ; &tees.
+*Repayment and of, intHzston, ;:Tgzs issuedto*
+
+*: ; &tees.*
+
+**10.** The Corporation shall make to the Accountant-General, at such times and in such manner as the Minister may direct, payments of such amounts as may be so directed in or towards repayment of advances made to the Corporation under section 9, and of any sums issued in
 
 P
 
@@ -192,11 +204,9 @@ Provided that except with the prior approval of the Minister after consultation 
 
 *AMU~*
 
-13.41) The Corporation shall prepare and present to
-
 *Estimates.*
 
-the Minister within three months after the expiration of each financial year of the Corporation a report-
+13.41) The Corporation shall prepare and present to the Minister within three months after the expiration of each financial year of the Corporation a report-
 
 (a) dealing generally with the activities of the Corporation during its last preceding financial year;
 
@@ -210,19 +220,17 @@ the Minister within three months after the expiration of each financial year of 
 
 (4) The Corporation shall, not less than three months (or such shorter period as the Minister may in any particular case allow) before the expiration of each financial year of the Corporation, submit to the Minister for approval its estimates of revenue and expenditure in respect of its next succeeding financial year.
 
-1 4 . 4 1 ) The income of the Corporation shall be exempt Excmption
+*Excmption from income tax and stamp duty.*
 
-*from income tax and stamp duty.*
-
-from income tax.
+1 4 . 4 1 ) The income of the Corporation shall be exempt from income tax.
 
 (2) All instruments executed by or on behalf of the Corporation shall be exempt from stamp duty.
 
 ## PART IV. Transfer of assets and liabilities
 
-*assets and*
+*Transferof assets and liabilities.*
 
-**15.** Upon a day to be appointed by the Minister by notice Transferof in the Gazetfe’ (hereafter in this Act referred to as “the liabilities. vesting day”) by virtue of this section and without further assurance all such assets and liabilities as may be specified in the notice aforesaid, being-
+**15.** Upon a day to be appointed by the Minister by notice in the Gazetfe’ (hereafter in this Act referred to as “the vesting day”) by virtue of this section and without further assurance all such assets and liabilities as may be specified in the notice aforesaid, being-
 
 \*By legal notice No. 325/1963. the 1st December, 1963. was appointed. - .~
 
@@ -282,21 +290,13 @@ ities and other retiring benefits in respect of the servants of the Corporation 
 
 (2) The Corporation shall also have power to make regulations relating to the appointment, dismissal, discipline, hours of employment, pay and leave of its servants.
 
-1 9 . 4 ) Subject to the provisions of this section the Cor- Transferof
+*Transferof to 0fEcers theCor-Pration. .*
 
-*to theCor-*
-
-poration may on the vesting day accept the services of any 0fEcers person who immediately before that day was employed in Pration.
-
-*.*
-
-the Marketing Department as the holder of a post declared to be pensionable or non-pensionable within the meaning of the Pensions Act and such persons shall be deemed to be seconded from the service of the Government to the service of the Corporation; and any person whose services are so accepted is in this section referred to as an “officer”.
+1 9 . 4 ) Subject to the provisions of this section the Corporation may on the vesting day accept the services of any person who immediately before that day was employed in the Marketing Department as the holder of a post declared to be pensionable or non-pensionable within the meaning of the Pensions Act and such persons shall be deemed to be seconded from the service of the Government to the service of the Corporation; and any person whose services are so accepted is in this section referred to as an “officer”.
 
 (2) The Governor-General may at any time determine the secondment of an officer.
 
-(3) The Corporation shall within twelve months from the vesting day give to every officer then in its employment by virtue of subsection (1) notice in writing-
-
-(U) offering him employment on such terms as may be agreed upon between the Minister and the Corporation; or
+(3) The Corporation shall within twelve months from the vesting day give to every officer then in its employment by virtue of subsection (1) notice in writing- (U) offering him employment on such terms as may be agreed upon between the Minister and the Corporation; or
 
 ( b ) of the intention of the Corporation to request the Governor-General to determine his secondment, and the secondment of every officer shall unless sooner determined cease upon the expiration of eighteen months from the vesting day.
 
@@ -322,7 +322,9 @@ in accordance with the rule laid down in section 8 of the Pensions (Civil Servic
 
 (8) In the exercise of any powers conferred upon him by this section, the Governor-General shall act on the advice of the Public Service Commission.
 
-**20.** Subject to the provisions of section 21 the Corpora- Transfer of other tion may on the vesting day employ in its service, on such enlpioyeer terms and conditions as the Corporation may determine, to the Corpora. any person (other than an officer within the meaning of tion. section 19) in the employment of the Government and serv-
+**20.** Subject to the provisions of section 21 the Corpora-
+
+Transfer of other tion may on the vesting day employ in its service, on such enlpioyeer terms and conditions as the Corporation may determine, to the Corpora. any person (other than an officer within the meaning of tion. section 19) in the employment of the Government and serv-
 
 ing in the Marketing Department immediately before the vesting day, and every person so employed by the Corpora-
 
@@ -330,7 +332,9 @@ tion shall thereupon cease to be employed by the Govem-
 
 ment.
 
-**21.** (1) Where any person who, having been employed ~etimmt, by the Corporation in accordance with the provisions of etc., Of rransferred section 20, retires from or dies in the service of the Cor- mP1oYces poration in circumstances in which, if his service with the Corporation had been service with the Government he or his dependants or legal personal representatives would have been eligible for the grant of a pension, gratuity or other allowance, the Corporation may, with the concur-
+**21.** (1) Where any person who, having been employed ~etimmt, etc., by the Corporation in accordance with the provisions of Of rransferred section 20, retires from or dies in the service of the Cor-
+
+mP1oYces poration in circumstances in which, if his service with the Corporation had been service with the Government he or his dependants or legal personal representatives would have been eligible for the grant of a pension, gratuity or other allowance, the Corporation may, with the concur-
 
 rence of the Minister, grant to him or his dependants or legal personal representatives a pension, gratuity or other allowance, not exceeding that for which he or his depen-
 
@@ -350,35 +354,47 @@ of service of the employee with the Corporation bears to the total term of his s
 
 ## SCHEDULE (Section 3)
 
-**1.** The Corporation shall consist of such number of persons, not Constitution ration. being less than three nor more than eleven, as the Minister may from time to time determine.
+*Constitution ration. 121 1976 s. 2. Appoinl. mcntof members.*
 
-121 1976 s. 2.
+**1.** The Corporation shall consist of such number of persons, not being less than three nor more than eleven, as the Minister may from time to time determine.
 
-**2.** The members of the Corporation shall be appointed by the Appoinl. Minister by instrument in writing and. subject to the provisions of this mcntof Schedule, shall hold office for such period not exceeding three years, members. as the Minister may direct. but shall be eligible for reappointment.
+**2.** The members of the Corporation shall be appointed by the Minister by instrument in writing and. subject to the provisions of this Schedule, shall hold office for such period not exceeding three years, as the Minister may direct. but shall be eligible for reappointment.
 
-**3.** A person shall be disqualified for being appointed or being a Disqualifi-member of the corporation ~ 8 0 long as he is a Senator or a Member cation. of Parliament.
+*Disqualification.*
 
-**4.** The Minister shall appint one of the members of the Corporation Chairman. to be the chairman thereof.
+**3.** A person shall be disqualified for being appointed or being a member of the corporation ~ 8 0 long as he is a Senator or a Member of Parliament.
 
-**5.** The Minister m y grant to any member of the Corporation leave ~ a a v e o f of absence in respect of hi8 duties as a member of the Corporatim absence.
+*Chairman.*
 
-**6.** If the chairman or any other member of the Corporation is absent ~ ~ t i n g or unable to act, the Minister may appoint any person to act in the appoint-ments. place of the chairman or such other member.
+**4.** The Minister shall appint one of the members of the Corporation to be the chairman thereof.
 
-**7.** (1) Any member of the Corporation, other than the chairman, Rsignn-may at any time resign his oEce by instrument in writing addressed to iions. [he Minister and transmitted through the chairman, and from the date of receipt by the Minister of such instrument, such member shall cease to he a member of the Corporation.
+*~ a a v e o f absence.*
+
+**5.** The Minister m y grant to any member of the Corporation leave of absence in respect of hi8 duties as a member of the Corporatim
+
+*~ ~ t i n g appoint-ments.*
+
+**6.** If the chairman or any other member of the Corporation is absent or unable to act, the Minister may appoint any person to act in the place of the chairman or such other member.
+
+*Rsignn-iions.*
+
+**7.** (1) Any member of the Corporation, other than the chairman, may at any time resign his oEce by instrument in writing addressed to [he Minister and transmitted through the chairman, and from the date of receipt by the Minister of such instrument, such member shall cease to he a member of the Corporation.
 
 (2) The chairman may at any time resign his office by instrument in writing addressed to the Minister and such resignation shall take effect as from the date of the receipt by the Minister of such instrument.
 
-**8.** The Minister may at any time revoke the appointment of any Rcvocation member of the Corporaiion if he thinks it expedient so to do.
+*Rcvocation of appoint-ments.*
 
-of appoint-ments.
+**8.** The Minister may at any time revoke the appointment of any member of the Corporaiion if he thinks it expedient so to do.
 
-**9.** The names of all members of the Corporation as first constituted Gazetting and every change in the membership thereof shall be published in the Gazette.
+*Gazetting*
 
-**10.** (1) The Corporation. shall be a body corporate having perpetual Inncorpora-succession and a common seal with power to acquire, hold and, subject !ion. to the provisions of section 16 of this Act, dispose of land and other properly of whatever kind.
+**9.** The names of all members of the Corporation as first constituted and every change in the membership thereof shall be published in the Gazette.
 
-(2) The seal of the Corporation shall be kept' in the custody of the chairman or the secretary and shall be affixed to instruments pur-
+*Inncorpora- !ion.*
 
-suant to a resolution of the Corporation in the presence of the chairman or any other member of the Corporation and the secretary.
+**10.** (1) The Corporation. shall be a body corporate having perpetual succession and a common seal with power to acquire, hold and, subject to the provisions of section 16 of this Act, dispose of land and other properly of whatever kind.
+
+(2) The seal of the Corporation shall be kept' in the custody of the chairman or the secretary and shall be affixed to instruments pursuant to a resolution of the Corporation in the presence of the chairman or any other member of the Corporation and the secretary.
 
 F
 
@@ -420,10 +436,14 @@ Of tercsted in a contract made or p r o p o d to be made by the Corporation-
 
 (b) shall not take part in any deliberation or decision of the Cor. poration with respect to that wntract.
 
-**13.** (,I) No member of the Corporation shall be personally liable for Protection any act or default of the Corporation done or omitted to be done in ofmembers. good faith in the course of the operation of the Corporation.
+*Protection ofmembers.*
+
+**13.** (,I) No member of the Corporation shall be personally liable for any act or default of the Corporation done or omitted to be done in good faith in the course of the operation of the Corporation.
 
 (2) Where any member of the Corporation is exempt from liability by reason only of the provisions of this paragraph the Corporation shall be liable to the extent that it would be if the member was a sewant or agent of the Corporation.
 
-**14.** There shall be paid from the funds of the Corporation to the Remunera-chairman and other members of the Corporation such remuneration, tionof whether by way of honorarium, salary or fees, and such allowanm as the Minister may determine.
+*Remunera-tionof*
+
+**14.** There shall be paid from the funds of the Corporation to the chairman and other members of the Corporation such remuneration, whether by way of honorarium, salary or fees, and such allowanm as the Minister may determine.
 
 __

@@ -16,11 +16,19 @@ retrieved: 2026-10-13
 
 ### BODIES CORPORATE (JOINT TENANCY)
 
-THE BODIES CORPORATE (JOINT TENANCY) ACT IAW 23 of 1955. [81h September, 1955.1
+*IAW 23 of 1955.*
 
-**1.** This Act may be cited as the Bodies Corporate (Joint shorttitle. Tenancy) Act.
+### THE BODIES CORPORATE (JOINT TENANCY) ACT
 
-2 . 4 1 ) A body corporate shall be capable of acquiring powerof and holding any real or personal property in joint tenancy corporstions in the same manner as if it were an individual; and where P as " joint P~~Y a body corporate and an individual, or two or more bodies tenan? corporate, become entitled to any such property under cir-cumstances or by virtue of any instrument which would, if the body corporate had been an individual, have c r e a w a joint tenancy, they shall be entitled to the property as joint tenants :
+[81h September, 1955.1
+
+*shorttitle.*
+
+**1.** This Act may be cited as the Bodies Corporate (Joint Tenancy) Act.
+
+*powerof corporstions P as " joint P~~Y tenan?*
+
+2 . 4 1 ) A body corporate shall be capable of acquiring and holding any real or personal property in joint tenancy in the same manner as if it were an individual; and where a body corporate and an individual, or two or more bodies corporate, become entitled to any such property under cir-cumstances or by virtue of any instrument which would, if the body corporate had been an individual, have c r e a w a joint tenancy, they shall be entitled to the property as joint tenants :
 
 Provided that the acquisition and holding of property by a body corporate in joint tenancy shall be subject to the like conditions and restrictions as attach to the acquisition and holding of property by a body corporate in severalty.
 

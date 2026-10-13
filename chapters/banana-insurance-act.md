@@ -108,7 +108,9 @@ PART N. Financial Provisions
 
 ## PART 1. Introductory
 
-**1.** This Act may be cited as the Banana Insurance Act. Shorttitle.
+*Shorttitle.*
+
+**1.** This Act may be cited as the Banana Insurance Act.
 
 *Intcrpreh-tion.*
 
@@ -128,7 +130,9 @@ PART N. Financial Provisions
 
 “banana grower” means any person for the time being in possession or control of any banana cultivation;
 
-“the Board” means the Banana Board established in ;8q,9a accordance with the Banana Board Act;
+*;8q,9a*
+
+“the Board” means the Banana Board established in accordance with the Banana Board Act;
 
 “cess” means the cess imposed under section 21;
 
@@ -162,13 +166,19 @@ under this Act, in respect of the assessed acreage of his banana cultivation, ag
 
 S. 3(a). units of bananas grown upon such cultivation and expor-
 
-ted or deemed to have been exported or sold for export 1211962 during the preceding insurance year by the declared con- s. 3(4. stant.
+*s. 3(4.*
+
+ted or deemed to have been exported or sold for export during the preceding insurance year by the declared constant.
 
 (3) For the purposes of subsection (2), the Minister may, after considering any recommendation of the Board, declare the figure that shall be the declared constant in respect of any insurance year, by order made prior to the commencement of the insurance year to which such order relates, and may, in like manner, fix the weight of bananas that shall be an insurance weight unit; so, however, that any figure declared or weight fixed as aforesaid shall continue to be the declared constant or the insurance weight unit unless and until varied by a subsequent order.
 
-**4.** Every banana grower who in relation to any affected QualiEcation cultivation complies both with the general conditions for for statutory benefit. benefit and with the special condition for statutory benefit shall be qualified to receive statutory benefit in respect of damage occasioned to such cultivation in any insurance year by any windstorm.
+*QualiEcation for statutory benefit.*
 
-**5.** (1) Every banana grower who, within a period com- Conbactual mencing fourteen months before the beginning of an insur- inaurancc. ance year and ending on the 31st May in such insurance year, has either-
+**4.** Every banana grower who in relation to any affected cultivation complies both with the general conditions for benefit and with the special condition for statutory benefit shall be qualified to receive statutory benefit in respect of damage occasioned to such cultivation in any insurance year by any windstorm.
+
+*Conbactual inaurancc.*
+
+**5.** (1) Every banana grower who, within a period com-mencing fourteen months before the beginning of an insurance year and ending on the 31st May in such insurance year, has either-
 
 (a) replanted in bananas the whole or any part of his banana cultivation; or
 
@@ -196,13 +206,19 @@ any acreage in respect of which he desires to effect contractual insurance under
 
 Provided that no contractual insurance may be effected in respect of any acre on which there is planted less than three hundred banana trees.
 
-(4) The premium payable shall be such sum for each acre in respect of which contractual insurance is desired as 311971 may be prescribed by regulations under section 31, so, S . z ( o ) - ( b ) . however, that the regulations may prescribe additional premiums in respect of the payment of which a prescribed increase in the indemnity percentage of the declared unit of benefit may be obtained.
+*S . z ( o ) - ( b ) .*
+
+(4) The premium payable shall be such sum for each acre in respect of which contractual insurance is desired as 311971 may be prescribed by regulations under section 31, so, however, that the regulations may prescribe additional premiums in respect of the payment of which a prescribed increase in the indemnity percentage of the declared unit of benefit may be obtained.
 
 (5) No contractual insurance may be effected to cover any loss consequent upon a windstorm which occurred prior to the receipt by the Board of the application and the necessary premium.
 
-(6) The Minister may, after considering any recommendation of the Board, in respect of any insurance year, by order vary-
+*by*
 
-(a) the commencing and ending dates of the period referred to in subsection (1);
+(6) The Minister may, after considering any recommendation of the Board, in respect of any insurance year, order vary-
+
+the commencing and ending dates of the period (a)
+
+referred to in subsection (1);
 
 (6) the date and the minimum number of banana trees to an acre mentioned in subsection (3);
 
@@ -210,7 +226,9 @@ Provided that no contractual insurance may be effected in respect of any acre on
 
 (4) in respect of each acre :
 
-Provided that any order made under this subsection shall be made prior to the commencement of the insurance year in respect to which such order relates.
+*be in*
+
+Provided that any order made under this subsection shall made prior to the commencement of the insurance year respect to which such order relates.
 
 *Qualification for contractual benefit.*
 
@@ -238,15 +256,27 @@ Provided that any order made under this subsection shall be made prior to the co
 
 (b) in the case of an insured person who has previously received benefit, satisfy the Board that the whole or such part of any benefit so previously received by him as the Board may have specified was expended in the restoration, rehabilitation or extension of his banana cultivation.
 
-**10.** The special condition for the receipt of statutory specidcon-dition for benefit by an insured person is that he proves that he or ltatutory some other person from whom he derived title to the affected hne*t cultivation exported or sold for export or is deemed to have exported during the previous insurance year bananas grown upon such cultivation.
+*specidcon-dition for ltatutory*
 
-**11.** (1) Every qualified person shall receive in relation Amountof benefit. to any affected cultivation-
+*some*
+
+*hne\*t*
+
+*upon*
+
+**10.** The special condition for the receipt of statutory benefit by an insured person is that he proves that he or other person from whom he derived title to the affected cultivation exported or sold for export or is deemed to have exported during the previous insurance year bananas grown such cultivation.
+
+*Amountof benefit.*
+
+**11.** (1) Every qualified person shall receive in relation to any affected cultivation-
 
 (a) by way of statutory benefit, for every acre of the assessed acreage of such cultivation, a sum of money equivalent to the indemnity percentage of the declared unit of benefit;
 
-(b) by way of contractual benefit, for every acre in respect of which he has effected contractual insurance, a sum of money equivalent to the indemnity percentage of the declared unit of benefit, together with any prescribed increase therein to which he 3119’11 may be entitled by virtue of the payment of additional s. 3 w . (6). premiums referred to in subsection (4) of section 5.
+*3119’11 s. 3 w . (6).*
 
-W
+(b) by way of contractual benefit, for every acre in respect of which he has effected contractual insurance, a sum of money equivalent to the indemnity percentage of the declared unit of benefit, together with any prescribed increase therein to which he may be entitled by virtue of the payment of additional premiums referred to in subsection (4) of section 5.
+
+*W*
 
 (2) For the purposes of this section-
 
@@ -254,29 +284,29 @@ W
 
 (b) the Minister may in any insurance year, after considering any recommendation of the Board, vary the declared unit of benefit and declare an amount to be the declared unit of benefit for such insurance year.
 
-**12.** (1) The indemnity percentage in relation to any Determina-
+*Determination of indemnity percentage. the*
 
-tion of in-
-
-affected cultivation shall be determined by deducting from demnity
-
-percentage.
-
-the assessed percentage of loss in relation to such cultivation the statutory deductible percentage.
+**12.** (1) The indemnity percentage in relation to any affected cultivation shall be determined by deducting from assessed percentage of loss in relation to such cultivation the statutory deductible percentage.
 
 (2) For the purposes of this section-
 
-(a) unless varied in relation to any insurance year as is in this subsection provided, the statutory deductible percentage shall be twenty per cent of the entire risk;
+unless varied in relation to any insurance year as (a)
+
+is in this subsection provided, the statutory deductible percentage shall be twenty per cent of the entire risk;
 
 (b) the Minister may in any insurance year, after considering any recommendation of the Board, vary the statutory deductible percentage and declare the statutory deductible percentage for such year.
 
-13.41) Subject to the provisions of subsection (2), every Payment of
+*Payment of benefit.*
 
-benefit.
+*the*
 
-insured person who is qualified to receive any statutory benefit under section 4 or any contractual benefit under section 6 shall be paid such benefit so soon as may be after the Board have computed the amount of benefit payable to him.
+13.41) Subject to the provisions of subsection (2), every insured person who is qualified to receive any statutory benefit under section 4 or any contractual benefit under section 6 shall be paid such benefit so soon as may be after Board have computed the amount of benefit payable to him.
 
-(2) The Board may deduct from any benefit payable to any insured person any sum owed by him to the Board under this Act.
+*to any under*
+
+(2) The Board may deduct from any benefit payable insured person any sum owed by him to the Board this Act.
+
+[ m
 
 ## PART III. Procedure for Assessing Incidence of Damage
 
@@ -294,7 +324,9 @@ every such deposit shall be forfeited to the board.
 
 (4) In this section “excluded damage” means damage to any bananas growing upon any acreage as to which the banana grower elected to exclude from any contractual insurance as provided in subsection (3) (a) (iii) of section 5.
 
-15.41) So soon as may be after the occurrence of any windstorm in respect of which the Board receive any claim to be for benefit under section 14, or consider that they are likely to receive any such claim, the Board shall, for the purpose
+15.41) So soon as may be after the occurrence of any windstorm in respect of which the Board receive any claim to be
+
+for benefit under section 14, or consider that they are likely to receive any such claim, the Board shall, for the purpose
 
 of complying with section 16, cause an inspection to be made of any affected cultivation in respect of which any such claim has been made or of any region within which they consider any affected cultivations are likely to be comprised.
 
@@ -320,7 +352,7 @@ of section 5.
 
 (5) For the purposes of this section “young plants” means banana trees which the grower shall satisfy the inspector were planted subsequent to the 31st October last preceding the windstorm in respect of which the inspection is made.
 
-**16.** So soon as may be after the receipt of any report Boardto areas under subsection (2) of section 15, the Board shall consider define Bnddeclarc such report and shall consider any claim under section 14 gzi&,e and the Board shall, in its absolute discretion, either-OfloaJ.
+**16.** So soon as may be after the receipt of any report Boardto areas under subsection (2) of section 15, the Board shall consider define Bnddeclarc gzi&,e such report and shall consider any claim under section 14 and the Board shall, in its absolute discretion, either-OfloaJ.
 
 (a) assess the percentage of loss suffered by each affected cultivation in respect of which a claim under section 14 has been made; or
 
@@ -328,7 +360,7 @@ of section 5.
 
 (ii) assess the average percentage of loss suffered by affected cultivations within each such area consequent upon the windstorm in respect of which the assessment is made.
 
-17.41) For the purposes of section 18 there shall be Establish-established in such manner as may be prescribed so many rncptof review tribunals as may be prescribed each of which shall, in relation to such areas as the Board may specify, exercise the powers conferred and perform the duties imposed by section 18.
+17.41) For the purposes of section 18 there shall be Establish-rncptof established in such manner as may be prescribed so many review tribunals as may be prescribed each of which shall, in relation to such areas as the Board may specify, exercise the powers conferred and perform the duties imposed by section 18.
 
 (2) Every tribunal established under subsection ( 1 ) shall consist of three members.
 
@@ -356,11 +388,9 @@ wise of such assessment, and shall make a report to the Board.
 
 (6) In the case of an application for review under paragraph (b) of subsection (1) if the appropriate tribunal reports to the Board under subsection (4) that in the opinion of the tribunal the average percentage of loss suffered by banana cultivations in the area to which the application relates does not exceed by more than seven and one-half per cent the assessment under paragraph Ib) of section 16 in respect of which the application for review was made, the assessment by the Board shall for all purposes be final and conclusive and the deposit paid under subsection (2) in relation to the application for review shall be forfeited to the Board.
 
-(7) In the case of an application for review under
-
 *,*
 
-paragraph (b) of subsection (1) if the appropriate tribunal reports to the Board under subsection (4) that in the opinion
+(7) In the case of an application for review under paragraph (b) of subsection (1) if the appropriate tribunal reports to the Board under subsection (4) that in the opinion
 
 of the tribunal the average percentage of loss suffered by banana cultivations in the area to which the application relates exceeds by more than seven and one-half per cent the assessment under paragraph (b) of section 16 in respect of which the application for review was made, the assessment shall be amended by the substitution for the percentage specified therein the percentage which in the opinion of the tribunal is the average percentage of loss suffered by banana cultivations in the area to which such application relates, and the deposit paid under subsection ( 2 ) shall he refunded to the persons by whom it was paid.
 
@@ -394,29 +424,35 @@ approve, in the public securities of Jamaica or any other Commonwealth country, 
 
 (6) be placed on deposit with the Accountant-General or in such bank or banks as the Board may, with the approval of the Minister, from time to time direct,
 
-Zl.-(l) There shall be raised, levied and collected for hiposition of CWS. the purposes of this Act a cess upon each insurance weight unit of bananas-
+*hiposition of CWS.*
+
+Zl.-(l) There shall be raised, levied and collected for the purposes of this Act a cess upon each insurance weight unit of bananas-
+
+*121 1962 s. 510).*
 
 (a) exported from Jamaica; or
 
-121 1962 s. 510).
-
 (b) purchased for the purpose of being exported, irrespective of whether or no such insurance weight unit of bananas is subsequently exported from Jamaica.
 
-(2) The Minister may, after considering any recom- iz/196z mendation of the Board, from time to time by order fix S. Xb). the rate at which cess shall be levied on each insurance weight unit of bananas or part of such unit.
+*iz/196z S. Xb).*
 
-**22.** \-(1) The cess shall be paid by every banana grower Pa catand and shall be collected and paid over by the exporter in m G o n accordance with regulations made under section 31.
+(2) The Minister may, after considering any recommendation of the Board, from time to time by order fix the rate at which cess shall be levied on each insurance weight unit of bananas or part of such unit.
+
+*Pa catand m G o n*
+
+**22.** \-(1) The cess shall be paid by every banana grower and shall be collected and paid over by the exporter in accordance with regulations made under section 31.
 
 ( 2 ) Any exporter who fail*
 
 (a) to collect or to pay over, in accordance with the regulations, any cess or any part thereof due under this Act; or
 
-(b) to comply with any regulations relating to any such collection or payment over,
-
-shall be guilty of an offence against this Act.
+(b) to comply with any regulations relating to any such collection or payment over, shall be guilty of an offence against this Act.
 
 (3) Nothing in this section contained shall be deemed to prejudice or interfere with the right of the Board to recover from an exporter the amount of any cess due to be collected and paid over by him.
 
-**23.** (1) Whenever the Minister is satisfied by the Board LOW. that it is necessary or expedient for the Board to borrow 3/1971 s.4.
+*LOW. 3/1971 s.4.*
+
+**23.** (1) Whenever the Minister is satisfied by the Board that it is necessary or expedient for the Board to borrow
 
 W
 
@@ -454,15 +490,25 @@ s. 5(a)-(c).
 
 (d) the payment of interest upon any moneys borrowed by the Board under this Act and the repayment of such moneys;
 
-(e) the creation of such a reserve fund as the Board . may, with the approval of the Minister, consider adequate for the purposes of this Act.
+*.*
+
+(e) the creation of such a reserve fund as the Board may, with the approval of the Minister, consider adequate for the purposes of this Act.
 
 (2) So soon as the Minister is satisfied that the assets of the Fund are in excess of the amount necessary to meet any liability which can reasonably be anticipated the Minister may authorize the Board to apply the whole or any part of such excess in any manner which the Minister deems to be conducive to the interest of the banana industry.
 
-**26.** The Board shall keep separate accounts dating to Audit. 1811965 their activities under this Act and such accounts shall be S. 4 audited annually and where there is any amount outstanding on loan to the Board under section 23 such annual audit shall be made by the Auditor-General.
+*Audit. S.*
 
-**27.** Notwithstanding anything to the contrary in any Exemption of Board'r law, the income of the Board under this Act shall not be . mmme f r o m liable to the payment of income tax. inmme tax. 18/1%5 s. 7.
+**26.** The Board shall keep separate accounts dating to 1811965 their activities under this Act and such accounts shall be 4 audited annually and where there is any amount outstanding on loan to the Board under section 23 such annual audit shall be made by the Auditor-General.
 
-**28.** Notwithstanding anything to the contrary in any b o m c t u law, where the whole of any moneys received by any banana OnbencfiL grower by way of statutory benefit or of contractual benefit has not been applied by such banana grower for the restoration or rehabilitation of his banana cultivation in the year in which such moneys were received, only such amount thereof as has been so applied shall be deemed for the pur-poses of the Income Tax Act to be income derived or received in such year :
+*Exemption of Board'r . mmme f r o m inmme tax. 18/1%5 s. 7.*
+
+**27.** Notwithstanding anything to the contrary in any law, the income of the Board under this Act shall not be liable to the payment of income tax.
+
+*b o m c t u*
+
+*OnbencfiL*
+
+**28.** Notwithstanding anything to the contrary in any law, where the whole of any moneys received by any banana grower by way of statutory benefit or of contractual benefit has not been applied by such banana grower for the restoration or rehabilitation of his banana cultivation in the year in which such moneys were received, only such amount thereof as has been so applied shall be deemed for the pur-poses of the Income Tax Act to be income derived or received in such year :
 
 Provided that the remaining portion thereof shall be deemed to be income derived or received in the next succeeding year.
 
@@ -488,7 +534,7 @@ with such approval in that behalf as was required by this Act before the 1st Jul
 
 ( 2 ) The Board may from time to time delegate to ;8//;65 any member, officer or servant of the Board, or to any committee thereof appointed by the Board, authority to carry out such portions of the duties committed to the Board by this Act as they may from time to time determine.
 
-**31.** (13 The Board may make regulations for the better ~ ~ g u k t i ~ r n carrying out of this Act and generally for giving effect to ig/i%s the provisions of this Act and, without prejudice to the s. 11. generality of the foregoing, for the collection and payment over of cess.
+**31.** (13 The Board may make regulations for the better ~ ~ g u k t i ~ r n carrying out of this Act and generally for giving effect to ig/i%s s. 11. the provisions of this Act and, without prejudice to the generality of the foregoing, for the collection and payment over of cess.
 
 (2) Regulations made by the Board under sub-
 

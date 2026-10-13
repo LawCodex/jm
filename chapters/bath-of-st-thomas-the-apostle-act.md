@@ -48,19 +48,25 @@ retrieved: 2026-10-13
 
 ## SCHEDULE
 
-cap. 36 A& 35 of 1966 42 of 1%!3 &Ej. [5th March, 1942.1
+*cap. 36 A& 35 of 1966 42 of 1%!3 &Ej.*
 
-**1.** This Act may be cited as the Bath of St. Thomas the shorttitle. Apostle Act.
+[5th March, 1942.1
 
-2 4 1 ) For the purposes of this Act there shall be Estabhh-men1 of established a body corporate to be called “The Directors Corpomtton. of the Bath of St. Thomas the Apostle” (hereinafter in this Act referred to as “the Corporation”) with perpetual succession and a common seal and with power to acquire, hold and dispose of land.
+*shorttitle.*
+
+**1.** This Act may be cited as the Bath of St. Thomas the Apostle Act.
+
+*Estabhh-men1 of Corpomtton.*
+
+2 4 1 ) For the purposes of this Act there shall be established a body corporate to be called “The Directors of the Bath of St. Thomas the Apostle” (hereinafter in this Act referred to as “the Corporation”) with perpetual succession and a common seal and with power to acquire, hold and dispose of land.
 
 (2) The seal of the Corporation shall be authenticated by the signature of the Chairman and of the Clerk of the Corporation, and such seal shall be officially and judicially noticed.
 
-(3) The Corporation may sue and be sued in its cor-
+(3) The Corporation may sue and be sued in its corporate name and may for all purposes be described by such name.
 
-porate name and may for all purposes be described by such name.
+*Consh-tution of the mrporahon 35/1%6 s 2.*
 
-**3.** \-(1) The Corporation shall consist of seven persons Consh-tution of the who shall be appointed by the Minister by instrument in mrporahon writing and such persons are hereafter in this Act referred to 35/1%6 s 2. as “Directors”.
+**3.** \-(1) The Corporation shall consist of seven persons who shall be appointed by the Minister by instrument in writing and such persons are hereafter in this Act referred to as “Directors”.
 
 (2) The appointment of a Director shall, subject to the provisions of this section, be for a period not exceeding three years and such Director shall be eligible for re-appointment.
 
@@ -100,19 +106,29 @@ S. 3b). Chairman, shall preside at meetings of the Corporation and in the absenc
 
 man from any meeting the Directors present shall elect one or their number to preside at that meeting.
 
-(4) The Chairman or other person presiding at any 3 5 / 1 9 ~ x S. 3(b). meeting shall have an original and a casting vote.
+*3 5 / 1 9 ~ x S. 3(b).*
 
-( 5 ) At any meeting of the Corporation three Directors 35/1966 s. 3(C). shall form a quorum for the transaction of business.
+(4) The Chairman or other person presiding at any meeting shall have an original and a casting vote.
 
-35/1966
+*35/1966 s. 3(C).*
 
-(6) The power of the Corporation shall not be dected S. 3(d). by any vacancy in the membership thereof or by any defect in the appointment of any Director.
+( 5 ) At any meeting of the Corporation three Directors shall form a quorum for the transaction of business.
 
-5.41) Subject to the provisions of subsection (2) all the real Transferof and real and personal property vested in, or belonging to, personal including all moneys standing to the credit of, or receivable pmpeny. by, the Directors of the Bath of St. Thomas the Apostle immediately prior to the coming into operation of this Act under and by virtue of the Bath of St. Thomas the Apostlz Law (repealed by this Act) are hereby transferred to and vested in the Corporation.
+*35/1966 S. 3(d).*
 
-(2) It is hereby declared that all the rights and interests of the Bath Corporation in the properties set out in the Schedule shall be deemed to have been transferred Schedule. to and vested in the Commissioner of Lands in trust for Her 42/1969 3rd Sch. Majesty in right of the Government of Jamaica.
+(6) The power of the Corporation shall not be dected by any vacancy in the membership thereof or by any defect in the appointment of any Director.
 
-6 . 4 1 ) The Corporation may purchase, or otherwise powerto acquire and hold, any personal property required for the hold,, acqu,rc purposes of this Act and may dispose of any personal $$:$g$, property belonging to it which is no longer required for such purposes.
+*Transferof real and personal pmpeny.*
+
+5.41) Subject to the provisions of subsection (2) all the real and personal property vested in, or belonging to, including all moneys standing to the credit of, or receivable by, the Directors of the Bath of St. Thomas the Apostle immediately prior to the coming into operation of this Act under and by virtue of the Bath of St. Thomas the Apostlz Law (repealed by this Act) are hereby transferred to and vested in the Corporation.
+
+*Schedule. 42/1969 3rd Sch.*
+
+(2) It is hereby declared that all the rights and interests of the Bath Corporation in the properties set out in the Schedule shall be deemed to have been transferred to and vested in the Commissioner of Lands in trust for Her Majesty in right of the Government of Jamaica.
+
+*powerto hold,, acqu,rc $$:$g$,*
+
+6 . 4 1 ) The Corporation may purchase, or otherwise acquire and hold, any personal property required for the purposes of this Act and may dispose of any personal property belonging to it which is no longer required for such purposes.
 
 (2) The Corporation may, subject to the prior approval of the Minister, purchase, or otherwise acquire and hold, or take on lease, any real property and any interest therein required for the purposes of this Act, or may sell, mortgage, lease or exchange any such property.
 
@@ -128,7 +144,9 @@ to the Corporation.
 
 8 . 4 1 ) The Corporation n a y appoint, at such remunera-Appointment
 
-of Clerk and tion and on such terms and conditions as it may determine, servants.
+tion and on such terms and conditions as it may determine, of Clerk and
+
+servants.
 
 a Clerk and such officers and servants as may be necessary and proper for the due and efficient management and performance by the Corporation of its duties under this Act:
 
@@ -182,17 +200,23 @@ collected and received by the Corporation shall be paid into a fund to be called
 
 (e) the repairs, maintenance and improvement of the road leading from the town of Bath to the Bath; cf, the payment of all expenses properly incurred under this Act.
 
-lO.--(l) The Clerk shall receive all moneys due or owing Fmn* to or received by the Corporation and shall issue and sign receipts in respect thereof. All such moneys shall be deposited in the Bath Fund, which Fund shall be lodged in such Bank as the Corporation may determine.
+*Fmn\**
+
+lO.--(l) The Clerk shall receive all moneys due or owing to or received by the Corporation and shall issue and sign receipts in respect thereof. All such moneys shall be deposited in the Bath Fund, which Fund shall be lodged in such Bank as the Corporation may determine.
 
 (2) Cheques against the Bath Fund shall be signed by such person as the Corporation may appoint for that purpose, and shall be countersigned by the Chairman or any Director.
 
 (3) All payments shall be made by the Clerk who shall enter them in a book to be kept for that purpose in such form as he may be directed by the Corporation.
 
-(4) The Corporation shaU cause to be kept proper s. 2611995
+*s.*
+
+(4) The Corporation shaU cause to be kept proper 2611995
 
 **3.** accounts and other records, including receipts and disburse-ments, in relation to the business of the Corporation.
 
-**11.** (1) The accounts of the Corporation shall be audited Aidit and annually by the Auditor-General or by an auditor appointed repon. by the Minister.
+*Aidit and repon.*
+
+**11.** (1) The accounts of the Corporation shall be audited annually by the Auditor-General or by an auditor appointed by the Minister.
 
 mac inclusion _ of _ _ this page is authorized by I^N. 951 19971 ~~~
 
@@ -230,9 +254,13 @@ for giving effect to the provisions of this Act and, withost prejudice to such g
 
 (3) Every person who contravenes or fails to comply with the provisions of any such regulations shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding four dollars, or in default of payment thereof, to imprisonment with hard labour for any term not exceeding one month.
 
-**14.** The Minister may, after consultation with the Chair- Policy dimtions. man, give to the Corporation directions of a general 35,,966 character as to the policy to be followed in the exercise and 5.7. performance of its functions in relation to matters appearing to him to concern the public interest, and the Corporation shall give effect to any such directions.
+*Policy dimtions. 35,,966 5.7.*
 
-Sstion SCHEDULE w).
+**14.** The Minister may, after consultation with the Chairman, give to the Corporation directions of a general character as to the policy to be followed in the exercise and performance of its functions in relation to matters appearing to him to concern the public interest, and the Corporation shall give effect to any such directions.
+
+*Sstion w).*
+
+## SCHEDULE
 
 **1.** All that property known as the Bath Botanic Garden and boundd on the North by land belonging to the Bath Corporation and land belonging to the Anglican Church, on the East by a parochial road called Bath S w t ; and on the. South and West by a parochial road called Trelawny Street.
 

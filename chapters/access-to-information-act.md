@@ -104,7 +104,9 @@ PART IV. . I I I I ~ I I ~ ~ I I I ~ I I / c~lrtl. I~rirorc~rio~~ o f l'olvonc~l
 
 ## PART I. l'relin7hary
 
-**2.** The objects of this Act are to reinforce and give further o b i ~ c t s o r effect to certain fundamental principles underlying the system of constitutional democracy, namely-
+*o b i ~ c t s o r*
+
+**2.** The objects of this Act are to reinforce and give further effect to certain fundamental principles underlying the system of constitutional democracy, namely-
 
 ( a ) governmental accountability;
 
@@ -162,21 +164,33 @@ V) any other body or organization specified in an order under section 5 (3);
 
 "responsible Ministeryy means the Minister responsible for the public authority which holds an official document.
 
-**4.** \41) A public authority shall cause to be published within publication o f infor-twelve months of -
+*publication o f infor-*
 
-mation by public authority.
+*twelve*
+
+*mation by public authority.*
+
+**4.** \41) A public authority shall cause to be published within months of -
 
 (a) the appointed day;
 
 ( b ) its establishment;
 
-(c) the coming into operation of an ord er under section 5
+coming into operation of an ord er under section 5 (c) the
 
 (1) (a) or (3) which specified that authority; or
 
-(6) the application of the provisions of this Act to that 242003 S. 2(c). public authority pursuant to section 5 (1) (h),
+*S. 2(c).*
 
-whichever is later, an initial statement of its organization and functions containing the information specified in the First First Schedule. Schedule.
+(6) the application of the provisions of this Act to that 242003 public authority pursuant to section 5 (1) (h),
+
+*whichever functions*
+
+*First Schedule.*
+
+is later, an initial statement of its organization and containing the information specified in the First
+
+*Schedule.*
 
 *4.02*
 
@@ -254,7 +268,9 @@ or to such aspects of their operations as may be specified in the order.
 
 (2) The exemption of an official document or part thereof from disclosure shall not apply after the document has been in existence for twenty years, or such shorter or longer period as the Minister may specify by order, subject to affirmative resolution.
 
-(3) An applicant for access to an official document shall not be required to give any reason for requesting access to that document.
+*not be*
+
+(3) An applicant for access to an official document shall required to give any reason for requesting access to that document.
 
 (4) Where an official document is-
 
@@ -262,9 +278,17 @@ or to such aspects of their operations as may be specified in the order.
 
 ( b ) available for purchase by the public in accordance with administrative procedures established for that purpose,
 
-access to that document shall be obtained in accordance with the provisions of that enactment or those procedures, as the case may be.
+*access*
 
-**7.** (1) A person who wishes to obtain access to an official Application document shall make an application to the public authority for access. which holds that document.
+to that document shall be obtained in accordance with the provisions of that enactment or those procedures, as the case
+
+*may be.*
+
+*7.-(1)*
+
+*which*
+
+A person who wishes to obtain access to an official Application document shall make an application to the public authority for access. holds that document.
 
 (2) An application under subsection (1)-
 
@@ -272,7 +296,9 @@ access to that document shall be obtained in accordance with the provisions of t
 
 (b) shall provide such information concerning the document as is reasonably necessary to enable the public authority to identify it.
 
-(3) A public authority to which an application is made shall-
+(3) A public authority to which an application is made
+
+*shall-*
 
 (a) upon request, assist the applicant in identifying the documents to which the application relates;
 
@@ -330,9 +356,13 @@ in the case of a document by which or in which words are-
 
 *Assistanceand deferment of xC~SS.*
 
-**10.** (1) Where the information provided by the applicant in relation to the document is not such as is reasonably necessary to enable the public authority to identify it, the authority shall afford the applicant a reasonable opportunity to consult with the authority with a view to reformulating the application so that the document can be identified.
+*to*
 
-(2) A public authority may defer the grant of access to an official document-
+**10.** (1) Where the information provided by the applicant in relation to the document is not such as is reasonably necessary enable the public authority to identify it, the authority shall afford the applicant a reasonable opportunity to consult with the authority with a view to reformulating the application so that the document can be identified.
+
+*an*
+
+(2) A public authority may defer the grant of access to official document-
 
 (a) if publication of the document within a particular period is required under the provisions of any enactment, until the expiration of that period;
 
@@ -340,21 +370,33 @@ in the case of a document by which or in which words are-
 
 (c) if the premature release of the document would be contrary to the public interest, until the occurrence of any event after which or the expiration of any period beyond which, the release of the document would not be contrary to the public interest.
 
-(3) Where a public authority decides to defer access in accordance with subsection (2), it shall, within fourteen days of its decision, inform the applicant of that decision and shall, where possible, indicate to him the period during which the deferment will operate.
+*its*
 
-*Delet~on of ewmpr IuJtter*
+(3) Where a public authority decides to defer access in accordance with subsection (2), it shall, within fourteen days of decision, inform the applicant of that decision and shall, where possible, indicate to him the period during which the deferment will operate.
 
-**11.** (1) Where an application is made to a public authority for access to an official document which contains exempt matter, the authority shall grant access to a copy of the document with the exempt matter deleted therefrom.
+*Delet~on of ewmpr IuJtter for*
 
-(2) A public authority which grants access to a copy of an official document in accordance with this section shall inform the applicant-
+**11.** (1) Where an application is made to a public authority access to an official document which contains exempt matter, the authority shall grant access to a copy of the document with the exempt matter deleted therefrom.
+
+*an the*
+
+(2) A public authority which grants access to a copy of official document in accordance with this section shall inform applicant-
 
 (u) that it is such a copy; and
 
-( h ) of the statutory provision by virtue of which such deleted matter is exempt matter.
+*( h )*
 
-**12.** (1) The cost of reproducing any documents containing Fccs,clc. information in relation to which an application is made under this Act shall be borne by the applicant.
+of the statutory provision by virtue of which such deleted matter is exempt matter.
 
-(2) The responsible Minister may waive, reduce or remit, the cost specified in subsection (1) for access to an official document where he is satisfied that such waiver, reduction or remission is justifiable.
+*Fccs,clc.*
+
+*this Act*
+
+**12.** (1) The cost of reproducing any documents containing information in relation to which an application is made under shall be borne by the applicant.
+
+*remit, official*
+
+(2) The responsible Minister may waive, reduce or the cost specified in subsection (1) for access to an document where he is satisfied that such waiver, reduction or remission is justifiable.
 
 *Grant ol BCCCSS.*
 
@@ -364,25 +406,25 @@ in the case of a document by which or in which words are-
 
 (b) the cost incurred by the public authority in granting access has been paid,
 
-access to the document shall be granted in accordance with this Act.
+*access Act.*
+
+to the document shall be granted in accordance with this
 
 ## PART 111. Exempt Document
 
-*I>ocumcnts affccling*
+*I>ocumcnts affccling security, dcfcncc or international rclations.*
 
 **14.** Official documents are exempt from disclosure if-
 
-*dcfcncc or international rclations.*
-
-(a) the disclosure thereof would prejudice the security, security, defence or international relations of Jamaica;
+(a) the disclosure thereof would prejudice the security, defence or international relations of Jamaica;
 
 (b) those documents contain information communicated in confidence to the Government by or on behalf of a foreign government or by an international organization.
 
-**15.** (1) An official document is exempt from disclosure if it Cabinct
+*Cabinct documcnts.*
 
-*documcnts.*
+*is a*
 
-is a Cabinet document, that is to say-
+**15.** (1) An official document is exempt from disclosure if it Cabinet document, that is to say-
 
 (a) it is a Cabinet Submission, Cabinet Note or other document created for the purpose of submission to the Cabinet for its consideration and it has been or is intended to be submitted ;
 
@@ -486,13 +528,15 @@ reasonably be expected to result in the destruction of, damage to, or interferen
 
 ### A CCESS TO INFORMA TZON
 
-**22.** (1) Subject to the provisions of this section, a public authority shall not grant access to an official document if it pers,,,,~ would involve the unreasonable disclosure of information pn'acy relating to the personal affairs of any person, whether living or dead.
+*pers,,,,~ pn'acy*
+
+**22.** (1) Subject to the provisions of this section, a public authority shall not grant access to an official document if it would involve the unreasonable disclosure of information relating to the personal affairs of any person, whether living or dead.
 
 (2) Subsection (1) shall not apply in any case where the application for access is made by the person to whose affairs the document relates.
 
-Issue of 23.-( 1 ) Where-
+*Issue of z;:knt, certificate re*
 
-z;:knt, certificate re
+**23.** ( 1 ) Where-
 
 (a) the Prime Minister is satisfied that an application for access relates to a document specified in section 15 (1);
 
@@ -506,13 +550,11 @@ the Prime Minister or the responsible Minister, as the case may require, may iss
 
 PART N. Amendment and Annotation of Personal Records
 
-**24.** (1) Where a person claims that an official document Application for qmend-contains personal information about the person that-
+*Application for qmend-mentor annotation o f pe,o,a, records.*
 
-mentor annotation o f
+**24.** (1) Where a person claims that an official document contains personal information about the person that-
 
-(a) is incomplete, incorrect, out of date or misleading; pe,o,a, and
-
-records.
+(a) is incomplete, incorrect, out of date or misleading; and
 
 ### A CCESS TO INFORMA TION
 
@@ -542,37 +584,41 @@ records.
 
 (a) take such steps as are reasonable to enable the applicant to provide a statement of the kind referred to in section 24 (2) (b); and
 
-(b) annotate the document by adding thereto the state-
+(b) annotate the document by adding thereto the statement referred to in paragraph (a).
 
-ment referred to in paragraph (a).
+*Annotation*
 
-**26.** Where, in relation to an application for annotation of an Annotation official document containing personal information, the public ~ ~ ~ ~ s O n a ' authority-
+*~ ~ ~ ~ s O n a '*
+
+**26.** Where, in relation to an application for annotation of an official document containing personal information, the public authority-
 
 (a) is satisfied as to the truth of the matters specified in that application, the authority shall annotate the document in the prescribed manner;
 
 (b) is not so satisfied, it may refuse to annotate the document.
 
-**27.** A public authority which amends or annotates an official Noticeof document pursuant to section 25 or 26, or, as the case may be, ~~~~~~~" decides not to do so, shall take reasonable steps to inform-
+*Noticeof ~~~~~~~" tions.*
 
-tions.
+**27.** A public authority which amends or annotates an official document pursuant to section 25 or 26, or, as the case may be, decides not to do so, shall take reasonable steps to inform-
 
 (a) the applicant; and
 
-(b) any other public authority which it is satisfied has made prior use of the document,
+(b) any other public authority which it is satisfied has made prior use of the document, of the nature of the amendment or annotation or, as the case may require, of the decision and the reasons for that decision.
 
-of the nature of the amendment or annotation or, as the case may require, of the decision and the reasons for that decision.
+*Transferof*
 
-**28.** The provisions of section 8 shall apply, with such Transferof modifications as may be necessary, to applications for appP"ca'iOn" for amend-amendments or annotations of personal records.
+*appP"ca'iOn" for amendment or annotatlon.*
 
-ment or annotatlon.
+**28.** The provisions of section 8 shall apply, with such modifications as may be necessary, to applications for amendments or annotations of personal records.
 
 ## PART V. Review and Appeal
 
-**29.** In this Part and Part VI "relevant decision" means a ~nterpre-decision referred to in section 30 (1) or (2), as the case may require.
+*~nterpre-*
 
-Internal
+**29.** In this Part and Part VI "relevant decision" means a decision referred to in section 30 (1) or (2), as the case may require.
 
-**30.** (1) An applicant for access to an official document may, R,iew, in accordance with subsection (4), apply for an internal review of a decision by a public authority to-
+*Internal R,iew,*
+
+**30.** (1) An applicant for access to an official document may, in accordance with subsection (4), apply for an internal review of a decision by a public authority to-
 
 (a) refuse to grant access to the document;
 
@@ -608,23 +654,33 @@ review.
 
 ### A CCESS TO INFORMA TION
 
-( b ) where no such notification has been given, within thirty days after the expiration of the period allowed for the giving of the decision or of any other period permitted by the authority.
+*( b )*
 
-( 3 ) A person who conducts an internal review-
+where no such notification has been given, within thirty days after the expiration of the period allowed for the giving of the decision or of any other period permitted by the authority.
+
+*( 3*
+
+) A person who conducts an internal review-
 
 (a) may take any decision in relation to the application which could have been taken on an original application;
 
 (b) shall take that decision within a period of thirty days after the date of receipt of the application.
 
-**32.** (1) An appeal shall lie pursuant to subsections ( 2 ) and Appeal. (3), to the Tribunal established for that purpose, constituted in
+*32.-(1)*
+
+*Appeal.*
+
+*(3), to*
 
 *Second Schedule.*
 
-accordance with the Second Schedule.
+An appeal shall lie pursuant to subsections ( 2 ) and the Tribunal established for that purpose, constituted in accordance with the Second Schedule.
 
-( 2 ) A person may lodge an appeal-
+*( 2 ( a )*
 
-( a ) where internal review under section 30 is applicable-
+) A person may lodge an appeal-
+
+where internal review under section 30 is applicable-
 
 (i) against a decision taken on such review;
 
@@ -632,9 +688,11 @@ accordance with the Second Schedule.
 
 (b) in any other case, against a relevant decision in relation to any of the matters referred to in paragraphs ( a ) to (c) of section 30 ( 1 ) or section 30 ( 2 ) , and accordingly section 30 ( 3 ) shall apply with necessary modificatians to an appeal under this paragraph.
 
-( 3 ) An appeal shall be made-
+*( 3 ( a )*
 
-( a ) by the lodgement of a document within sixty days after the date of the notification to the appellant of the relevant decision or of the decision taken on an internal review; or
+) An appeal shall be made-
+
+by the lodgement of a document within sixty days after the date of the notification to the appellant of the relevant decision or of the decision taken on an internal review; or
 
 ( h ) where no notification has been given within the period required by this Act, within sixty days after the expiration of that period.
 
@@ -666,7 +724,9 @@ the Government or any public authority, any Minister or any public officer invol
 
 the author of the document or any other person who supplied the document to the Government or the public authority, in respect of the publication involved in or resulting from the grant of access, by reason of having so suppiied the document.
 
-(3) The grant of access to an official document in accordance with this Act shall not be construed as authorization or approval-
+*or*
+
+(3) The grant of access to an official document in accordance with this Act shall not be construed as authorization approval-
 
 (a) for the purpose of the law relating to defamation or breach of confidence, of the publication of the document or its contents by the person to whom access is granted;
 
@@ -678,7 +738,13 @@ the author of the document or any other person who supplied the document to the 
 
 (iii) a published edition of a literary, dramatic, musical or artistic work.
 
-**34.** (1) A person commits an offence, if in relation to an offence official document to which a right of access is conferred under this Act he-
+*34.-(1)*
+
+*offence*
+
+*official this Act*
+
+A person commits an offence, if in relation to an document to which a right of access is conferred under he-
 
 (a) alters or defaces;
 
@@ -688,7 +754,9 @@ the author of the document or any other person who supplied the document to the 
 
 (6) conceals,
 
-the document with the intention of preventing its disclosure.
+*the*
+
+document with the intention of preventing its disclosure.
 
 (2) A person who commits an offence under subsection ( I ) is liable on summary conviction in a Resident Magistrate's Court to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding six months or to both such fine and imprisonment.
 
@@ -744,7 +812,9 @@ ACCESS TO INFORMATmN
 
 Information to be published by Public Authorities
 
-**1.** The information referred to in section 4 of this Act is-
+*\1. The*
+
+information referred to in section 4 of this Act is-
 
 a description of the subject area of the public authority;
 
@@ -766,7 +836,9 @@ the documents referred to in sub-paragraph ( 4 are-
 
 (ii) documents containing particulars of a scheme referred to in paragraph (d), not being particulars contained in an enactment or published under this Act.
 
-**2.** The principal officer of the authority shall-
+*\2. The*
+
+principal officer of the authority shall-
 
 (a) cause copies of such of the documents specified in paragraph 1 (e) as are in use from time to time to be made available for inspection and for purchase by members of the public;
 
@@ -774,11 +846,7 @@ within twelve months after the publication of the statement under (6)
 
 paragraph 1 (d) and thereafter at intervals of not more than twelve months, cause to be published in the Gazette, statements bringing up to date information contained in the previous statement or statements.
 
-**3.** The principal officer is not required to comply fully with para-
-
-graph 2 (a) beforc the cspiration of t w c l ~ ~ c months aftcr thc appointed day.
-
-but shall. bcfore that tiinc. comply with that paragraph so far as is practicablc.
+**3.** The principal officer is not required to comply fully with paragraph 2 (a) beforc the cspiration of t w c l ~ ~ c months aftcr thc appointed day. but shall. bcfore that tiinc. comply with that paragraph so far as is practicablc.
 
 **4.** This Schedule docs not rcquire a document of the kind spccificd in paragraph 1 ( c ) containing csempt matter. to be nladc a~railable in accordance with paragraph 2. but, if such a docurircnt is not so m d c available. lllc principal officer shall. unless impracticable or unreasonable to do so. causc to bc preparcd a corresponding documcnt. altcred only to the extent neccssary to cscludc thc cxcmpt mattcr. and causc thc documcnt so prcparcd lo bc dcalt with in accordancc with pardgraph 2.
 
@@ -798,7 +866,9 @@ as if thc rcfcrcnccs in paragraph 3 to thc appointcd day wcrc rckrcnccs to thc d
 
 (hn.vti/ulion c? f /Ippenl 7iihunal
 
-**1.** The Tribunal shall, subject to paragraph 2: consist of fivc mcn~bcrs constitution appointcd by thc Govcmor-Gcncral aftcr consultation with thc Primc ofl'rihunal. Ministcr and thc Lcadcr of thc Opposition.
+*constitution ofl'rihunal.*
+
+**1.** The Tribunal shall, subject to paragraph 2: consist of fivc mcn~bcrs appointcd by thc Govcmor-Gcncral aftcr consultation with thc Primc Ministcr and thc Lcadcr of thc Opposition.
 
 *Power O ~ U W ~neniher to sit alunc Tenure of*
 
@@ -810,9 +880,13 @@ as if thc rcfcrcnccs in paragraph 3 to thc appointcd day wcrc rckrcnccs to thc d
 
 **4.** The Governor-General. shall appoint one of the mcmbers of thc Tribunal appointcd under paragraph I to be chairman thcrcof.
 
-**5.** The Governor-General. after consultation with thc Prime Minister and Acttng the Leader of the Opposition. may appoint any person to act in the place of appointments. the chairman or any othcr member of the Tribunal in the casc of thc abscncc or inability to act of thc chairman or other membcr.
+*Acttng appointments.*
 
-(,.-(I) Any mcmbcr of the Tribunal othcr than thc chairman inay at any Resignation. time resign his office by instrument in writing addressed to thc Governor-
+**5.** The Governor-General. after consultation with thc Prime Minister and the Leader of the Opposition. may appoint any person to act in the place of the chairman or any othcr member of the Tribunal in the casc of thc abscncc or inability to act of thc chairman or other membcr.
+
+*Resignation.*
+
+(,.-(I) Any mcmbcr of the Tribunal othcr than thc chairman inay at any time resign his office by instrument in writing addressed to thc Governor-
 
 General and transmitted through the chairman, and from the date of the receipt by the Governor-General of such instrument that member shall cease to be a member of the Tribunal.
 

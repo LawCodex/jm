@@ -14,21 +14,33 @@ retrieved: 2026-10-13
 
 # The Bank of Jamaica Act
 
-(2) Upon the establishment of the Bank there shall be paid by the Government from the Consolidated Fund in respect of such capital the sum of five hundred thousand dollars.
+*be paid respect*
 
-(3) The balance of fifteen hundred thousand dollars shall be paid from the Consolidated Fund at such times as the Board with the approval of the Minister may require.
+(2) Upon the establishment of the Bank there shall by the Government from the Consolidated Fund in of such capital the sum of five hundred thousand dollars.
+
+*as the*
+
+(3) The balance of fifteen hundred thousand dollars shall be paid from the Consolidated Fund at such times Board with the approval of the Minister may require.
 
 (4) Subject to the approval of the House of Represen-
 
-tatives the capital of the Bank may from time to time be increased by resolution of the Board.
+*tatives*
 
-(5) The amount of any increase specified in a reso- ;~~~ lution referred to in subsection (4) shall be paid from the Consolidated Fund.
+the capital of the Bank may from time to time be increased by resolution of the Board.
 
-The Bank shall establish and maintain a General : &?
+;~~~
 
-**9.** (1)
+(5) The amount of any increase specified in a reso-
 
-Reserve Fund-
+*lution*
+
+referred to in subsection (4) shall be paid from the Consolidated Fund.
+
+*9.-(1)*
+
+&? :
+
+The Bank shall establish and maintain a General Reserve Fund-
 
 hod.
 
@@ -38,33 +50,35 @@ ferred at the end of each financial year the net profits of the Bank after allow
 
 penditure; and
 
-b upon which shall be charged any net losses of the ;a&; .3 Bank at the end of any financial ya-.
+*b*
 
-(2) Whenever the sums standing to the credit of the General Reserve Fund amount to five times the Bank's lWm authorized capital the residue of any such net profits as are S 7f.h referred to in paragraph (a) of subsection (1) shall be paid to the Consolidated Fund.
+upon which shall be charged any net losses of the ;a&; .3 Bank at the end of any financial ya-.
+
+*to the*
+
+(2) Whenever the sums standing to the credit of the General Reserve Fund amount to five times the Bank's lWm S 7f.h authorized capital the residue of any such net profits as are referred to in paragraph (a) of subsection (1) shall be paid Consolidated Fund.
 
 (3) If any net losses referred to in subsection (1)
 
-exceed the amount of the General Reserve Fund at the end of the financial year-
+*of the*
+
+exceed the amount of the General Reserve Fund at the end financial year-
 
 (a) a sum equivalent to the excess shall be paid to the Bank from the Consolidated Fund; or
 
 (b) if, in the opinion of the Minister, such payment cannot be made then such securities as may be agreed between the Bank and the Minister shall be issued to the Bank and such securities shall be charged on the Consolidated Fund.
 
-(4) Where a sum has been paid from the Consoii-
-
 *'5/'992 s. 7 (c).*
 
-dated Fund pursuant to subsection (3) (a) it shall be repaid by the Bank from the General Reserve Fund at such time and in such amounts as the Minister may approve, so, however, that the repayment of the sum shall not at any time have the effect of reducing the General Reserve Fund to less than five times the Bank's authorized capital.
+(4) Where a sum has been paid from the Consoii-dated Fund pursuant to subsection (3) (a) it shall be repaid by the Bank from the General Reserve Fund at such time and in such amounts as the Minister may approve, so, however, that the repayment of the sum shall not at any time have the effect of reducing the General Reserve Fund to less than five times the Bank's authorized capital.
 
 PART N. Currency, Coinage and Legal Tender
 
 *CU~T~UCY of &e Island.*
 
-**10.** (1) The currency of the Island shall be the decimal currency provided for in this Part and shall consist of the
-
 *1st SEh.*
 
-notes and coins in such currency issued by the Bank under this Act.
+**10.** (1) The currency of the Island shall be the decimal currency provided for in this Part and shall consist of the notes and coins in such currency issued by the Bank under this Act.
 
 (2) The monetary unit, or unit of currency, of the Island is the dollar.
 
@@ -74,11 +88,9 @@ notes and coins in such currency issued by the Bank under this Act.
 
 *mdty ofthe*
 
-**11.** (1) The parity of the Jamaica dollar shall be fixed on such basis as the Minister may from time to time, after
-
 *dollar. S. '2. 151 1992 S 8. ,,/,,, s. 2.*
 
-consultation with the Governor, by order, declare. 2211971
+**11.** (1) The parity of the Jamaica dollar shall be fixed on such basis as the Minister may from time to time, after consultation with the Governor, by order, declare. 2211971
 
 (2) An order made under subsection (1) may contain such consequential, supplemental or ancillary provi-sions (including mdications of the provisions of this Act) as the Minister may consider necessary or expedient for the purposes of the order.
 
@@ -112,11 +124,9 @@ I* sch.
 
 (2) [Deleted by Act 15 of 1992.1
 
-1511992
-
 *s. 12 (b).*
 
-(3) For the purposes of subsection (1) such assets shall include all or any of the following-
+1511992 (3) For the purposes of subsection (1) such assets shall include all or any of the following-
 
 (a) gold coin or gold bulIion;
 
@@ -190,13 +200,11 @@ the Collector of Taxes to whom a fixed penalty is payable;
 
 Appeedix.
 
-**22F.** A person who, with the approval of the Minister, operates Fees. 21 19915 an exchange bureau, a money transfer and remittance agency or s. 4. , as a money transfer and remittance agent, shall pay, in respect of S. 1/2O04
-
-**6.** 1 such operation, such annual fee as the Bank, with the approval of the Minister, may by notice determine.
+**22F.** A person who, with the approval of the Minister, operates Fees. 21 19915 an exchange bureau, a money transfer and remittance agency or s. 4. , as a money transfer and remittance agent, shall pay, in respect of 1/2O04 S. 6. 1 such operation, such annual fee as the Bank, with the approval of the Minister, may by notice determine.
 
 ## PART IVB . Money Transfers and Remittances 1/zoC/4 S. 7.
 
-**226.** (1) Except with the approval of the Minister, no person shall carry on the business of a money transfer and remittance "On? trans erand remittance agency or operate as a money transfer and remittance agent.
+**226.** (1) Except with the approval of the Minister, no person shall carry on the business of a money transfer and remittance trans erand "On? remittance agency or operate as a money transfer and remittance agent.
 
 agen y a
 
@@ -226,11 +234,11 @@ days of the date of acquisition;
 
 (e) buy and sell (whether in the open market or $henvise) securities issued or guaranteed by the Govehment of Jamaica or by any other government or Issued by international financial institutions of which Jabaica is a I member.
 
-1511992
+*V)*
 
 *S 13 (b).*
 
-V) grant to financial institutions loans and advances for fixed periods not exceeding six months on th I3 security of all or any of the followir& I I I
+1511992 grant to financial institutions loans and advances for fixed periods not exceeding six months on th I3 security of all or any of the followir& I I I
 
 (i) gold coin or gold bullion;
 
@@ -256,7 +264,7 @@ I
 
 (h) maintain deposits in any other bank whether In Jamaica or elsewhere and utilize any such deposit asithe Board thinks expedient for the due performan/;e of the functions of the Bank;
 
-(i) make
+make (i)
 
 *S. 13 (c).*
 
@@ -270,23 +278,25 @@ any foreign currency expedient to acquire;
 
 **31.** [Repealed by Act 15 of 1992.1
 
-**32.** The Bank may by notice prescribe the minimum : & ratio which, after the expiration of six months from the rano. date of service of the notice, assets held in Jamaica by commercial banks and specified financial institutions shall As:b392 bear to their deposit liabilities in Jamaica, but any variation of such a ratio shall not exceed five percentage points in any one period of six months.
+& :
 
-\3341) The Bank may, after consultation with the Min- ~ ; ~ ~ ~ ~ ister and after giving thirty days' notice to commercial ; ;& banks and such specified financial institutions as are financial institutions affected, by notice prescribe-
+*ratio*
 
-or commercial
+**32.** The Bank may by notice prescribe the minimum which, after the expiration of six months from the rano. date of service of the notice, assets held in Jamaica by commercial banks and specified financial institutions shall As:b392 bear to their deposit liabilities in Jamaica, but any variation of such a ratio shall not exceed five percentage points in any one period of six months.
 
-(a) the maximum or minimum rates of interest, dis-
+\3341) The Bank may, after consultation with the Min-
+
+*banks*
+
+~ ; ~ ~ ~ ~ ; ;& ister and after giving thirty days' notice to commercial and such specified financial institutions as are financial institutions affected, by notice prescribe-
+
+or commercial (a) the maximum or minimum rates of interest, dis-
 
 counts or other charges which such institutions 1 ~ 1 ~ 7 3 S. I Y . or commercial banks may impose for specified types 4411 975 of loans, advances or other credit;
 
-s. 4. 1511992
+s. 4. 1511992 s;:,bj$ (b) the maximum or minimum rates of interest which such institutions or commercial banks may pay s. 21 cb, (i) and (ii). on deposits; and
 
-(b) the maximum or minimum rates of interest which s;:,bj$ such institutions or commercial banks may pay s. 21 cb, (i) and (ii). on deposits; and
-
-; q:(gci ).
-
-(c) the volume, terms and conditions of credit (includ-
+; q:(gci ). the volume, terms and conditions of credit (includ- (c)
 
 ing instalment credit) which may be extended through loans and advances or investments by such institutions or commercial banks, so, how-
 
@@ -296,9 +306,13 @@ ever, that such amounts shall not in respect of each commercial bank or financia
 
 (2) A notice under subsection (1) shall be pub-
 
-lished in the Gazette and shall state the date on which it shall take effect :
+*lished shall*
 
-Provided that, in the case of a notice with reference to paragraph (c) of subsection (11, the date on which such notice takes effect-
+in the Gazette and shall state the date on which it take effect :
+
+*notice*
+
+Provided that, in the case of a notice with reference to paragraph (c) of subsection (11, the date on which such takes effect-
 
 \-
 
@@ -306,7 +320,9 @@ Winclaaiond~hiagagoa~byLN.95/1997]
 
 (a) for the purpose of any reduction in the volume, terms and conditions of credit which commercial banks and specified financial institutions may extend through loans and advances or invest-ments, shall not be less than ninety days after the date on which the notice was issued; and
 
-( b ) for any other purpose, shall not be less than thirty days after the date referred to in paragraph (a)
+*( b )*
+
+for any other purpose, shall not be less than thirty days after the date referred to in paragraph (a)
 
 (3) The power conferred by subsection (1) may be exercised-
 
@@ -320,8 +336,10 @@ Winclaaiond~hiagagoa~byLN.95/1997]
 
 (iiii any such provision either unconditionally or subject to any specified condition.
 
-*S. 3. 15/1992 S. 21 (d) (i).*
+*S. 3.*
 
-(4) Where a specified financial institution or commercial bank on any day fails to comply with the provisions of a notice under subsection (1) (c), that specified financial 1511992
+*mercial 15/1992 S. 21 (d) (i). of a S. 21 (d) (u3. respect sixth of by and*
 
-S. 21 (d) (u3. institution or commercial bank shall pay to the Bank in respect of that date interest calculated at a daily rate of one-sixth of one per cent (or such other rate as the Minister may, by order: approve) on the sum by which the amount of loans and advances (including instzlment credit) outstanding on
+(4) Where a specified financial institution or com-bank on any day fails to comply with the provisions notice under subsection (1) (c), that specified financial 1511992
+
+institution or commercial bank shall pay to the Bank in of that date interest calculated at a daily rate of one-one per cent (or such other rate as the Minister may, order: approve) on the sum by which the amount of loans advances (including instzlment credit) outstanding on

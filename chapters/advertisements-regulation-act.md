@@ -45,17 +45,19 @@ inclusion of thii page is authorieod by L.N. 480/1973]
 
 117th April, 1947.1
 
-*and application.*
+*Shorttitle and application.*
 
-**1.** (1) This Act may be cited as the Advertisements Shorttitle Regulation Act.
+**1.** (1) This Act may be cited as the Advertisements Regulation Act.
 
-(2) This Act shall not apply within the Urban and Sub-Urban Districts of the Corporate Area as defined in the Kingston and St. Andrew Corporation Act or withim the limits of any town as defined for the purposes of this Act or for general purposes under the provisions contained in the Parish Councils Act.
+(2) This Act shall not apply within the Urban and Sub-Urban Districts of the Corporate Area as defined in the Kingston and St. Andrew Corporation Act or withim limits of any town as defined for the purposes of this the
 
-*IntWpICta-*
+Act or for general purposes under the provisions contained in the Parish Councils Act.
 
-**2.** In this Act-
+*IntWpICta- ’. ‘*
 
-“advertisement” includes any sky sign and any notice, bill, ’. ‘ placard, poster and other similar publication;
+In this Act- 2.
+
+“advertisement” includes any sky sign and any notice, bill, placard, poster and other similar publication;
 
 “hoarding” includes any structure used as an advertisement or for exhibiting any advertisement;
 
@@ -63,11 +65,9 @@ inclusion of thii page is authorieod by L.N. 480/1973]
 
 *.*
 
-“sky sign” means any word, letter, model, sign, device or representation in the nature of an advertisement, announcement or direction, supported or attached to any post, pole, standard, framework or bther support, wholly or in part upon, over or above any building,
-
 *.*
 
-structure or erection, which, or any part of which, sky sign is visible against the sky from some point in any public place in the Island or in the waters thereof, and includes all and every part of such post, pole, standard, framework or other support. “Sky ggd’ also includes any balloon, parachute, searchlight, flashlight or other similar device employed wholly or
+“sky sign” means any word, letter, model, sign, device or representation in the nature of an advertisement, announcement or direction, supported or attached to any post, pole, standard, framework or bther support, wholly or in part upon, over or above any building, structure or erection, which, or any part of which, sky sign is visible against the sky from some point in any public place in the Island or in the waters thereof, and includes all and every part of such post, pole, standard, framework or other support. “Sky ggd’ also includes any balloon, parachute, searchlight, flashlight or other similar device employed wholly or
 
 in part for the purposes of any advertisement or announcement on, over or above any building, structure or erection of any kind or on or over any public place in the Island or in the waters thereof; but does not include any flagstaff, pole, vane or weathercock unless adapted or used wholly or in part for the purpose of any advertisement or announcement.
 
@@ -91,11 +91,15 @@ Provided that any advertisement so exhibited shall not be suspended across the s
 
 (2) Regulations made under this s&ion may, without prejudice to the generality of the power conferred by subsection (11, provide for regulating, restricting or pro-hibiting the erection of hoardings and the exhibition of advertisements in such places, in such manner and by such means as to afect injuriously the amenith of a public park or pleasure promenade or any place frequented by the public soley or chiefly on account of its beauty, or to disfigure the view of rural scenery from any highway or railway or from any public place or water.
 
-**7.** If any person is aggrieved by the refusal of the Chief Appealfrom decision of Technical Director to authorize the erection of any hoard- a d ing or the use of any hoarding or advertisement as provided Tahnical Dirstor. in section 4, such persbn may appeal to the Minister, and s.7. 1311955 if it be made to appear to the Minister that the erection of such hoarding or the use of any hoarding or advalise-
+*Appealfrom decision of a d Tahnical Dirstor.*
 
-ment should be authorized under this Act, the Minister may give directions to the Chief Technical Director to that effect.
+*s.7.*
 
-&+I) unless authorized under Section 4 or exempted lUlaUlbor-R a ~ d o f under section 5, any hoarding erected and any advertise- iFcdhoard-ingl and ment exhibited at the date of the coming into operation of advcrtiaE regulations made under this Act shall be removed by the -b. person responsible therefor within six months from such date, and if not 50 removed as aforesaid the Chief Technical Director shall serve on the p?rson responsible for such hoarding or advertisement a notice in writing requiring the removal thereof within one month, and upon failure to comply with such notice such person shall be deemed to have committed a contravention of the provisions of this Act.
+**7.** If any person is aggrieved by the refusal of the Chief Technical Director to authorize the erection of any hoarding or the use of any hoarding or advertisement as provided in section 4, such persbn may appeal to the Minister, and 1311955 if it be made to appear to the Minister that the erection of such hoarding or the use of any hoarding or advalise-ment should be authorized under this Act, the Minister may give directions to the Chief Technical Director to that effect.
+
+*R a ~ d o f lUlaUlbor-iFcdhoard-ingl and advcrtiaE -b.*
+
+&+I) unless authorized under Section 4 or exempted under section 5, any hoarding erected and any advertisement exhibited at the date of the coming into operation of regulations made under this Act shall be removed by the person responsible therefor within six months from such date, and if not 50 removed as aforesaid the Chief Technical Director shall serve on the p?rson responsible for such hoarding or advertisement a notice in writing requiring the removal thereof within one month, and upon failure to comply with such notice such person shall be deemed to have committed a contravention of the provisions of this Act.
 
 (2) If no person responsible for such hoarding or advertisement can be found within six months from the date
 

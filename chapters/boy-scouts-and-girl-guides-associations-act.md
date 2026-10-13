@@ -14,33 +14,33 @@ retrieved: 2026-10-13
 
 # The Boy Scouts and Girl Guides Associations Act
 
-THE BOY SCOUTS AND GIRL GUIDES c l p . 4s. Aet ASSOCIATIONS ACT
+*c l p . 4s. Aet 27 of 1968.*
 
-27 of 1968.
+### THE BOY SCOUTS AND GIRL GUIDES ASSOCIATIONS ACT
 
 [26th July, 1920.1
 
-**1.** This Act may be cited as the Boy Scouts and Girl shorttitla Guides Associations Act.
+*shorttitla*
+
+**1.** This Act may be cited as the Boy Scouts and Girl Guides Associations Act.
+
+*Inttrpn-kdioll. s. 2.*
 
 **2.** In this Act---
 
-Inttrpn-
-
-kdioll.
-
-“The Association” means the Boy Scouts Association 2711968 of Jamaica, incorporated on the 13th day of July, s. 2.
-
-1%7, under the Companies Act;
+“The Association” means the Boy Scouts Association 2711968 of Jamaica, incorporated on the 13th day of July, 1%7, under the Companies Act;
 
 “Boy Scout” means a Boy Scout recognized as such under the Articles of Association, and by-laws and rules of the Association, and includes all oflicers of the Association.
 
-**3.** It shall not be lawful for any person, not being under U d a w the by-laws or rules of the Association duly authorized and gauth0,. entitled so to do, publicly to wear, carry, or bear any ~ ~ ~ i uniform, badge, token, or emblem which under the said :? , - &:
+*U d a w gauth0,. ~ ~ ~ i , - &: etc.*
 
-by-laws or rules are specifically adopted for use under the etc.
+**3.** It shall not be lawful for any person, not being under the by-laws or rules of the Association duly authorized and entitled so to do, publicly to wear, carry, or bear any uniform, badge, token, or emblem which under the said :? by-laws or rules are specifically adopted for use under the authority of the Association in such style or manner as to convey an impression that such person is under the said by-laws or rules entitled so to wear, carry, or bear such uniform, badge, token or emblem.
 
-authority of the Association in such style or manner as to convey an impression that such person is under the said by-laws or rules entitled so to wear, carry, or bear such uniform, badge, token or emblem.
+*Boysecut not cxcm~,,r Ezzt, g t y i w*
 
-**4.** No Boy Scout shall seek or attempt by virtue of his Boysecut 9 wearing any uniform, badge, token, or emblem of the not cxcm~,,r Association, or uniform, badge, token, or emblem purport- Ezzt, ing or appearing to be such, to enforce or exercise authority g t y i w otherwise than in accordance with and as authorized by p o c ~ r d a n ~ ~ 2:2$”’ the Articles of Association and the’by-laws or rules of the 2111 %8 Association. s. 3.
+*p o c ~ r d a n ~ ~ 2:2$”’ 2111 %8 s. 3.*
+
+**4.** No Boy Scout shall seek or attempt by virtue of his 9 wearing any uniform, badge, token, or emblem of the Association, or uniform, badge, token, or emblem purport-ing or appearing to be such, to enforce or exercise authority otherwise than in accordance with and as authorized by the Articles of Association and the’by-laws or rules of the Association.
 
 I~TM WdOn of this pU4 is 8uuthorizcd by L.N. 480119731
 

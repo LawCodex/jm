@@ -62,11 +62,9 @@ Licences
 
 **15.** Issue of receipt books.
 
-Record and Returns of Deliveries of Specially
-
 *I*
 
-Protected Produce 1
+Record and Returns of Deliveries of Specially Protected Produce 1
 
 **16.** Contracts relating to specially protected produce to be recorded and returns of deliveries made.
 
@@ -132,19 +130,15 @@ Offences
 
 "nutmegs" means nutmegs, whether in the pod or separated from the pod, whether cured or uncured, ripe or unripe, and mace;
 
-"place" means any place where any produce mentioned in F~rst the First or Fourth Schedule,or any fish or livestock Schcdul~
+*F~rst Schcdul~ 1. ounh Schzdulz. Filth Schzdule. 22 2004 S 2 (c)*
 
-**1.** ounh mentioned in the Fifth Schedule, is grown, stored, Schzdulz. Filth reared, bought or sold;
-
-Schzdule. 22 2004 S 2 (c)
+"place" means any place where any produce mentioned in the First or Fourth Schedule,or any fish or livestock mentioned in the Fifth Schedule, is grown, stored, reared, bought or sold;
 
 "premises" shall include any house, shop, depot, wharf, portion of a wharf, building, room or enclosed place approved by an officer appointed for the purpose by the Minister as a place for the purchase or sale of agricultural produce and any enclosed land appurtenant thereto, or used or occupied therewith;
 
-"prescribed" means prescribed by orders of the Minister or
-
 *\-*
 
-by regulations;
+"prescribed" means prescribed by orders of the Minister or by regulations;
 
 ACRlCCZTUR4L PRODUCE
 
@@ -200,7 +194,9 @@ shall not authorize the selling or buying of any agricultural produce which is u
 
 (b) the Resident Magistrate has noted on the licence that he is so satisfied.
 
-(7) A licence of Class No. 2 in the First Schedule First shall not authorize the buying of any citrus fruit unless the Schedule applicant for the licence has satisfied the Resident Magistrate, by the production of a certificate from an Inspector, that he has a sufficient and suitable storehouse for the storing, grading and packing of such produce, and the Resident Magistrate has noted on the licence that he is so satisfied.
+(7) A licence of Class No. 2 in the First Schedule First shall not authorize the buying of any citrus fruit unless the Schedule
+
+applicant for the licence has satisfied the Resident Magistrate, by the production of a certificate from an Inspector, that he has a sufficient and suitable storehouse for the storing, grading and packing of such produce, and the Resident Magistrate has noted on the licence that he is so satisfied.
 
 (8) A traveller's licence shall not authorize the pur-chasing, otherwise than on premises duly licensed under this Act, of any agricultural produce of Class No. 1 in the First Schedule hereto, which is uncured or wet, or in the skin, pod, cherry or husk.
 
@@ -214,7 +210,9 @@ Mayislratc lo
 
 deal with, all such applications presented as aforesaid. In every dcal with
 
-a p p ~ i c a t i o ~ ~ . case in which the Resident Magistrate shall grant the application, the Clerk shall when the licence is confined to the premises in which the dealer carries on his business, issue a Sccond licence in accordance with Form A in the Second Schedule and Schcdulc.
+case in which the Resident Magistrate shall grant the a p p ~ i c a t i o ~ ~ .
+
+application, the Clerk shall when the licence is confined to the premises in which the dealer carries on his business, issue a Sccond licence in accordance with Form A in the Second Schedule and Schcdulc.
 
 in any case in which the applicant applies for a traveller's licence, issue a licence in accordaiice with the Form B in the Second Schedule:
 
@@ -238,19 +236,25 @@ revoke Chief Officer of Constabulary, or the Chief Inspector or an licence.
 
 Inspector satisfies the Resident Magistrate that the holder of the licence is not a fit person to hold such a licence.
 
-8,-(1) Every Clerk who shall issue any licence under clerk to no^.^) roilce this Act shall forthwith notify the same to the Chief a n d c h e f Fz$Af Inspector and to the Chief Officer of Constabulary of the parish, and shall cause the name and address of the person ILcence licensed to be published in the Gazette.
+*clerk to no^.^) roilce a n d c h e f Fz$Af ILcence*
 
-(2) The production of a copy of the Gazette contain-
+8,-(1) Every Clerk who shall issue any licence under this Act shall forthwith notify the same to the Chief Inspector and to the Chief Officer of Constabulary of the parish, and shall cause the name and address of the person licensed to be published in the Gazette.
 
-ing any such notification, shall be prima facie proof that the person whose name appears therein is duly licensed under this Act for the current year.
+(2) The production of a copy of the Gazette contain-ing any such notification, shall be prima facie proof that the person whose name appears therein is duly licensed under this Act for the current year.
 
 (3) The Chief Officer of Constabulary shall cause to be posted up at each Court House, and at each police station in his parish, a list of all persons licensed under this Act in such parish, showing the class of licence that has been granted, and the place at which the licensee is authorized to trade.
 
-**9.** Subject to the provisions of section 7 every licence Durationof which shall be granted under this Act shall commence on licence. the 1st day of April in each year and shall, unless previously forfeited, expire on the 31st day of March in the immediately succeeding year :
+*Durationof licence.*
+
+**9.** Subject to the provisions of section 7 every licence which shall be granted under this Act shall commence on the 1st day of April in each year and shall, unless previously forfeited, expire on the 31st day of March in the immediately succeeding year :
 
 Provided that one moiety of the annual duty for a produce dealer’s licence may be paid half-yearly in advance on the 1st day of April and on the 1st day of October in each year.
 
-**10.** Every licensed produce dealer shall affix and keep Notice affixed on some conspicuous place at the entrance of the board to premises specified in his licence, a board whereon shall topremises. be legibly painted in white letters and figures not less than three inches in height, his name in full, the number and class of his licence, and the words “Licensed to deal in
+*Notice board to*
+
+*topremises.*
+
+**10.** Every licensed produce dealer shall affix and keep affixed on some conspicuous place at the entrance of the premises specified in his licence, a board whereon shall be legibly painted in white letters and figures not less than three inches in height, his name in full, the number and class of his licence, and the words “Licensed to deal in
 
 Agricultural Produce", and the year in which the licence is issued, and such board shall not be exhibited after the expiration of the licence.
 
@@ -414,7 +418,7 @@ at the time when he receives in such vehicle any specially protected produce, th
 
 (3) Every person authorized under this section to inspect such book shall, on inspection thereof, note therein the date of his inspection and shall sign his name to such noting, and any person inspecting such book who communicates to any other person the information so obtained, except in the like circumstances and for the like purposes as information obtained from a produce dealer’s book under section 11 may be communicated under that section, shall be guilty of an offence.
 
-**21.** (1) Every driver, operator or person in charge of driver Failureof to a licensed vehicle who fails to keep the book as required keepbook by section 20 or to produce the same for inspection when :zk2k lawfully required so to do, shall be guilty of an offence. and offences by carrier.
+**21.** (1) Every driver, operator or person in charge of Failureof driver to a licensed vehicle who fails to keep the book as required keepbook :zk2k by section 20 or to produce the same for inspection when lawfully required so to do, shall be guilty of an offence. and offences by carrier.
 
 (2) Every carrier shall be guilty of an offence-
 
@@ -484,14 +488,14 @@ man, or servant employed by and working under and in accordance with the directi
 
 (e) to make such regulations modifying or dispensing with any of the requirements of this Act with respect to any application for so doing, or as may be found necessary to give full effect to the provisions of this Act;
 
-(f) to make regulations prescribing or altering the fees payable for the registration of trade marks to be placed on packages of produce exported;
+to make regulations prescribing or altering the (f)
 
-(g) to make regulations with respect to the inspection, grading, classification and marking of any article
+fees payable for the registration of trade marks to be placed on packages of produce exported;
 
 *Fourth Schedule,*
 
-of agricultural produce, specified in the Fourth Schedule, intended to be exported from this Island;
+(g) to make regulations with respect to the inspection, grading, classification and marking of any article of agricultural produce, specified in the Fourth Schedule, intended to be exported from this Island;
 
 (h) to make regulations prescribing the forms of certificates of inspection, grading, classification
 
-m
+*m*

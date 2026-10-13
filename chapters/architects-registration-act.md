@@ -102,9 +102,9 @@ IThe lnclvdon of lhln page 1% aulhorlmd by L.N. IROAilW61
 
 "Board means the Architects Registration Board established in accordance with section 3;
 
-*s. 2@).*
+*4iz005 s. 2@).*
 
-''Caribbean Community" means the Caribbean Community 4iz005 established by Article 2 of the Revised Treaty of Chaguaramas signed in the Bahamas on the 5th day of July, 2001 and includes the CARICOM Single Market and Economy;
+''Caribbean Community" means the Caribbean Community established by Article 2 of the Revised Treaty of Chaguaramas signed in the Bahamas on the 5th day of July, 2001 and includes the CARICOM Single Market and Economy;
 
 "Chairman" means the Chairman of the Board;
 
@@ -126,11 +126,11 @@ IThe lnclvdon of lhln page 1% aulhorlmd by L.N. IROAilW61
 
 "secretary" means the secretary of the Board.
 
-( 2 ) For the purposes of this Act, a person is a national of 4 2005
+*4 2005 S. Z(d).*
 
-S. Z(d).
+*a*
 
-a Member State if that person is-
+( 2 ) For the purposes of this Act, a person is a national of Member State if that person is-
 
 (a) a citizen ofthat state; or
 
@@ -138,25 +138,21 @@ a Member State if that person is-
 
 ## PART 11-Registration qf Architects
 
-3 . 4 1 ) There shall be established for the purposes of this Act Establnshmnri
+*Establnshmnri 01 Board a*
 
-01 Board
+*of*
 
-a body to be called the Architects Registration Board which shall be a body corporate to which the provisions of section 28 of the Interpretation Act shall apply.
+3 . 4 1 ) There shall be established for the purposes of this Act body to be called the Architects Registration Board which shall be a body corporate to which the provisions of section 28 the Interpretation Act shall apply.
 
-(2) The provisions of the First Schedule shall have effect Fwst
+*Fwst Schedule*
 
-Schedule
-
-with respect to the constitution and procedures of the Board and otherwise in relation thereto
+(2) The provisions of the First Schedule shall have effect with respect to the constitution and procedures of the Board and otherwise in relation thereto
 
 0
 
+*Punnion\or the Board*
+
 **4.** \31) The functions of the Board shall be-
-
-Punnion\or
-
-the Board
 
 (a) to register architects;
 
@@ -174,17 +170,21 @@ the Board
 
 (c) to do all such things as may appear to it to be necessary or desirable for carrying out its fhnctions under this Act.
 
-**5.** The Minister shall designate, by general notice, a person to Rwstrar. be the Registrar of Architects who shall also be secretary of the Board.
+*Rwstrar.*
 
-**6.** \41) The Board shall cause the Registrar to keep a register l h c r e ~ t s w (to be known as the Register of Architects) of the names, addresses, qualifications and such other particulars as may be prescribed of all persons who are registered as architects pursuant to this Act.
+**5.** The Minister shall designate, by general notice, a person to be the Registrar of Architects who shall also be secretary of the Board.
 
-(2) The register shall be open to inspection by any member of the public at all reasonable times and a copy of the register shall be published in the Gmtte by the Registrar at such times and in such manner as may be prescribed.
+*l h c r e ~ t s w*
 
-fly
+**6.** \41) The Board shall cause the Registrar to keep a register (to be known as the Register of Architects) of the names, addresses, qualifications and such other particulars as may be prescribed of all persons who are registered as architects pursuant to this Act.
+
+(2) The register shall be open to inspection by any member of the public at all reasonable times and a copy of the register shall be published in the Gmtte by the Registrar at such times and in such manner as may be prescribed. fly
 
 \-",'
 
-**7.** (1) Every application for registration as an architect r\p~licaticm under this Act shall be inthe prescribed form signed by ' " " " @ : , , : : the applicant and delivered to the Registrar and shall set out the grounds on which the applicant claims to be entitled to registration.
+*r\p~licaticm : :*
+
+**7.** (1) Every application for registration as an architect under this Act shall be inthe prescribed form signed by ' " " " @ : , , the applicant and delivered to the Registrar and shall set out the grounds on which the applicant claims to be entitled to registration.
 
 (2) The Board may require such evidence of identity or such verification of any matter alleged by the applicant or such further information relating to the application as it thinks requisite.
 
@@ -226,9 +226,9 @@ tions for registratiun.
 
 412005 S. 3(h)[ii).
 
-(ii) that he has had at least two years practical ex- 4 m o s perience in architectural work under the S. 3(h)(iii). supervision of a registered architect (at least one year of which was in a Member State) and has passed such examinations as may be required by the Board.
+(ii) that he has had at least two years practical ex- 4 m o s S. 3(h)(iii). perience in architectural work under the supervision of a registered architect (at least one year of which was in a Member State) and has passed such examinations as may be required by the Board.
 
-**10.** \41) Notwithstanding anything to the contrary, any Special person who comes within any of the categories of persons regirtration. specified in the Second Schedule may, on application to the Second Board in the prescribed manner and on payment of the Schedule. prescribed fee, be specially registered to cany on the practice of architecture for such time and on such conditions as the Board may with the approval to the Minister specify.
+**10.** \41) Notwithstanding anything to the contrary, any Special regirtration. person who comes within any of the categories of persons specified in the Second Schedule may, on application to the Second Schedule. Board in the prescribed manner and on payment of the prescribed fee, be specially registered to cany on the practice of architecture for such time and on such conditions as the Board may with the approval to the Minister specify.
 
 (2) The Minister may, after consultat.ion with the Board, by order amend the Second Schedule so as to add to or remove any of the categories of persons specified therein.
 
@@ -240,15 +240,19 @@ at the time of such removal is registered pursuant to subsection (1) within that
 
 lThe inclvaion o f this page is aulhorhd by L.N. I8OA120061
 
-(4) The Registrar shall enter in a separate part of the register the names of all persons specially registered under this section.
+*this*
 
-(5) The Registrar shall issue to every person specially registered under this section a certificate of registration in the prescribed form which, to the extent specified therein, shall - 1 entitle that person to practise as a registered architect.
+(4) The Registrar shall enter in a separate part of the register the names of all persons specially registered under section.
 
-*Temporary regisfration.*
+*the*
+
+(5) The Registrar shall issue to every person specially registered under this section a certificate of registration in prescribed form which, to the extent specified therein, shall - 1 entitle that person to practise as a registered architect.
+
+*Temporary regisfration. any*
 
 Where the Board is satisfied, upon the application of 11.-(1)
 
-any person, that that person-
+person, that that person-
 
 (a) is not a national of a Member State;
 
@@ -260,13 +264,17 @@ any person, that that person-
 
 (c) possesses sufficient knowledge and experience for the efficient practice of architecture in the capacity aforesaid,
 
-the Board shall, on receipt of the prescribed fee, grant temporary registration to that person.
+*the*
 
-(2) The Board may, upon application and payment of the prescribed fee, grant temporary registration to any
+Board shall, on receipt of the prescribed fee, grant temporary registration to that person.
+
+*the*
 
 *4 2005 s 4W*
 
-person, not ordinarily resident in a Member State and not being a person to whom the provisions of subsection (1) applies, who satisfies the Board that he is or will be temporarily visiting Jamaica for the purpose of practising the profession of architecture and is otherwise qualified under paragraphs (6) and
+*a*
+
+(2) The Board may, upon application and payment of prescribed fee, grant temporary registration to any person, not ordinarily resident in a Member State and not being person to whom the provisions of subsection (1) applies, who satisfies the Board that he is or will be temporarily visiting Jamaica for the purpose of practising the profession of architecture and is otherwise qualified under paragraphs (6) and
 
 (c) of section 9
 
@@ -282,7 +290,7 @@ person, not ordinarily resident in a Member State and not being a person to whom
 
 (7) During the period specified in any t e m p ~ . ~ ~ y certificate of registration or an:: extensioi> thereof, the holder shall, unless the certificate has been cancelled, be deemed for the purposes of this Act to be a registered architect.
 
-**12.** Every person registered under this Act who, subse- Additional qualifica-quent to his registration, obtains any degree, qualification ,ions, or other designation relevant to the practice of architecture, shall be entitled, on payment of the prescribed fee, to have such degree, qualification or designation inserted in the register in substitution for or in addition to those previously entered.
+**12.** Every person registered under this Act who, subse-Additional qualifica-quent to his registration, obtains any degree, qualification ,ions, or other designation relevant to the practice of architecture, shall be entitled, on payment of the prescribed fee, to have such degree, qualification or designation inserted in the register in substitution for or in addition to those previously entered.
 
 **13.** \-(1) It shall be the duty of the Registrar--
 
@@ -294,27 +302,35 @@ person, not ordinarily resident in a Member State and not being a person to whom
 
 (c) to correct, in accordance with the Board's direction, any entry in the register which the Board directs him to correct as being in the opinion of the Board, an entry which was incorrectly made;
 
-(d) to remove from the register, with the approval of the Board, the name of any person who has died or
-
 *(3*
 
-who, not being a national of Jamaica or of any other Member State, has, for a period of at least one year, ceased to be ordinarily resident in Jamaica or who has been issued with a temporary certificate of registration which has expired or has been cancelled or who, in accordance with any of the provisions of this Act, ceases to be a registered architect,
+(d) to remove from the register, with the approval of the Board, the name of any person who has died or who, not being a national of Jamaica or of any other Member State, has, for a period of at least one year, ceased to be ordinarily resident in Jamaica or who has been issued with a temporary certificate of registration which has expired or has been cancelled or who, in accordance with any of the provisions of this Act, ceases to be a registered architect,
 
-( e ) to make, from time to time, any necessary altera-tions in any of the particulars mentioned in subsection (1) of section 6.
+*( e )*
+
+to make, from time to time, any necessary altera-tions in any of the particulars mentioned in subsection (1) of section 6.
 
 (2) If the Registrar-
 
 (a) sends by post to any person registered under this Act a registered letter, addressed to him at his address appearing in the register, enquiring whether he has ceased to practise as an architect, or has changed his address and receives no reply to that letter within three months from the date of posting; and
 
-( h ) upon the expiration of the period aforesaid sends in like manner to that person a similar letter and receives no reply to either letter with three months of the date of
+*( h )*
 
-*: . 0' ,*
+*: . 0'*
 
-the second posting,
+upon the expiration of the period aforesaid sends in like manner to that person a similar letter and receives no reply to either letter with three months of the date of the second posting,
 
-the Board may direct the Registrar to remove from the register the name of that person.
+*the*
 
-(3) The Board may direct the Registrar to restore to the register any name removed therefrom pursuant to this section.
+*,*
+
+*ter the*
+
+Board may direct the Registrar to remove from the regis-name of that person.
+
+*the section.*
+
+(3) The Board may direct the Registrar to restore to register any name removed therefrom pursuant to this
 
 **14.** (1) No person other than a registered architect shall be khtitlement entitled to recover in any action any fee, charge, gratuity, tO hes,e,,, TdCOVX
 
@@ -344,13 +360,15 @@ himself out as being able to perform or does perform any architectural service o
 
 (u) he does so in the course of his duties as an employee of a registered architect;
 
-( h ) being an engineer or land surveyor registered under such laws as may, for the time being, provide for the registration of engineers or land surveyors, he engages in such architectural work as may be incidental to his practice as an engineer or land surveyor, as the case may be;
+*( h )*
 
-( ~ j L&i5 au i a p ! c y ~ 3 ~ ' ! f h ~ G~~:srvnent, who does not
+being an engineer or land surveyor registered under such laws as may, for the time being, provide for the registration of engineers or land surveyors, he engages in such architectural work as may be incidental to his practice as an engineer or land surveyor, as the case may be;
+
+*( ~*
 
 *Sccund Schedule.*
 
-fall within the provisions of the Second Scheduio, 11c does so in the course of his duties as such an employee.
+j L&i5 au i a p ! c y ~ 3 ~ ' ! f h ~ G~~:srvnent, who does not fall within the provisions of the Second Scheduio, 11c does so in the course of his duties as such an employee.
 
 (4) Any person who contravenes the of subsection (1) shall be guilty of an offence and shall be liable on summary conviction before a Resident Magistrate-
 
@@ -358,25 +376,21 @@ fall within the provisions of the Second Scheduio, 11c does so in the course of 
 
 (b) in the case of a second or subsequent offence, to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding twelve months.
 
-*Organizations.*
+*Organizations. this S.8.*
 
-**16.** No organization shall be entitled to be registered under 412005
+**16.** No organization shall be entitled to be registered under 412005 Act.
 
-*S.8.*
+*\17. If*
 
-this Act.
+*Improper registration. opinion Board*
 
-*Improper registration.*
+any person who is registered as an architect has, in the of the Board, improperly obtained such registration, the shall have power-
 
-**17.** If any person who is registered as an architect has, in the opinion of the Board, improperly obtained such registration, the Board shall have power-
-
-/ 7 (A
-
-(a) where such registration was obtained on the basis of any statement, information or document sup-plied by that person which he knew at the time to be false, to cancel such registration and to refuse to grant registration on any subsequent application;
+/ 7 (A (a) where such registration was obtained on the basis of any statement, information or document sup-plied by that person which he knew at the time to be false, to cancel such registration and to refuse to grant registration on any subsequent application;
 
 ( h ) where such registration was obtained on any basis other than that specified in paragraph (a), to require the person registered to submit, within a period of three months of being so required or such longer period as the Board may permit, a new application in accordance with the provisions of this Act and, if he fails to do so, to cancel such registration.
 
-**18.** (1) The Board shall appoint, from among persons who D~rciplinilr? are registered architects but who are not members of the Board, C ~ l l l l i l I ~ . d . a Disciplinary Committee consisting of such number of persons, not being less than five nor more than seven, as the Board thinks fit.
+**18.** (1) The Board shall appoint, from among persons who D~rciplinilr? C ~ l l l l i l I ~ . d . are registered architects but who are not members of the Board, a Disciplinary Committee consisting of such number of persons, not being less than five nor more than seven, as the Board thinks fit.
 
 (2) The provisions of the Third Sclledule shall have ihrrd ScheLk effect with respect to the constitution of the Disciplinary Committee and otherwise in relation thereto
 
@@ -386,7 +400,7 @@ this Act.
 
 .,
 
-**19.** {I) On receipt of a report from the Disciplinary Disciplinary , , Committee, if the Board finds any person registered under this powers of Act-
+**19.** {I) On receipt of a report from the Disciplinary Disciplinary , , powers of Committee, if the Board finds any person registered under this Act-
 
 (a) to have procured registration under this Act, as a result of any misleading, false or fraudulent misrepresentation; or
 
@@ -414,7 +428,9 @@ imprisonment for a term not exceeding twelve months or to both such fine and imp
 
 (3) The Board may reinstate any person whose registration has been cancelled and may order that the name of such person be restored to the register.
 
-2 0 . 4 1 ) Any person that is dissatisfied with any determina- Appeals. tion of the Board in relation to an application for registration under this Act or with any order of the Board based on a report made by the Disciplinary Committee may appeal from that determination or order to a Judge in Chambers.
+*Appeals.*
+
+2 0 . 4 1 ) Any person that is dissatisfied with any determination of the Board in relation to an application for registration under this Act or with any order of the Board based on a report made by the Disciplinary Committee may appeal from that determination or order to a Judge in Chambers.
 
 (2) On any such appeal, the facts may be proved by \
 
@@ -424,9 +440,13 @@ affidavit unless the Judge orders otherwise.
 
 (4) In deciding an appeal, the Judge may substitute his own opinion for the opinion of the Board upon any matter and may, in his own discretion, order the Board to take any action for which it is empowered under this Act.
 
-**21.** The Board may, with the approval of the Minister, make Rulesmade rules in relation to the promotion by the Board, in the public by Board. interest, of acceptable standards of professional conduct among registered architects and, without prejudice to the generality of the foregoing, such rules may prescribe a code of professional conduct to be observed by all registered architects and may make provisions with respect to any other thing prescribed by regulations for the purposes of this Act.
+*Rulesmade by Board.*
 
-**22.** A certificate of registration purporting to be issued by the Evidential Registrar shall be prima facie evidence in all courts and before provisions. all persons of the facts therein certified without hrther or other proof thereof
+**21.** The Board may, with the approval of the Minister, make rules in relation to the promotion by the Board, in the public interest, of acceptable standards of professional conduct among registered architects and, without prejudice to the generality of the foregoing, such rules may prescribe a code of professional conduct to be observed by all registered architects and may make provisions with respect to any other thing prescribed by regulations for the purposes of this Act.
+
+*Evidential provisions.*
+
+**22.** A certificate of registration purporting to be issued by the Registrar shall be prima facie evidence in all courts and before all persons of the facts therein certified without hrther or other proof thereof
 
 lThe inrluslon of this page Is suthoriad by I..IV. 180A110061
 
@@ -434,7 +454,9 @@ ARCHITECTS REGISTR4TlON
 
 *Regulations.*
 
-**23.** The Minister may, after consultation with the Board, make regulations generally for giving effect to the purposes and provis,ions of this Act and, in particular but without prejudice to the generality of the foregoing, may make regulations in relation to all or any of the following matters-
+*the to*
+
+**23.** The Minister may, after consultation with the Board, make regulations generally for giving effect to the purposes and provis,ions of this Act and, in particular but without prejudice to generality of the foregoing, may make regulations in relation all or any of the following matters-
 
 (a) prescribing the qualifications and requirements which shall be a pre-requisite for registration under this 0 Act;
 
@@ -460,9 +482,9 @@ V) providing for examinations to be conducted for the purposes of registration u
 
 .-
 
-Notwithstanding anything to the contrary, on Registration 24.-(1)
+Notwithstanding anything to the contrary, on 24.-(1)
 
-application made to the Board within one year from the 2nd day of November, 1987, or such longer period as the Minister may, architoctsat by order, prescribe, a person who does not possess the require- th . corn-ments specified in section 9, shall be entitled to be registered as ofthis ~ c t . an architect under this Act, if he satisfies the Board that he-
+Registration application made to the Board within one year from the 2nd day of November, 1987, or such longer period as the Minister may, th . corn-architoctsat by order, prescribe, a person who does not possess the require-ments specified in section 9, shall be entitled to be registered as ofthis ~ c t . an architect under this Act, if he satisfies the Board that he-
 
 (a) is a citizen of Jamaica or is ordinarily resident in Jamaica;
 

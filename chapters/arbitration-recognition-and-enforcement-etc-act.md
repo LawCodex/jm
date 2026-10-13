@@ -20,19 +20,29 @@ retrieved: 2026-10-13
 
 ### ARBITRATION (RECOGNITIONAND ENFORCEMENT OF FOREIGN A WARDW
 
-which this Convention applies than are imposed on the recognition or enforcement of domestic arbitral awards.
+*which*
 
-Article I V
+this Convention applies than are imposed on the recognition or enforcement of domestic arbitral awards.
 
-**1.** To obtain the recognition and enfwcement mentioned in the preceding article, the party applying for recognition and enforcement shall, at the time of the application, supply:
+*of the*
 
-( U ) The duly authenticated original award or a duly certified oopy thereoc
+Article I V To obtain the recognition and enfwcement mentioned in the preceding article, the party applying for recognition and enforcement shall, at the time application, supply:
+
+The duly authenticated original award or a duly certified oopy ( U )
+
+thereoc
 
 (b) ?he original agreement referred to in article I1 or a duly certified copy thereof
 
-**2.** Ifthe said a d or ageement is not made in an official language o f the country in which the award is relied u p , the party applying for recognition and enforcement of the award shall produce a translation of these documents into such language. The translation shall be certified by an official or sworn translator or by a diplomatic or consular agent.
+*and into*
 
-Article V I . Recognition and enforcement of the award may be refused, at the request of the party against whom it is invoked, only if that party furnishes to the competent authority where the m g n i t i o n and enforcement is sought, Droof that:
+**2.** Ifthe said a d or ageement is not made in an official language o f the country in which the award is relied u p , the party applying for recognition enforcement of the award shall produce a translation of these documents such language. The translation shall be certified by an official or sworn translator or by a diplomatic or consular agent.
+
+*I .*
+
+*the Droof*
+
+Article V Recognition and enforcement of the award may be refused, at the request of the party against whom it is invoked, only if that party furnishes to competent authority where the m g n i t i o n and enforcement is sought, that:
 
 The parties to the agreement r e f e d to in article 11 were, under the law applicable to them, under some incapacity, or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made; or
 
@@ -78,11 +88,9 @@ Article X
 
 **1.** Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State Concerned.
 
-**2.** At any time thereafter any such extension shall be made by notification addressed to the Secretary-Gen~al of the United Nations and shall take effect as fiom the ninetieth day after the day of receipt by the Secretary-
-
 *.. ' ,*
 
-General of the United Nations of this notification, or as h the date ofenby into force of the Convention for the state concerned, whichever is the later.
+**2.** At any time thereafter any such extension shall be made by notification addressed to the Secretary-Gen~al of the United Nations and shall take effect as fiom the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as h the date ofenby into force of the Convention for the state concerned, whichever is the later.
 
 **3.** With respect to those territnies to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necmary steps in order to extend the application of this Convention to such tenitories, subject, where necffsary for constitutional reams, to the consent of the Govarunmts of such territories.
 
@@ -102,15 +110,11 @@ IT1k 111c1iiimi c i l l l n h p ; i p is iiitheired by L ~ l i . I I I!2W? ]
 
 ### ARBITRATION (RECOGNITIONAND ENFORCEUENT OF FOREIGN A WAYARDS)
 
-Article XIII
-
-**1.** Any Contracting State may denounce this Convention by a Mitten notification to the Secretary-cienaal of the United Nations. Denunciation shall take effect one year a& the date of receipt of the notification by the S€lX*GRleral.
-
-**2.** Any State whih has made a declaration or notification under article X
+Article XIII Any Contracting State may denounce this Convention by a Mitten notification to the Secretary-cienaal of the United Nations. Denunciation shall take effect one year a& the date of receipt of the notification by the S€lX*GRleral.
 
 *\-. I*
 
-may, at any time thereafter, by notification to the SBcretary-General of the United Nations, declare that this Conwntion shall c a s e to extend to the territory concerned one year after the date of the receipt of the notification by the SeCretary-General.
+**2.** Any State whih has made a declaration or notification under article X may, at any time thereafter, by notification to the SBcretary-General of the United Nations, declare that this Conwntion shall c a s e to extend to the territory concerned one year after the date of the receipt of the notification by the SeCretary-General.
 
 **3.** This Convention shall continue to be applicable to arbibal awards in respect of which recognition or enforcement p r d i n g s have been instituted before the enunciation takes effect.
 

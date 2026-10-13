@@ -18,15 +18,23 @@ retrieved: 2026-10-13
 
 # The Art Unions Legalization Act
 
-THE ART UNIONS LEGALIZATION ACT Cap. 23.
+*Cap. 23.*
+
+### THE ART UNIONS LEGALIZATION ACT
 
 [IZth May, 1890.1
 
-Whereas it is expedient to legalize the formation in this Pmmbie. Island of the voluntary associations known as Art Unions, for the purchase of statuary, paintings, drawings or other works of art, to be allotted or distributed by chance or otherwise among the several members, subscribers or contributors forming part of such associations, or for raising sums of money by subscriptions or contributions to be allotted or distributed by chance or otherwise as prizes among the members, subscribers, or contributors, forming part of such associations, on the condition, nevertheless, that such sums of money so allotted and distributed be expended solely and entirely in the purchase of statuary, paintings, drawings or other works of art:
+*Pmmbie.*
 
-**1.** This Act may be cited as the Art Unions shorttitle. Legalization Act.
+Whereas it is expedient to legalize the formation in this Island of the voluntary associations known as Art Unions, for the purchase of statuary, paintings, drawings or other works of art, to be allotted or distributed by chance or otherwise among the several members, subscribers or contributors forming part of such associations, or for raising sums of money by subscriptions or contributions to be allotted or distributed by chance or otherwise as prizes among the members, subscribers, or contributors, forming part of such associations, on the condition, nevertheless, that such sums of money so allotted and distributed be expended solely and entirely in the purchase of statuary, paintings, drawings or other works of art:
 
-**2.** AI voluntary associations as aforesaid which may be ~ r t u o i o n Associations constituted according to the provisions hereinafter iegaliZcd if licsnxd or contained shall be deemed to be lawful associations; and constituted the members of and subscribers and contributors to all such gtythis lawful associations, and all persons acting under their authority or on their behalf for the purposes aforesaid, shall be freed and discharged from all pains and penalties, suits, prosecutions and liabilities, to which by any enactment now or hereafter to be in force they would be liable, but for the passing of this Act, as being concerned in illegal lotteries or other unlawful games, by reason of anything done or which may be done by them or any of them in furtherance of the allotment or distribution, by scheme or
+*shorttitle.*
+
+**1.** This Act may be cited as the Art Unions Legalization Act.
+
+*~ r t u o i o n Associations iegaliZcd if licsnxd or constituted gtythis*
+
+**2.** AI voluntary associations as aforesaid which may be constituted according to the provisions hereinafter contained shall be deemed to be lawful associations; and the members of and subscribers and contributors to all such lawful associations, and all persons acting under their authority or on their behalf for the purposes aforesaid, shall be freed and discharged from all pains and penalties, suits, prosecutions and liabilities, to which by any enactment now or hereafter to be in force they would be liable, but for the passing of this Act, as being concerned in illegal lotteries or other unlawful games, by reason of anything done or which may be done by them or any of them in furtherance of the allotment or distribution, by scheme or
 
 ### A R T UNIONS LEGALIZATION
 

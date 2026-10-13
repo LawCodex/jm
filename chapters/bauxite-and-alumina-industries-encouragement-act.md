@@ -48,13 +48,13 @@ retrieved: 2026-10-13
 
 lrbc induaion of thj, mge is a ~ o r i z o d by LN. 90/1993]
 
-*crp. 37. r” or 1%7, 5dW). Udl)(S sca, :6t,,%l s. 64 13 ol l997.*
+*crp. 37. r” or 1%7, 5dW). Udl)(S sca, :6t,,%l s. 64 13 ol l997. Shorttitb.*
 
 ### THE BAUXITE AND ALUMINA INDUSTRES (ENCOURAGEMENT) ACT
 
 W t h June. 1950.1
 
-**1.** This Act may be cited as the Bauxite and Alumina Shorttitb. Industries (Encouragement) Act.
+**1.** This Act may be cited as the Bauxite and Alumina Industries (Encouragement) Act.
 
 Z.-(l) Where the Minister is satisfied that any person is engaged in or is desirous of engaging in the winning in J d c a of bauxite or the producing in Jamaica of &mina from bauxite so won, and that it is expedient so to do, he may by order declare such person to be a rscognized bauxite producer or a alumina producer, or both, ~~
 
@@ -92,7 +92,9 @@ by L.N. 1461 19991
 
 (2) All documents used in connection with the importation into Jamaica of any of the articles referred to in subsection (U, shall be exempt from additional stamp duty.
 
-\13) For the purposes of this section any articles specified in Part I of the Schedule shall be deemed to be imported by a recognized bauxite producer if the Corn- I 11985 4. missioner of Customs and Excise is satisfied that they are
+*I 11985*
+
+\13) For the purposes of this section any articles specified in Part I of the Schedule shall be deemed to be imported by a recognized bauxite producer if the Corn- 4. missioner of Customs and Excise is satisfied that they are
 
 imported by the holder of a contract with such producer to perfora construction work for such producer and that the articles so imported will-
 
@@ -102,19 +104,13 @@ imported by the holder of a contract with such producer to perfora construction 
 
 and if the contractor gives security to the satisfaction of the Commissioner of Customs and Excise.
 
-*\\*”*
+*I ppacon- \*” d i m p r t , d m n 1s 1980 6 6w WIrn Slffl.*
 
-5.41) No customs duty or other similar impost or I ppacon-general consumption tax shall be payable in respect of the d i m
-
-*1s 1980 6 6w WIrn Slffl.*
-
-importation into Jamaica by any recognized alumina pro- p r t , d m n ducer-
-
-(a) of any of the articles specified in Part II of the
+5.41) No customs duty or other similar impost or general consumption tax shall be payable in respect of the importation into Jamaica by any recognized alumina producer-
 
 *Schedula Part 11.*
 
-Schedule; or
+(a) of any of the articles specified in Part II of the Schedule; or
 
 *37/1%7 S. \*a).*
 
@@ -122,11 +118,9 @@ Schedule; or
 
 (2) AU documents used in connection with the importation into Jamaica of any of the articles referred to in subsection (l), shall be exempt from additional stamp duty.
 
-(3) For the purposes of this section any articles specified in Part II of the schedule shall be deemed to be
-
 *sch.*
 
-imported by a recognized alumina producer if the Commis- 1211985
+(3) For the purposes of this section any articles specified in Part II of the schedule shall be deemed to be imported by a recognized alumina producer if the Commis- 1211985
 
 sioner of Cnstoms and Excise is satisfied that they are im-ported by the holder of a contract with such producer to perform construction work for such producer and that the arti-cles so imported will-
 
@@ -136,11 +130,9 @@ sioner of Cnstoms and Excise is satisfied that they are im-ported by the holder 
 
 work or any work in connection with the repair, maintenance or restoration of any plant or equip ment; and
 
-(b) upon the conclusion of such work either be disposed of by the contractor to such producer or be re-exported by the contractor, and if the contractor gives security to the satisfaction of 1211985
-
 *%.*
 
-the Commissioner of Customs and Excise.
+(b) upon the conclusion of such work either be disposed of by the contractor to such producer or be re-exported by the contractor, and if the contractor gives security to the satisfaction of 1211985 the Commissioner of Customs and Excise.
 
 *OuJtoms duty and tax m be paid in certain circurn-stancts.*
 
@@ -148,11 +140,21 @@ the Commissioner of Customs and Excise.
 
 p indusion of thia pwp is autharked by L.N. 901 19931
 
-articles are so sold or given away there is paid to the 3 9 m Commissioner of Customs and Excise or the Commissioner p 7 9 1 of Taxpayer Audit and Assessment all sums whiah would L.N. have been payable in respect of customs duty or other simi- 16s/1995. lar impost and g e n e d consumption tax in respect of the 16(1991 importation into Jamaica of such articles if such articles '.a. had not been imported into Jamaica under the provisions of this Act.
+*3 9 m p 7 9 1 L.N. 16s/1995. 16(1991 '.a.*
 
-( 2 ) Where any articles imported into Jamaica free of customs duty or general consumption tax pursuant to the 16/]w1 provisions of this Act are sold or given away otherwise than S. 64. in accordance with the provisions of subsection (I), such articles shall be forfeited to the Crown and the persons by whom and to whom such articles are so sold or given away shall both be guilty of an offence against this section and on summary conviction before a Resident Magistrate shall respectively be liable to a penalty of three times the value of the articles so sold m given away or one thousand d o h (whichever shall be the greater) and in default of payment thereof to be imprisoned for any term not exceeding twelve months.
+articles are so sold or given away there is paid to the Commissioner of Customs and Excise or the Commissioner of Taxpayer Audit and Assessment all sums whiah would have been payable in respect of customs duty or other similar impost and g e n e d consumption tax in respect of the importation into Jamaica of such articles if such articles had not been imported into Jamaica under the provisions of this Act.
 
-**7.** (1) Notwithstanding anything in any Act which may RcgM hereafter be enacted or in any resolution of the House of * d timd dyd Representatives or in any order of the Minister, whereby any customs duty or 0 t h similar impost may be imposed upon the importation into Jamaica of petroleum fuel (except 3 7 / 1 4 petrol), fuel oil or diesel oil, no such customs duty or other S. xah similar impost shall be payable in respect of the importation into Jamaica of any petroleum fuel (except petrol), fuel oil or diesel oil, during the relevant cOnOesSEOn period if such petroleum fuel or such oil is imported- 37/1%1 s. m).
+*16/]w1 S. 64.*
+
+( 2 ) Where any articles imported into Jamaica free of customs duty or general consumption tax pursuant to the provisions of this Act are sold or given away otherwise than in accordance with the provisions of subsection (I), such articles shall be forfeited to the Crown and the persons by whom and to whom such articles are so sold or given away shall both be guilty of an offence against this section and on summary conviction before a Resident Magistrate shall respectively be liable to a penalty of three times the value of the articles so sold m given away or one thousand d o h (whichever shall be the greater) and in default of payment thereof to be imprisoned for any term not exceeding twelve months.
+
+*RcgM d timd dyd*
+
+*3 7 / 1 4 S. xah*
+
+*37/1%1 s. m).*
+
+**7.** (1) Notwithstanding anything in any Act which may hereafter be enacted or in any resolution of the House of * Representatives or in any order of the Minister, whereby any customs duty or 0 t h similar impost may be imposed upon the importation into Jamaica of petroleum fuel (except petrol), fuel oil or diesel oil, no such customs duty or other similar impost shall be payable in respect of the importation into Jamaica of any petroleum fuel (except petrol), fuel oil or diesel oil, during the relevant cOnOesSEOn period if such petroleum fuel or such oil is imported-
 
 (a) by any recognized bauxite producer for the purpose of being used in the winning, treating, transporting in Jamaica and shipping of bauxite; or
 
@@ -218,7 +220,9 @@ shall apply, with such modifications as may be necessary, as they apply in relat
 
 9 . 4 1 ) Notwithstanding anything to the contrary, where the Minister is satisfied that by reason of the manner in which or terms upon which or persons to whom any recog-nized bauxite producer disposes or proposes to dispose of any bauxite won by him in Jamaica it is not practicable accurately to assess for the purposes of any law relating to income tax his rate of nrofit uDon bauxite so won, the Minister may direct thai during such period as may be specified in such direction the rate of profit assessable for income tax purposes upon all units of bauxite (specified in such direction) disposed of by such producer shall for such purposes be deemed to be such sum as may be so specified:
 
-Provided that no order under this subsection shall apply 3' to any bauxite won in Jamaica and utilized in the manu- S. facture in Jamaica of alumha.
+*3' S.*
+
+Provided that no order under this subsection shall apply to any bauxite won in Jamaica and utilized in the manufacture in Jamaica of alumha.
 
 *S*
 
@@ -236,17 +240,27 @@ in Jamaica by that producer to an m a t e d cam-pany, by order direct that for t
 
 Provided that any order made under this paragraph and any subsequent order varying or revok-ing such an order shall be subject to allhnative resolution of the House of Representatives.
 
-(3) The Minister shall, in making any order or direc- 371 1917
+*371 1917 S. 7(b). tion*
 
-S. 7(b). tion under subsection (2), have regard to any agreement or arrangement referred to in section 3 which is made with the recognized alumina producer to whom such order relates and is in force at the date on which such order is made.
+*the relates made.*
 
-(4) No direction under subsection (1) or paragraph
+(3) The Minister shall, in making any order or direc-under subsection (2), have regard to any agreement or arrangement referred to in section 3 which is made with recognized alumina producer to whom such order and is in force at the date on which such order is
 
-(a) of subs&ion (2) shall be revoked or varied dnrlng the period specified in such direction except with the prior approval of the producer to whom such direction relates.
+*(a) of period*
 
-(5) Where any recognized alumina producer disposes of alumina manufactured in Jamaica by that producer to any person other than an affiliated company for a sum which appears to the Commissioner of Taxpayer Audit and b;j,w9. Assessment to be less than the fair and reasonable value of the alumina based on the market conditions prevailing at the time of the dispsal thereof, the Commissioner of Tax- LN. payer Audit and Assessment may, in assessing the mount 165/1999 of income tax payable by that producer in respect of the period during which the profits m i v e d from the disposal of the alumina are required to be brought into charge to tax for income tax purposes, substitute for the aforesaid sum ‘the fair and reasonable d u e of the alumha based on the market conditions prevailing at the time of the disposal thereof.
+(4) No direction under subsection (1) or paragraph subs&ion (2) shall be revoked or varied dnrlng the specified in such direction except with the prior approval of the producer to whom such direction relates.
 
-(6) Subsection ( 5 ) shall not apply in respect of any transaction which the Cammissioner of Taxpaye~ Audit and bz,949. Assessment is satisfied was d e d out in god faith between independent persons dealing at arm’s length.
+m
+
+*b;j,w9.*
+
+*LN. 165/1999*
+
+(5) Where any recognized alumina producer disposes of alumina manufactured in Jamaica by that producer to any person other than an affiliated company for a sum which appears to the Commissioner of Taxpayer Audit and Assessment to be less than the fair and reasonable value of the alumina based on the market conditions prevailing at the time of the dispsal thereof, the Commissioner of Taxpayer Audit and Assessment may, in assessing the mount of income tax payable by that producer in respect of the period during which the profits m i v e d from the disposal of the alumina are required to be brought into charge to tax for income tax purposes, substitute for the aforesaid sum ‘the fair and reasonable d u e of the alumha based on the market conditions prevailing at the time of the disposal thereof.
+
+*bz,949.*
+
+(6) Subsection ( 5 ) shall not apply in respect of any transaction which the Cammissioner of Taxpaye~ Audit and Assessment is satisfied was d e d out in god faith between independent persons dealing at arm’s length.
 
 (7) In this &’ ion-
 
@@ -254,9 +268,13 @@ the expression “an affiliated company” means a company which controls, or is
 
 “Minister” means the Minister responsible for finance.
 
-**10.** The Minister may make regulations generally for the Rerularionr better carrying into effect of this Act and without prejudice to the generality of the foregoing may by regulations provide
+*Rerularionr*
 
-(U) for the marking of any articles purchased free of ?!%’ excise duty or imported free of customs duty
+*?!%’*
+
+**10.** The Minister may make regulations generally for the better carrying into effect of this Act and without prejudice to the generality of the foregoing may by regulations provide
+
+(U) for the marking of any articles purchased free of excise duty or imported free of customs duty
 
 BAUXITE AND ALUMINA INDllSTRlES
 
@@ -266,7 +284,9 @@ or any similar impost under the provisions of this Act with a distinctive mark; 
 
 (c) for the making of returns in such form at such times to such persons and containing such parti-culars in relation to such matters as may be prescribed; and
 
-td for the inspection of any records required to be kept under regulations made under this Act and of any lands, buildings, plant, apparatus, materials, stores, bauxite or alumina occupied by or under the control of any recognized bauxite producer or any recognized alumha producer; and
+*td*
+
+for the inspection of any records required to be kept under regulations made under this Act and of any lands, buildings, plant, apparatus, materials, stores, bauxite or alumina occupied by or under the control of any recognized bauxite producer or any recognized alumha producer; and
 
 (e) that any person who contravenes any regulations made under this section shall on summary conviction before a Resident Magistrate be liable to a fine not exceeding such sum not being greater than one thousand dollars, or to such term of imprisonment with hard labour for such period not exceeding twelve months, or to both such fine and imprisonment as may be prescribed.
 
@@ -282,14 +302,14 @@ BAUXITE A N D ALUMINA 1NDUSTRlES
 
 *~*
 
-All plant, machinery, building materials not intendd for the. am-struction of dwelling-houses. tools, mechanical diggers, overhead conveyors, rails, rail cars, pipes, pumps, wharf materials. d r i l b g and blasting equipment, explosives and accessories, trucks and cars not intended to be and in no circumstances used upon a public road and not required to be licensed under the Road Tr&c Act, trucks as dc6ned SIIWO
+*SIIWO . 1 6 .*
 
-*. 1 6 .*
-
-in section 11 of the Road Traffic Act with the exception of -r vehicles such as are commonly known as buses and &-buses and motor vehicles constructed to carry a load or passengers or both and commonly known as station-waggons, and any other items of, 01 for the construction of, plant and equipment wcessaq for the winning, treating, transportation in Jamaica and shipping of bauxite.
+All plant, machinery, building materials not intendd for the. am-struction of dwelling-houses. tools, mechanical diggers, overhead conveyors, rails, rail cars, pipes, pumps, wharf materials. d r i l b g and blasting equipment, explosives and accessories, trucks and cars not intended to be and in no circumstances used upon a public road and not required to be licensed under the Road Tr&c Act, trucks as dc6ned in section 11 of the Road Traffic Act with the exception of -r vehicles such as are commonly known as buses and &-buses and motor vehicles constructed to carry a load or passengers or both and commonly known as station-waggons, and any other items of, 01 for the construction of, plant and equipment wcessaq for the winning, treating, transportation in Jamaica and shipping of bauxite.
 
 *Yon*
 
 ### PART
 
-All plant. machinery, building materials not intQldad for the cw-struction of dwelling-houses, tools, mechanical diggers. overhead conveyors, rpils. rail W. p i p . pumps. wharf materials, Wing and blasting equipment. explosives and accessories. trucks and cars not intended to be and in no circumstancs wed upon a public road and not required to be licensed under the Road Tm3c Act, trucks 88 5/1980 deiined in section 11 of the Road T r a f i Act with the exception of L 6. passenger vehicles such as are cummonly !dnown as b u s e s and mini-buses and motor vehicles comtrwted to cany a load or passengers or both and commonly known as station-waggons, and any other items of, or for the construction of, plant and equipment necessary for the manufactura. transportation in Jamaica and shipping of alumha.
+*5/1980 L 6.*
+
+All plant. machinery, building materials not intQldad for the cw-struction of dwelling-houses, tools, mechanical diggers. overhead conveyors, rpils. rail W. p i p . pumps. wharf materials, Wing and blasting equipment. explosives and accessories. trucks and cars not intended to be and in no circumstancs wed upon a public road and not required to be licensed under the Road Tm3c Act, trucks 88 deiined in section 11 of the Road T r a f i Act with the exception of passenger vehicles such as are cummonly !dnown as b u s e s and mini-buses and motor vehicles comtrwted to cany a load or passengers or both and commonly known as station-waggons, and any other items of, or for the construction of, plant and equipment necessary for the manufactura. transportation in Jamaica and shipping of alumha.

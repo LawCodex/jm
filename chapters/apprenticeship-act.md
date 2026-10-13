@@ -102,9 +102,9 @@ Supplementary
 
 Preliminary
 
-**2.** In this Act, unless the context otherwise requires- Intcrpre(l-
+*Intcrpre(l-tion.*
 
-*tion.*
+**2.** In this Act, unless the context otherwise requires-
 
 “apprentice” means a person employed under a contract of apprenticeship;
 
@@ -158,9 +158,9 @@ mhe inciusmn of ths page 18 authorzed by LN. 57119801
 
 Apprenticeship Orders
 
-**5.** (1) Subject to the provisions of this section, the Powerof Board may from time to time as they shall think fit make , & Board to
+*as*
 
-apprenticeship orders regulating in respect of such trades ~~,~~~~ as may be specified in such orders, all or any of the following matters-
+**5.** (1) Subject to the provisions of this section, the Powerof , & Board to Board may from time to time as they shall think fit make apprenticeship orders regulating in respect of such trades ~~,~~~~ may be specified in such orders, all or any of the following matters-
 
 (U) the minimum age at which any person may be employed as an apprentice;
 
@@ -176,7 +176,7 @@ tioes;
 
 (fl the period of apprenticeship;
 
-(g) the minimum rates of pay and the allowances for 2611957 subsistence and travelling to be paid to apprentices; s. 2.
+(g) the minimum rates of pay and the allowances for 2611957 s. 2. subsistence and travelling to be paid to apprentices;
 
 (h) the maximum hours of work for apprentices;
 
@@ -194,17 +194,21 @@ tioes;
 
 contmsof 6. Where the Board make an apprenticeship order all apprentice-
 
-EhiptObe contracts of apprenticeship in respect of each trade apprentice- specified in the order, whether subsisting at the date of the subjectto
+contracts of apprenticeship in respect of each trade EhiptObe
 
-shborders. coming into force of the order or entered into after such date shall, subject to the provisions of this section, be deemed to be subject to the provisions of the order and any amendment thereof or substitution therefor, and shall be deemed to be modified accordingly:
+specified in the order, whether subsisting at the date of the subjectto apprentice-
+
+coming into force of the order or entered into after such shborders.
+
+date shall, subject to the provisions of this section, be deemed to be subject to the provisions of the order and any amendment thereof or substitution therefor, and shall be deemed to be modified accordingly:
 
 Provided that any party to any such contract of apprenticeship may at any time apply to the Board for a modification of an apprenticeship order in so far as it affects the contract of apprenticeship and the Board may make such modification of the order in relation to such contract as they think fit or may exclude that contract from the operation of the order.
 
 Contracts of Apprenticeship
 
-7.41) Every contract of apprenticeship entered into ~ ~ ~ ~ l after the coming into force of this Act shall be in writing ~ ~ ~ and shall be signed by the employer and the apprentice ; f r t i m and if the apprentice is under the age of eighteen years ; ;E;.
+*~ ~ ~ ~ l ~ ~ ~ ; f r t i m ; ;E;.*
 
-by his parent or guardian (if any).
+7.41) Every contract of apprenticeship entered into after the coming into force of this Act shall be in writing and shall be signed by the employer and the apprentice and if the apprentice is under the age of eighteen years by his parent or guardian (if any).
 
 (2) Every contract of apprenticeship subsisting at the date of the coming into force of this Act shall, if it is not already in writing and signed as aforesaid, be forthwith reduced into writing and so signed.
 
@@ -212,9 +216,13 @@ by his parent or guardian (if any).
 
 (4) Notwithstanding anything in the Stamp Duty Act no stamp duty shall be payable on a contract of apprenticeship entered into after the coming into force of this Act.
 
-**8.** From and after the coming into force of this Act no Restriction person shall, except in accordance with the provisions of on mentof employ-
+*Restriction employ-mentof on*
 
-subsection (1) of section 10 or of subsection (2) of section 11, apprentices. employ an apprentice in any prescribed trade unless a contract of apprenticeship relating to that apprentice has
+**8.** From and after the coming into force of this Act no person shall, except in accordance with the provisions of
+
+*apprentices.*
+
+subsection (1) of section 10 or of subsection (2) of section 11, employ an apprentice in any prescribed trade unless a contract of apprenticeship relating to that apprentice has
 
 m e inclusiw of this wge h anthozized b y LN. 57119801
 
@@ -248,17 +256,19 @@ apprentice in such trade notwithstanding that the contract of apprenticeship is 
 
 contract of apprenticeship to the Board who shall record it in thc manner proxkiod in subsection (3) of section 9.
 
-**11.** (1) Any person alfected by the refusal of the Board Appeal, from ,dusal to register a contract of apprenticeship under section 9 may to reg Eter appeal in the prescribed manner to the Tribunal whose Ccntract decision shall be final and conclusive.
+*Appeal, from ,dusal to reg Eter*
+
+*Ccntract*
+
+**11.** (1) Any person alfected by the refusal of the Board to register a contract of apprenticeship under section 9 may appeal in the prescribed manner to the Tribunal whose decision shall be final and conclusive.
 
 (2) In any case where a n appeal has been lodged against a refusal to register a contract of apprenticeship the Board may if they think fit, on application, grant a permit in the prescribed form for the employment of the worker in accordance with the contract pending the decision of the Tribunal.
 
+*Binding effect of registered . f ' ? ; : Ist Sch.*
+
 **12.** (1) Subject to the provisions of this section-
 
-Binding effect of
-
-(a) an apprentice who is a party to a registered registered contract shall be bound thereby throughout its . f ' ? ; : currency notwithstanding that the apprentice Ist Sch. may have attained the age of eighteen years;
-
-( b ) a parent or guardian of an apprentice who is a party to a registered contract shall be bound thereby until the apprentice attains the age of eighteen years and no longer.
+(a) an apprentice who is a party to a registered contract shall be bound thereby throughout its currency notwithstanding that the apprentice may have attained the age of eighteen years; ( b ) a parent or guardian of an apprentice who is a party to a registered contract shall be bound thereby until the apprentice attains the age of eighteen years and no longer.
 
 (2) At any time during the period of probation prescribed by a registered contract, the contract may be cancelled by the employer or by the apprentice where the apprentice has attained the age of eighteen years, or by the apprentice and his parent or guardian (if any) where the apprentice is under the age of eighteen years.
 
@@ -268,13 +278,9 @@ parent or guardian (if any) where the apprentice is under the age of eighteen ye
 
 Provided that where any party to such contract notifies the Board that he objects to the cancellation of the contract the Board shall not cancel the contract without affording to that party, or to any person chosen by him to represent his views, an opportunity to be heard.
 
-*Suspension and discharge for tics OfaPpren-*
+*Suspension and discharge for tics OfaPpren-mi=onduct. etc.*
 
-**13.** \-(1) In any case where an apprentice who is a party to a registered contract so rnisconducts himself or proves himself to be so incapable that if he were. an employee
-
-*etc.*
-
-mi=onduct. other than an apprentice it would be reasonable for his employer to discharge him: the employer may suspend him and apply to the Board for leave to discharge him.
+**13.** \-(1) In any case where an apprentice who is a party to a registered contract so rnisconducts himself or proves himself to be so incapable that if he were. an employee other than an apprentice it would be reasonable for his employer to discharge him: the employer may suspend him and apply to the Board for leave to discharge him.
 
 (2) Every such application shall be made within three days after the apprentice is so suspended and where such application is duly made the employer may withhold any wages accruing due to the apprentice in respect of the period of suspension.
 
@@ -292,11 +298,9 @@ wages to the apprentice in respect of the period of his suspension. If no such o
 
 (8) If the Tribunal in determining any appeal as aforesaid decide in favour of the apprentice they may fix an amount which shall be payable to the apprentice as damages for breach of the contract of apprenticeship i, the event of the employer discharging him contrary to the determination of the Tribunal, or the Tribunal may in lieu of fixing such amount grant leave to the apprentice to make to the Tribunal ex p a r k an application for the fixing thereof in the event of the employer discharging the apprentice contrary to the determination of the Tribunal. Any such amount shall be in addition to the amount of wages payable in respect of the period of suspension.
 
-(9) The amount (if any) so fixed by the Tribunal shall in the event of the apprentice being unlawfully discharged constitute a civil debt to the apprentice by the
-
 *.*
 
-employer and may be recovered in the Resident Magistrate’s court.
+(9) The amount (if any) so fixed by the Tribunal shall in the event of the apprentice being unlawfully discharged constitute a civil debt to the apprentice by the employer and may be recovered in the Resident Magistrate’s court.
 
 G
 
@@ -330,15 +334,25 @@ for the transfer of the apprentice from his employer to another employer in the 
 
 to be substituted in the registered contract for that of the former employer and the contract shall continue in all respects as if the new employer had been an original party to the contract but the former employer shall thereupon cease to have any further rights or obligations under the contract.
 
-**15.** (1) In any case where the Board consider that an Transferof apprentices. employer under a registered contract is not able to give adequate training to an apprentice the Board, with the consent of the apprentice and (where the apprentice is under the age of eighteen years) of his parent or guardian 1/1979 (if any), may transfer the apprentice to another employer l a t Sch. in the same trade who is willing and able to undertake the obligations of the original employer and upon so doing shall endorse a note of the transfer on the registered contract.
+*Transferof apprentices.*
+
+*1/1979 l a t Sch.*
+
+**15.** (1) In any case where the Board consider that an employer under a registered contract is not able to give adequate training to an apprentice the Board, with the consent of the apprentice and (where the apprentice is under the age of eighteen years) of his parent or guardian (if any), may transfer the apprentice to another employer in the same trade who is willing and able to undertake the obligations of the original employer and upon so doing shall endorse a note of the transfer on the registered contract.
 
 (2) The provisions of subsection (4) of section 14 shall apply with respect to the transfer of an apprentice under this section as they apply with respect to the transfer of an apprentice under that section.
 
-**16.** Any person affected by a decision of the Board to Appealsin transfer or to refuse to transfer an apprentice under the ~~~~~~~f foregoing provisions of this Act may in such manner and a ~ ’ ~ r e n ~ c c t r . within such time as may be prescribed appeal to the Tribunal whose decision shall be final and conclusive.
+*Appealsin*
+
+*~~~~~~~f a ~ ’ ~ r e n ~ c c t r .*
+
+**16.** Any person affected by a decision of the Board to transfer or to refuse to transfer an apprentice under the foregoing provisions of this Act may in such manner and within such time as may be prescribed appeal to the Tribunal whose decision shall be final and conclusive.
 
 M iseellaneous
 
-**17.** The termination of a registered contract prior to the Notification expiry of any period of probation prescribed by the of . termina-ucn. etc.. of contract and the termination thereof by agreement of the ~f~~~ parties or by discharge of the apprentice for good cause and every transfer of an apprentice shall be notified to
+*Notification of . termina-ucn. etc.. of ~f~~~*
+
+**17.** The termination of a registered contract prior to the expiry of any period of probation prescribed by the contract and the termination thereof by agreement of the parties or by discharge of the apprentice for good cause and every transfer of an apprentice shall be notified to
 
 the Board by the employer in the prescribed manner and within the prescribed time.
 
@@ -402,7 +416,9 @@ Supplementary
 
 **23.** \-(I) The Minister may, after consultation with the Board, from time to time by order appoint, in relation to such areas as may be specified in the order, Apprenticeship Committees for the purposes of this Act.
 
-(2) The provisions of Part I1 of the Schedule shall Schedule have effect as to the constitution of Apprenticeship Com- '"'". mittees and otherwise in relation thereto.
+*Schedule '"'".*
+
+(2) The provisions of Part I1 of the Schedule shall have effect as to the constitution of Apprenticeship Com-mittees and otherwise in relation thereto.
 
 (3) Subject to the provisions of subsection (4), it shall be lawful for an Apprenticeship Committee to exercise on behalf of the Board, in relation to the area for which it is appointed any of the functions of the Board under sections 8, 9, 10, 11, 12, 13, 14, 15 and 16.
 
@@ -442,33 +458,41 @@ e~tabliohed ~ r i Appi-enticeship Appeal Tribunal which shall eoasi8t of' a chai
 
 **27.** Nothing in this Act shall be deemed to affect the provisions of section 174 of the Bankruptcy Act (relating to the discharge of a contract of apprenticeship on the bankruptcy of the employer and the preferential allowance thereon).
 
-(Section
+*(Section 3 (2))*
 
-## SCHEDULE 3 (2))
+## SCHEDULE
 
 ## PART I. Constitut~on, Procedure, Oflcers and Servants of the Board
 
 **1.** The Board shall consist of nine members.
 
-**2.** (1) The members of the Board shall be appointed by the Mnister. so. however. that-
+*2.-*
 
-(a) three members shall be persons appearing to the Minister to represent the interests of employers of skilled workmen; and
+(1) The members of the Board shall be appointed by the Mnister. so. however. that-
 
-(b) three members shall be persons appearing to him to represent the interests of skilled workmen: and
+(a) three members shall be persons appearing to the Minister to represent the interests of employers of skilled workmen; and (b) three members shall be persons appearing to him to represent the interests of skilled workmen: and
 
 (c) of the remaining members one shall be an officer of the Ministry of Labour nominated by the Minister responsible for labour, one shall be an officer of the Ministry of Education nominated by the Minister responsible for education and the other shall be a fit and proper person not falling w i t h any of the aforesaid categories.
 
 (2) The Minister shall appoint a member of the Board who is not appointed as representative of employers of skilled workmen or as representative of skilled workmen to be chairman of the Board.
 
-**3.** (1) The chairman and other members of the Board shall, subject to the provisions of this paragraph, hold office for a period of three years and shall subject to the requirements of sub-paragraph
+*3.-subject*
 
-(1) of paragraph 2 be eligible for reappointment at the expiration of such period.
+*(1) of such*
 
-(2) The Minister may at any time if he shall think fit terminate the appointment of the chairman or any member of thc Board.
+(1) The chairman and other members of the Board shall, to the provisions of this paragraph, hold office for a period of three years and shall subject to the requirements of sub-paragraph paragraph 2 be eligible for reappointment at the expiration of period.
 
-(3) The chairman or any member of the Board may at any time resign his appointment by notice in writing served on the Minister.
+*the*
 
-(4) Upon the termination of the appointment of the chairman, or upon his resignation, he shall cease to be a member of the Board.
+(2) The Minister may at any time if he shall think fit terminate appointment of the chairman or any member of thc Board.
+
+*time*
+
+(3) The chairman or any member of the Board may at any resign his appointment by notice in writing served on the Minister.
+
+*or upon*
+
+(4) Upon the termination of the appointment of the chairman, his resignation, he shall cease to be a member of the Board.
 
 **4.** The Minister may appoint-
 
@@ -534,10 +558,18 @@ of any member of the Committee appointed as representative of employers of skill
 
 (c) any person being a person appearing to him to be representative of skilled workmen to act in the place of any member of the Committee appointed as representative of sk~lled workmen in the absence or inability to act of such member.
 
-**23.** The a c t s of an Apprentioeship Committee shall b~ authenticated by the signature of the chairman of the Committee.
+*by the*
 
-2 4 The quorum of an .4pprenticeship Committee shall be such number as may be prescrikd by the Board by regulations made under section 26 of the Act.
+**23.** The a c t s of an Apprentioeship Committee shall b~ authenticated signature of the chairman of the Committee.
 
-**25.** The provisions of paragraphs 5. 7, 8, 9, 11, 12, 14, I5 add 18 shall with necessary modifications apply in relation to apprenticeship Committees as they apply in relation to the Board.
+*2 4*
+
+*under*
+
+The quorum of an .4pprenticeship Committee shall be such number as may be prescrikd by the Board by regulations made section 26 of the Act.
+
+*shall*
+
+**25.** The provisions of paragraphs 5. 7, 8, 9, 11, 12, 14, I5 add 18 with necessary modifications apply in relation to apprenticeship Committees as they apply in relation to the Board.
 
 L.N. 480/1973]

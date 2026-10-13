@@ -74,18 +74,35 @@ def extract(pdf, tmpdir=None):
     pages = []
     for pn, page in enumerate(root.iter(NS + "page")):
         W, H = float(page.get("width")), float(page.get("height"))
-        segs = []
+        lines = []
         for line in page.iter(NS + "line"):
             words = [(float(w.get("xMin")), float(w.get("yMin")), float(w.get("xMax")), float(w.get("yMax")),
                       (w.text or "")) for w in line.iter(NS + "word")]
-            if not words:
-                continue
-            # split a line where there is a wide horizontal gap (margin note beside text)
-            cur = [words[0]]
-            groups = [cur]
-            for w in words[1:]:
-                if w[0] - cur[-1][2] > 25:
+            if words:
+                lines.append(words)
+        # main-column edges: justified text makes line starts/ends cluster at the column edges
+        wide = [l for l in lines if l[-1][2] - l[0][0] > W * 0.4]
+        L = R = None
+        if len(wide) >= 4:
+            cl = collections.Counter(round(l[0][0] / 2) for l in wide).most_common(1)[0]
+            cr = collections.Counter(round(l[-1][2] / 2) for l in wide).most_common(1)[0]
+            if cl[1] >= 3:
+                L = cl[0] * 2
+            if cr[1] >= 3:
+                R = cr[0] * 2
+        segs = []
+        for words in lines:
+            groups = []
+            cur = None
+            for w in words:
+                side = 0
+                if R is not None and w[0] >= R + 3 and R < W * 0.85:
+                    side = 1
+                elif L is not None and w[2] <= L - 3 and L > W * 0.15:
+                    side = -1
+                if cur is None or w[0] - cur[-1][2] > 25 or side != cur_side:
                     cur = [w]
+                    cur_side = side
                     groups.append(cur)
                 else:
                     cur.append(w)
@@ -177,60 +194,63 @@ END_PUNCT = re.compile(r"[.;:—–\-]$|[.;:]\s*(and|or)$|\)$")
 
 
 def build_paragraphs(pages):
-    """Yield items: ('p', text) or ('note', text) or ('pb', None)."""
+    """Return items: ('p', text) or ('note', text) or ('pb', None).
+    Margin notes are emitted before the paragraph they sit beside (never inside it)."""
     items = []
     for W, H, segs in pages:
         main, margin = split_columns(W, H, segs)
         main.sort(key=lambda s: (round(s.y0 / 3), s.x0))
         margin.sort(key=lambda s: (s.y0, s.x0))
-        # group margin segs into notes
         notes = []
         for s in margin:
-            if notes and s.y0 - notes[-1][-1].y1 < (s.y1 - s.y0) * 0.9 and abs(s.x0 - notes[-1][-1].x0) < 40:
-                notes[-1].append(s)
-            else:
-                notes.append([s])
+            if notes:
+                last = notes[-1][-1]
+                same_line = abs(s.y0 - last.y0) < 2
+                close = s.y0 - last.y1 < (s.y1 - s.y0) * 0.9 and s.x0 < last.x1 + 30 and s.x1 > notes[-1][0].x0 - 30
+                side_ok = (s.x0 > W / 2) == (notes[-1][0].x0 > W / 2)
+                if side_ok and (same_line or close):
+                    notes[-1].append(s)
+                    continue
+            notes.append([s])
         if not main and not notes:
             continue
         gaps = [b.y0 - a.y1 for a, b in zip(main, main[1:]) if 0 <= b.y0 - a.y1 < 40]
         typ = statistics.median(gaps) if gaps else 3.0
         right = max((s.x1 for s in main), default=W)
         left = min((s.x0 for s in main), default=0)
-        ni = 0
+        paras = []
         cur = []
         prev = None
-
-        def flush():
-            if cur:
-                items.append(("p", join_lines([c.text for c in cur])))
-                cur.clear()
         for s in main:
-            while ni < len(notes) and notes[ni][0].y0 <= s.y1 - 1:
-                flush()
-                items.append(("note", join_lines([x.text for x in notes[ni]])))
-                ni += 1
             brk = False
             if prev is not None:
+                if abs(s.y0 - prev.y0) < 2:
+                    cur.append(s)
+                    prev = s
+                    continue
                 gap = s.y0 - prev.y1
                 if gap > max(typ * 1.8, typ + 4):
                     brk = True
-                elif abs(s.y0 - prev.y0) < 2:  # same line, different segment (table cell)
-                    brk = False
                 elif START_RE.match(s.text):
                     brk = True
                 elif END_PUNCT.search(prev.text) and prev.x1 < right - (right - left) * 0.15:
                     brk = True
                 elif prev.x1 < left + (right - left) * 0.55 and len(prev.text) < 60:
                     brk = True
-                if abs(s.y0 - prev.y0) < 2 and prev is not None:
-                    cur.append(s)
-                    prev = s
-                    continue
-            if brk:
-                flush()
+            if brk and cur:
+                paras.append(cur)
+                cur = []
             cur.append(s)
             prev = s
-        flush()
+        if cur:
+            paras.append(cur)
+        ni = 0
+        for para in paras:
+            bottom = max(x.y1 for x in para)
+            while ni < len(notes) and notes[ni][0].y0 <= bottom - 1:
+                items.append(("note", join_lines([x.text for x in notes[ni]])))
+                ni += 1
+            items.append(("p", join_lines([c.text for c in para])))
         while ni < len(notes):
             items.append(("note", join_lines([x.text for x in notes[ni]])))
             ni += 1

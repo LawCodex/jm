@@ -50,15 +50,19 @@ retrieved: 2026-10-13
 
 **15.** Restriction on prosecution of licensee.
 
-### THE ANIMALS (CONTROL OF EXPERIMENTS)
+*Cm.13.*
 
-Cm.13. ACT
+### THE ANIMALS (CONTROL OF EXPERIMENTS) ACT
 
 [3rd November, 1949.1
 
-**1.** This Act may be cited as the Animals (Control of Shorttitle. Experiments) Act.
+*Shorttitle.*
 
-**2.** In this Act-Interprets-uon.
+**1.** This Act may be cited as the Animals (Control of Experiments) Act.
+
+*Interprets-uon.*
+
+**2.** In this Act-
 
 “animal” means a living vertebrate animal;
 
@@ -66,29 +70,27 @@ Cm.13. ACT
 
 “licensee” means a person licensed under section 7.
 
-**3.** \-(1) No person except a licensee shall perform any EX ongmZQ experiment.
+*EX ongmZQ pcrformcd by licensed puJons.*
 
-pcrformcd by licensed puJons.
+**3.** \-(1) No person except a licensee shall perform any experiment.
 
 (2) No licensee shall perform any experiment except in accordance with the terms of his licence and subject to the restrictions imposed by this Act.
 
-**4.** No licensee shall perform any experiment for the Expaimmtr oottobt purpose of attaining manual skill.
+*Expaimmtr oottobt ptfonned for pumoses of a m n i n g manual skill. Prohibition prfom-Of amof ;ir$EE: E& mbjcctto certain ccnfilions.*
 
-ptfonned for pumoses of a m n i n g manual skill.
+**4.** No licensee shall perform any experiment for the purpose of attaining manual skill.
 
-**5.** No licensee shall perform any experiment for the Prohibition at any University, Of prfom-purpose of illustrating any lecture
-
-amof University College, Hospital, Medical School, Agricul- ;ir$EE: E& tural College, Farm School or any other academic institution unless he is the holder of a teaching permit under this mbjcctto Act, and unless the experiment is of a class specified in certain ccnfilions. such permit and is performed in accordance with the terms of such permit.
+**5.** No licensee shall perform any experiment for the purpose of illustrating any lecture at any University, University College, Hospital, Medical School, Agricultural College, Farm School or any other academic institution unless he is the holder of a teaching permit under this Act, and unless the experiment is of a class specified in such permit and is performed in accordance with the terms of such permit.
 
 ### A N I M A L S (CONTROL OF EXPERIMENTS)
 
-*~ ~ t ~*
+*i 6 ~ . 4 1*
 
-otherwise provided in section 5, no i 6 ~ . 4 1 t ) i Except ~ ~ ~ as
+*~ ~ t ~ licensee formances per-upon of experi-ments by licensee.*
 
-*formances per-upon of experi-ments by licensee.*
+otherwise provided in section 5, no t ) i Except ~ ~ ~ as
 
-licensee shall perform any experiment except-
+shall perform any experiment except-
 
 (a) for the purpose of the advancement by new discovery of physiological knowledge, or of any knowledge which will be useful for saving or pro-longing life, or alleviating suffering, or for combating any disease whether of human beings, animals or plants;
 
@@ -96,19 +98,25 @@ licensee shall perform any experiment except-
 
 (c) by the order in writing of any Judge of the Supreme Court in any case where such Judge is satisfied that it is essential for the purpose of justice in a criminal case to make such experiment.
 
-\12) Except as otherwise provided in subsection (3), no licensee shall perform any experiment unless-
+*no*
+
+\12) Except as otherwise provided in subsection (3), licensee shall perform any experiment unless-
 
 (a) throughout the whole of the experiment the animal is under the influence of some anaesthetic of sufficient power to prevent the animal feeling pain; and
 
 (6) if the pain is likely to continue after the effect of the anaesthetic has ceased, or if any serious injury has been inflicted on the animal, the animal is killed before it recovers from the influence of the anaesthetic which has been administered.
 
-(3) The provisions of subsection (2) shall not apply to any licensee who is the holder of a special permit granted under section 9 in relation to any experiment specified in such special permit.
+*to any under such*
 
-*Grant of licence.*
+(3) The provisions of subsection (2) shall not apply licensee who is the holder of a special permit granted section 9 in relation to any experiment specified in special permit.
 
-**7.** (1) The Minister may grant a licence to any person to perform any experiment for any purpose specified in
+*7.-(1)*
 
-L.N. 480119731
+*Grant of licence. to*
+
+The Minister may grant a licence to any person perform any experiment for any purpose specified in
+
+m L.N. 480119731
 
 such licence during such period and subject to such condi-tions in addition to the conditions specified in this Act as he may think fit.
 
@@ -118,7 +126,9 @@ such licence during such period and subject to such condi-tions in addition to t
 
 (2) Every teaching permit under this section shall be subject to such conditions in addition to any conditions specified in this Act as may be specified in such permit, and such permit shall remain in force for twelve months from the date on which it is granted.
 
-9.41) Where the Minister is satisfied that the object of speclai any experiment permitted to be performed by a licensee permits under this Act would necessarily be frustrated-
+9.41) Where the Minister is satisfied that the object of speclai any experiment permitted to be performed by a licensee permits
+
+under this Act would necessarily be frustrated-
 
 (a) by the performance of such experiment under any anaesthetic; or
 
@@ -154,8 +164,14 @@ for the better carrying out of the provisions of this Act.
 
 (2) Regulations made under this section may without prejudice to the generality of the power conferred by subsection (1) provide for the keeping of records of all experiments performed by any licensee under this Act and for the rendering of returns in relation to any experiments performed under this Act.
 
-**13.** It shall be a condition of every licence or permit of evocation licence granted under this Act that such licence or permit may be orpcmit. revoked at any time by the person granting it on his being satisfied that such licence or permit ought to be revoked.
+*evocation of licence orpcmit.*
 
-**14.** Every person who acts in contravention of any of the ptnaity. provisions of this Act or of any condition of any licence or permit granted under this Act shall be guilty of an offence against this Act and upon conviction before a Resident Magistrate shall be liable to a fine of one hundred dollars or to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
+**13.** It shall be a condition of every licence or permit granted under this Act that such licence or permit may be revoked at any time by the person granting it on his being satisfied that such licence or permit ought to be revoked.
 
-**15.** A prosecution under this Act against a licensee shall Restriction not be instituted except by or with the consent of the on proam-tioaof liceaaee. Director of Public Prosecutions.
+*ptnaity.*
+
+**14.** Every person who acts in contravention of any of the provisions of this Act or of any condition of any licence or permit granted under this Act shall be guilty of an offence against this Act and upon conviction before a Resident Magistrate shall be liable to a fine of one hundred dollars or to imprisonment for any term not exceeding six months or to both such fine and such imprisonment.
+
+*Restriction proam-on tioaof liceaaee.*
+
+**15.** A prosecution under this Act against a licensee shall not be instituted except by or with the consent of the Director of Public Prosecutions.

@@ -26,7 +26,9 @@ ANDEAN DEVEWFMENT C O R p o R l T l O N AGREEMENT
 
 [26rh March, 1999.1
 
-**1.** This Act may be cited as the Andean Development shorttth. Corporation Agreement Act.
+*shorttth.*
+
+**1.** This Act may be cited as the Andean Development Corporation Agreement Act.
 
 *IDtUprda-tion.*
 
@@ -34,11 +36,9 @@ ANDEAN DEVEWFMENT C O R p o R l T l O N AGREEMENT
 
 “the Corporation” means the Andean Development Corporation established by the Corporation Agreement;
 
-“the Corporation Agreement” means the Agreement done at Bogota, Republic of Colombia on the 7th day of February, 1968 for the establishment and operation of an international body to be called the Andean Development Corporation, the text of
-
 *SCbddC. Pan L*
 
-which is set out in Part I of the Schedule;
+“the Corporation Agreement” means the Agreement done at Bogota, Republic of Colombia on the 7th day of February, 1968 for the establishment and operation of an international body to be called the Andean Development Corporation, the text of which is set out in Part I of the Schedule;
 
 “the Operating Conditions Agreement” means the Agreement Relating to Operating Conditions of the Corporation, the text of which is set out in
 
@@ -52,11 +52,15 @@ Part I1 of the Schedule;
 
 ## Part III of the Schedule.
 
-*~ a ~*
+*~ ~ a ~*
 
-3 . 4 1 ) The Minister responsible for finance is authorized ~ to pay for the account of Jamaica the amounts payable from time t o time to the Corporation under the Subscription Agreement and the Operating Conditions Agreement :
+*from*
 
-Provided that the Bank of Jamaica may from time t o time, subject to the terms of any agreement made by that
+3 . 4 1 ) The Minister responsible for finance is authorized to pay for the account of Jamaica the amounts payable time t o time to the Corporation under the Subscription Agreement and the Operating Conditions Agreement :
+
+*time,*
+
+Provided that the Bank of Jamaica may from time t o subject to the terms of any agreement made by that
 
 me inclusion of &is page is au&oried by L.N. 3120011
 
@@ -88,19 +92,17 @@ shall have the force of law in Jamaica.
 
 inclusion of this p g e is autftorized by L.N. 3lzOoll
 
-*:;=;-*
-
-**6.** The Corporation shall be exempt from the provisions of the Banking Act, the Companies Act, the Financial In- t i 0 r i . e
+*:;=;-t i 0 r i . e*
 
 *Of c e d n Baactmenta*
 
-stitutions Act and the Moneylending Act.
+**6.** The Corporation shall be exempt from the provisions of the Banking Act, the Companies Act, the Financial In-stitutions Act and the Moneylending Act.
 
 ## SCHEDULE (&don 2)
 
-## PART I — AGREEMENT ESTABLISHING THE A ” D E W = OOFU’ORATION
+## PART I
 
-The Goverryne21 ts d the Repblia d Bolivia, Colombia. Chile. Ecuador. Peni and Venezuela, encouraged by the mutual desire of pro-curing, in the shortest possible time, the eamomic integration of their countries in order to accelerate the economic and social d e v e l w m t o€ their people, in accordance with the principles set out in the Treaty of Montevideo, in the Charter of Punta del Este, in the Dedaration signed in Bogota by the Presidents of Colombia. Chik and Venezuela and by the Presidents of Bolivia, Ecuador and Perk represented by their Personal Delegates, and in the Declaration of the Presidents of America at h t a del Este.
+AGREEMENT ESTABLISHING THE A ” D E W = OOFU’ORATION The Goverryne21 ts d the Repblia d Bolivia, Colombia. Chile. Ecuador. Peni and Venezuela, encouraged by the mutual desire of pro-curing, in the shortest possible time, the eamomic integration of their countries in order to accelerate the economic and social d e v e l w m t o€ their people, in accordance with the principles set out in the Treaty of Montevideo, in the Charter of Punta del Este, in the Dedaration signed in Bogota by the Presidents of Colombia. Chik and Venezuela and by the Presidents of Bolivia, Ecuador and Perk represented by their Personal Delegates, and in the Declaration of the Presidents of America at h t a del Este.
 
 Manifesting the necessity that eaoh of the signatory countries of me Declaration of Bogota set as an objeft t h ~ creation of more adequate economic conditions for their participtlon in the Latin American Common Market;
 
@@ -142,31 +144,51 @@ b. To divulge among the Conntries of the area t k d t s d its s-ys and studies, 
 
 ANDEAN DEVEmPMENT CORPORATION AGREEMENT
 
-ch. To obtain intend or e x t d credits:
+*ch. d.*
 
-d. TO h u e bonds. d a b - or other obligations whi& m y bc plgoed within or outside the Subregion:
+To obtain intend or e x t d credits:
 
-t. T o p m m o t e t h e a t t m . b n ~ and mWmtion of mmxws:
+TO h u e bonds. d a b - or other obligations whi& m y bc plgoed within or outside the Subregion:
 
-In exmking the. functionsded to in this and the pmding paragraph, the C o r p o r ~ o n shall t e subject t o the legal pronsions of the oo~tvies in which said func&iom m exemid, 01 in whose m t i d curmmks the Fespective cmimitmnts are designated: f. To gmmmte aqital ,+d tmhnobgicral contributim under the mwt hmuable ccmd&xw
+*t.*
 
-g. To @ant loans and pmvi& pledges, e n a e n t 9 and &er guarantier3:
+T o p m m o t e t h e a t t m . b n ~ and mWmtion of mmxws:
 
-h. To pnrmone gmnting of $me subscriptions gmranks (underwriting) and grant sud~ guaranties in cases where adequate con-dicioas am mat: . .
+*f.*
 
-i. To parnote the of enterprim. their e&m. modernimtioa m or - m suah effed it g i g able bo subscribe to sham or participations.
+In exmking the. functionsded to in this and the pmding paragraph, the C o r p o r ~ o n shall t e subject t o the legal pronsions of the oo~tvies in which said func&iom m exemid, 01 in whose m t i d curmmks the Fespective cmimitmnts are designated: To gmmmte aqital ,+d tmhnobgicral contributim under the mwt hmuable ccmd&xw
+
+*g.*
+
+To @ant loans and pmvi& pledges, e n a e n t 9 and &er guarantier3:
+
+*h.*
+
+*i.*
+
+To pnrmone gmnting of $me subscriptions gmranks (underwriting) and grant sud~ guaranties in cases where adequate con-dicioas am mat: . .
+
+To parnote the of enterprim. their e&m. modernimtioa m or - m suah effed it g i g able bo subscribe to sham or participations.
 
 Tbe Cmpution m y traaser the shans, securities. rights. and commitments udkh it aquim, offering them in the. h t place to public or private entikies of the Subregion and. m the event of lack of in-m their part, to third parties i n t d in the eumomic arul social devdopent of the same;
 
-j. To realize undw the omditions determined s@6c tasks or acls related to its puqmm whioh m y be a t r u s t d to it by its share-holders or ihid p a d :
+*j.*
 
-k. To coodinate its a & m with thce of the orher national and imzmationd entities m the developmnt of the & w o n :
+To realize undw the omditions determined s@6c tasks or acls related to its puqmm whioh m y be a t r u s t d to it by its share-holders or ihid p a d :
 
-**1.** To remnmend the neQssary meohanisms of coordinrdion for the edtiea or orgdmeians of the a m whi& provide the investment IBsOILfllBp:
+*k.*
 
-U. To acquire. and d i p m of, movable and immovable property. 6le 01 m e r legal and addn&ra tive actions and, ID g e n d . to d e o t all types of operations. acts. conhats and agreunents q u i d for the fulfilnoent of its ends.
+To coodinate its a & m with thce of the orher national and imzmationd entities m the developmnt of the & w o n : To remnmend the neQssary meohanisms of coordinrdion for the 1.
 
-cmuTEiRn CAPUAL, SHARES AND SHAREHOLDERS M d e 5 . ’ capital
+edtiea or orgdmeians of the a m whi& provide the investment IBsOILfllBp:
+
+*U.*
+
+To acquire. and d i p m of, movable and immovable property. 6le 01 m e r legal and addn&ra tive actions and, ID g e n d . to d e o t all types of operations. acts. conhats and agreunents q u i d for the fulfilnoent of its ends.
+
+*M d*
+
+cmuTEiRn CAPUAL, SHARES AND SHAREHOLDERS e 5 . ’ capital
 
 1 1. ”he avtharized apital of the OaFpOration is TWO M I U I O N FIFTY THOUSAND US. Dollars ~SS2.000,050.000.00) divided into Series “A” and Series “B” shares, in addition to Series “C”, the Boatd of m€Ctm. bhsismanceob *is m-by
 
@@ -196,15 +218,15 @@ In each wmky of ohe Subtqioa m e of these h a s was sub- &bed to by the Gowninat
 
 ### ANDEAN DEVELDPMENT CORPORATION AGREEMENT
 
-e. The Series “B’ shares m a y be effectively subscribed to in each oountry by the respective Government or by the public. semipublic and private iustitutions with s& and public pur-poses designated by said Governments or by natural persons or private corporations: in the latter case by up to forty percent
-
-(40) Of h S h m d shis S - W .gtoeDch WUntry.
+e. The Series “B’ shares m a y be effectively subscribed to in each oountry by the respective Government or by the public. semipublic and private iustitutions with s& and public pur-poses designated by said Governments or by natural persons or private corporations: in the latter case by up to forty percent (40) Of h S h m d shis S - W .gtoeDch WUntry.
 
 *f.*
 
 Both Series “A” and Series “ B shares, corresponding to cach country shall bear the name of the respective country.
 
-**2.** Wirh charge to the guarantee capital the fdowhg opwatiom may be peIfGlmd:
+*Wirh be*
+
+**2.** charge to the guarantee capital the fdowhg opwatiom may peIfGlmd:
 
 a. h e of b d s , debentures. and other titles;
 
@@ -218,11 +240,15 @@ usltlrn leasing of certain gad3 d&nd for S p e d i C ’ of
 
 m tmabonal projects.
 
-i. With the s5kmtive vote of at least seven (7) Directols the Board 06 Directon may d t the guarantee capital bo the. a f m e n t i o n e d operatians b establishing the m w , mount and er tesms anlconditions of the f i n a n d commitmmts which may be coward with charge to the aforementioned guarantee capital. which .&all in m case exceed the. amount of said capital. ii. Payment of guarantee capital sham will be subjat to h a n d , upon agreement by the Board of Diream. mly when needed to meei the Corporation’s obligations which may be due or to fad due, arising out of such operations set forth in paragraph 2 a h , in the ewnt that the insFitutiom was not. with its own re8ou1ce9. in a m d i t i o n to me& thm.
+i. With the s5kmtive vote of at least seven (7) Directols the Board 06 Directon may d t the guarantee capital bo the. a f m e n t i o n e d operatians b establishing the m w , mount and er tesms anlconditions of the f i n a n d commitmmts which may be coward with charge to the aforementioned guarantee capital. which .&all in m case exceed the. amount of said capital.
+
+ii. Payment of guarantee capital sham will be subjat to h a n d , upon agreement by the Board of Diream. mly when needed to meei the Corporation’s obligations which may be due or to fad due, arising out of such operations set forth in paragraph 2 a h , in the ewnt that the insFitutiom was not. with its own re8ou1ce9. in a m d i t i o n to me& thm.
 
 iii. In the ca6e. d such demand. in relation to a spai15~ obligation, the p a p n t of the shares. for the amount nec9ssary. shall be pmmted by shareholdem in #prqmr-tion to their number of shares.
 
-iv. The obligation of the shamholders to satisfy tbe demand for payment of their shares in the guarantee capital shall amhue to eKist untd said sham havebxapaid in f d L v. Payment m a y be made, at the option d a sharehddm. in United States D0Uai-a of the weight and m d n c t With such law =nt 88 d the date o f demand. (x in such mmmcy n d to meet the ”$”””” *-whioh have given rise t~ said damin
+iv. The obligation of the shamholders to satisfy tbe demand for payment of their shares in the guarantee capital shall amhue to eKist untd said sham havebxapaid in f d L
+
+v. Payment m a y be made, at the option d a sharehddm. in United States D0Uai-a of the weight and m d n c t With such law =nt 88 d the date o f demand. (x in such mmmcy n d to meet the ”$”””” *-whioh have given rise t~ said damin
 
 me inclusion of abis page is auphorized by L.N. 3/2001]
 
@@ -376,19 +402,15 @@ ANDEAN DEVELDPMENT CORPORATlON AGREEMENT
 
 *f.*
 
-To approve the asret and liability of credit opaations, invest-ments or any &s operation which are within the Oxpxation’s purpose and which may bz p+ by the Executive President;
-
 *g.*
 
-To agree to issuance of bonds, debmtures or other financial obli-gations and to determine their cunditions: to grant guarantie-s for the subsrriptions of shares and secnd.ies in general (underwriting); to operate wGbh &pation cmtb5mtes; to su&orize trust opera-tions ;
+To approve the asret and liability of credit opaations, invest-ments or any &s operation which are within the Oxpxation’s purpose and which may bz p+ by the Executive President; To agree to issuance of bonds, debmtures or other financial obli-gations and to determine their cunditions: to grant guarantie-s for the subsrriptions of shares and secnd.ies in general (underwriting); to operate wGbh &pation cmtb5mtes; to su&orize trust opera-tions ;
 
 *h.*
 
-To delegate to an executive am&ttee, in othor subsidiary bodies which the Bmd of Directors deems advisable to m a t e or in the Executive President oc other 05ciak whom the Executive President may reocmunend, such functioos r e f d m in letters f and g in the case of operations the a m m t of which not exceeds sucb L i t as may be established by the Board imW,
-
 *i.*
 
-To solve at the, proposal of the Executive President such matters not provided for in this Agreement, as well as their full interpretation. by rendering acomnt in the latter case to the Sbareholders’ Assembly in them foUowing meeting;
+To delegate to an executive am&ttee, in othor subsidiary bodies which the Bmd of Directors deems advisable to m a t e or in the Executive President oc other 05ciak whom the Executive President may reocmunend, such functioos r e f d m in letters f and g in the case of operations the a m m t of which not exceeds sucb L i t as may be established by the Board imW, To solve at the, proposal of the Executive President such matters not provided for in this Agreement, as well as their full interpretation. by rendering acomnt in the latter case to the Sbareholders’ Assembly in them foUowing meeting;
 
 *j.*
 
@@ -400,9 +422,9 @@ To propose to the Shareholders’ Assembly the distribution of pm6ts:
 
 **1.** To propose to the Shareholders’ Assembly me formation of Reserves;
 
-*II.*
+*II. m.*
 
-To pass and modify the Chpomtim’s Internal Regulations: m. To agree to m e calls for regular Shareholders’ Assemblies whm this Agreament so prescribe and for Special stmrebldens’ Assem-blies when corporate intereds so require. the Board 1y1 deems advisable, cu whenever it is so requested by the Caporation’s Shareholders in accordance with the provisions of Article 12 hereof;
+To pass and modify the Chpomtim’s Internal Regulations: To agree to m e calls for regular Shareholders’ Assemblies whm this Agreament so prescribe and for Special stmrebldens’ Assem-blies when corporate intereds so require. the Board 1y1 deems advisable, cu whenever it is so requested by the Caporation’s Shareholders in accordance with the provisions of Article 12 hereof;
 
 *U.*
 
@@ -410,11 +432,15 @@ To propose to the Assembly the change of headquarters when for reasons of indisp
 
 Article 28. Replacement
 
-To replace a Director who is disabled, d-d 01 who has resigned, the following rules shall ke applied :
+*To the a.*
 
-a. If it is the case of a Dimtor rapresenting Series ”A” shares. he &all be appointed by the owner of the represented share directly: and
+replace a Director who is disabled, d-d 01 who has resigned, following rules shall ke applied :
 
-b. If it is the case of a JXwtor representing Series “B” sham. the Emrd of Directors shall designate the respective alternate 8s a principal and should there be none. shall appoint his replaoe-ment who shall mhne in office until the next regular a b l y . - at which a definitive election shall be made. The Director so
+If it is the case of a Dimtor rapresenting Series ”A” shares. he &all be appointed by the owner of the represented share directly: and
+
+*b.*
+
+If it is the case of a JXwtor representing Series “B” sham. the Emrd of Directors shall designate the respective alternate 8s a principal and should there be none. shall appoint his replaoe-ment who shall mhne in office until the next regular a b l y . - at which a definitive election shall be made. The Director so
 
 *i .14*
 
@@ -534,25 +560,35 @@ inclusion d d12 page is sllthorized by L.N. 3/20011
 
 ANDEAN DEVELOPMENT CORPQRATiON AGREEMENT
 
-The Chpomtim’s wmspx~dnce. including packages and printed matter, when bearing its franchise seal, shall mulate postage free through the maih of the Contracbng States.
+*The*
+
+Chpomtim’s wmspx~dnce. including packages and printed matter, when bearing its franchise seal, shall mulate postage free through the maih of the Contracbng States.
 
 Article 52. Tax Exempikm
 
-a. The Oorpmatioa is exempt fram all t y p of taxes. and in the approPriate case, €mm all customs duties 011 its income. poperty and &er BSSE~, as well as on the operations and tranmch ’0118 e&cted in accordance with this Agreement.
+*a.*
+
+The Oorpmatioa is exempt fram all t y p of taxes. and in the approPriate case, €mm all customs duties 011 its income. poperty and &er BSSE~, as well as on the operations and tranmch ’0118 e&cted in accordance with this Agreement.
 
 The Cmpomtion is likewk exempt fmm all liability related to the pymmt. retention or d d o n of any tarn. omtzihtiom ortarifis.
 
-b. The salillieg and fees which the Corporaticm p m the Dh.ectors.
+*b.*
+
+The salillieg and fees which the Corporaticm p m the Dh.ectors.
 
 thcir Altemah. and its &a and employw.~, arho arc not c i h or nation& d the m t r y where the Chpmtim bss its hadquarters or &ca. rm tax exempt
 
-c. No tax of any kind shaII be levied on any obli@ans or &ties issued by the Chpomtion, iaoluding any dividend OT inkm4 thmem. by wlmnmem held:
+*c.*
+
+No tax of any kind shaII be levied on any obli@ans or &ties issued by the Chpomtion, iaoluding any dividend OT inkm4 thmem. by wlmnmem held:
 
 **1.** If such taxes discriminate against such obligations or Stourities delylIe€aw they ale w by the ChpnamL * o c
 
 **2.** If the sole jurisdictional h i s for such taxes is the place or curremy i d , made payabk or paid. or the locatiaa of any &c3 or plaa d ln&h?sa maintained by ik-2 aorpaatioa.
 
-d. Neither &all rherc be tax of any kind levied on any &igatims gzlaranteed by t k caqmation. induding any dividend OI secn*es
+*d.*
+
+Neither &all rherc be tax of any kind levied on any &igatims gzlaranteed by t k caqmation. induding any dividend OI secn*es
 
 or intaest thereoa. by whommew held
 
@@ -562,11 +598,15 @@ or intaest thereoa. by whommew held
 
 Article 53. Penonoel Imrnunities and Privileges
 
-Thc Directors, Executive pfesideot. VioeRtsidmt8 arid Executive Officials. technicians, and professionals of the Corporation shall enjoy the following privileges and inmudies:
+*the a.*
 
-a. Immunity wi& mspect to judicial and admidstdw pwcux? ddve to acts peafomd by tkm in their ofidal CSipCity, except whm the oorparanion expressly waim sucb immunity:
+Thc Directors, Executive pfesideot. VioeRtsidmt8 arid Executive Officials. technicians, and professionals of the Corporation shall enjoy following privileges and inmudies:
 
-b. When they are not r t a t h d s of the mQby k tb3Y We located, tk m e immunities, with resped to immigtatim E&C-
+Immunity wi& mspect to judicial and admidstdw pwcux? ddve to acts peafomd by tkm in their ofidal CSipCity, except whm the oorparanion expressly waim sucb immunity:
+
+*b.*
+
+When they are not r t a t h d s of the mQby k tb3Y We located, tk m e immunities, with resped to immigtatim E&C-
 
 mflizaenace tions, dim regismdtion reqnimmmts
 
@@ -574,9 +614,7 @@ and to e oMb-tim, and the same facities wibb mpect age ng0latk-m m the lqmse&ati
 
 employm of wmpamble rank ?mm &et m b e r countpiee end me, k h d o a of this page is aahorizsd by L N. 3ImOlI
 
-The same pride= wah req& to travel facilities which the c.
-
-Contracting states grant to rqnwatati-officials and ennployea of m p a r a b l e rank fmm other Oonhctmg States
+The same pride= wah req& to travel facilities which the Contracting states grant to rqnwatati-officials and ennployea of m p a r a b l e rank fmm other Oonhctmg States
 
 Article 54. Notice. of pr0Cc.w
 
@@ -602,15 +640,13 @@ The h i e s “A” &amholder &at &odd tmioudy.fa?. in the opinion of the Board 
 
 ### ANDEAN DEVEWPMENT CORPORATION AGREEMENT
 
-The suspendd shareholder shrill automatically king a ~ L R X of the Corporation after fifteen (15) month have e l m as of the suspension date, unless the Assembly decides otherwise.
+The suspendd shareholder shrill automatically king a ~ L R of the Corporation after fifteen (15) month have e l m as of the suspension date, unless the Assembly decides otherwise.
 
 While the suspension lasts, the shareholder may not ex& any of the rights conferred on him by this Agreement, except the right to withdraw,
 
 CHAPTER X FINAL PROVISIONS Article 57. Emry iuto Force
 
-.
-
-’ The present m m m t s h d enter into force when tbt of ratification have. been deposited with the Ministry of Forrdga Affairs of the Republic of Venezuela, by representatives froan three (3) of the signatory countries among them the headquarten wmuy. If within a period d time of one year as of the deposit of the ratification instru-ments by the last of the three countries, the others have not complied with the deposit of the ratification instruments, the Board of Directors shall call a Spacial Shareholders’ ,Assembly for the purpose of adapting the relevant provisions of this Agreement to the number of countries which have ratified this instrumeot.
+. ’ The present m m m t s h d enter into force when tbt of ratification have. been deposited with the Ministry of Forrdga Affairs of the Republic of Venezuela, by representatives froan three (3) of the signatory countries among them the headquarten wmuy. If within a period d time of one year as of the deposit of the ratification instru-ments by the last of the three countries, the others have not complied with the deposit of the ratification instruments, the Board of Directors shall call a Spacial Shareholders’ ,Assembly for the purpose of adapting the relevant provisions of this Agreement to the number of countries which have ratified this instrumeot.
 
 The c o u n ~ e s which have deposited their instruments at mtifkaion prior to the dak on which this Agreement enters into force shakl be members f r o m that date. The other countries shall be membeni from the date on which they deposit their instruments of ratification.
 
@@ -636,19 +672,15 @@ The Assembly may d e h m h e the owdltim for thc E h V h of a Series “A” sha
 
 me inclusion of ohis page is authorized by La”. 3/20011
 
-### TRANSITORY PROVISIONS
-
 *First:*
 
-As of the date this Agreement enters into Eorce the headquarters country shall call the first Assembly within the period of sixty (60) calendar days.
+TRANSITORY PROVISIONS As of the date this Agreement enters into Eorce the headquarters country shall call the first Assembly within the period of sixty (60) calendar days.
 
 *Second :*
 
-Within the period elapsed between the date that thia Agreement enters into force and the blding of Special Assembly which is referred to in Article 57, the Andean Development Corporation shall be pmvisiondly admiitered in the manner that the Assembly establishes in accordance with the general criteria that are indicated in this Agreement.
-
 *Third:*
 
-If three (3) countries have ratified the p r e m t Agrecment and the headquarters corn has not done so within thret "r
+Within the period elapsed between the date that thia Agreement enters into force and the blding of Special Assembly which is referred to in Article 57, the Andean Development Corporation shall be pmvisiondly admiitered in the manner that the Assembly establishes in accordance with the general criteria that are indicated in this Agreement. If three (3) countries have ratified the p r e m t Agrecment and the headquarters corn has not done so within thret "r
 
 (3) months from the date o deposit of the last ratification instrument, the mtifying countries may agree upon a n d e r headqu-.
 
@@ -662,9 +694,13 @@ For the Government of the Republic of Bolivia, Tomis Guillnmo Elio For the Gover
 
 Salvador LIuch For the Government of the Republic of Ecuador.
 
-Gonzalo Apunte For the Government of the Republic of Per& J d de La Pucnte For tht Government of the Republic of Venezuela, H&or Hurtado 1 hereby certify that ihe above Agreement Establishing the Andean Development Chfomkm was printed in Caracas, Venezuela, in the month of May, 19 7, as an official document of this institution.
+*month of*
 
-Lic. J d Iturrafde Arteaga,
+Gonzalo Apunte For the Government of the Republic of Per& J d de La Pucnte For tht Government of the Republic of Venezuela, H&or Hurtado 1 hereby certify that ihe above Agreement Establishing the Andean Development Chfomkm was printed in Caracas, Venezuela, in the May, 19 7, as an official document of this institution.
+
+*Lic. J d*
+
+Iturrafde Arteaga,
 
 General secretary.
 
@@ -682,7 +718,11 @@ THE GOVERNMENT OF JAMAICA (hereinafter referred to as
 
 “The Gownmerit”) represated by
 
-and the CORPORACION ANDINA DE F O M E N T 0 (hereinafter referred to as “The Corporation”) represented by its executive President, L. Enrique Garcia, duly authorised by article 31 of the Agreement of the Corpomcim Andma de Foment0 executed in Bogota, Republic of Colmbia, on February 7. 1968.
+*F O by*
+
+*in*
+
+and the CORPORACION ANDINA DE M E N T 0 (hereinafter referred to as “The Corporation”) represented its executive President, L. Enrique Garcia, duly authorised by article 31 of the Agreement of the Corpomcim Andma de Foment0 executed Bogota, Republic of Colmbia, on February 7. 1968.
 
 WHERFAS:
 
@@ -700,7 +740,9 @@ NOW IT IS HEREBY AGREED AS FOLLOWS:
 
 ### “THE CORPORATION” ACTIVITIES IN JAMAICA
 
-**1.** “The Corporation” may carry out with “The Government”, public or private corporations, and financial institutions, all type of operations in line with its objectives.
+“The Corporation” may carry out with “The Government”, public 1.
+
+or private corporations, and financial institutions, all type of operations in line with its objectives.
 
 STATUS :
 
@@ -738,7 +780,7 @@ tion’s’’ archives.
 
 LOCAL OFFICE:
 
-**10.** ‘The carporation” may, at its own expense, maintain a repre-sentatiw oflice in Jamaica from which to cany on its opations there but will meanwhile cany 011 thm operations by visits of its employm.
+‘The carporation” may, at its own expense, maintain a repre-sentatiw oflice in Jamaica from which to cany on its opations there but will meanwhile cany 011 thm operations by visits of its employm.
 
 EXONERATION OF TAXES FOR THE CORPORATION’S I N - VESTMENTS AND OPERATIONS:
 
@@ -762,39 +804,57 @@ EXONERATION OF TAXES FOR THE CORPORATION’S I N - VESTMENTS AND OPERATIONS:
 
 ### EXONERATION OF TAXES A N D DUTIES FOR THE CORPORA-TION AND STAFF
 
-**12.** ‘The Corporation“ will be authorized to import free of customs 01 h p n t duties, mhicles, gaDds and teohnical eqllipment necessary for the operation of any w t a t i o n it nmy.decide to maintain in Jamaica. Such vehicles, goods and techrucal.equip ment may be s u ~ u m t l y re-exporkd free of e x p r t dutm and other f i d oharges.
+**12.** ‘The Corporation“ will be authorized to import free of customs h p n t duties, mhicles, gaDds and teohnical eqllipment neces- 01
+
+for the operation of any w t a t i o n it nmy.decide to sary
+
+maintain in Jamaica. Such vehicles, goods and techrucal.equip ment may be s u ~ u m t l y re-exporkd free of e x p r t dutm and f i d oharges. other
 
 **13.** “The Corporation’s” staff (not being citizens of Jamaica) will be aocorded exemptions, 00nOeSBiOns and pnideges m respect of taxation, import duties and othmvise, no less favourable than 60% amrded to such employees of international hatitutiuns to the extent that they win:
 
 \-
 
-### ANDEAN DEVEWPMENT CORPORATZON AGREEMENT
+*ANDEAN*
 
-13.1 Not be subject to income or similar taxes in respect of salaries and emoluments received fram “The Cmpation”; and 13.2 Be antitled within six months of arriving in J a m a h to isopoat free of cusboms or import duties. pessonal effeds (ioluding one vehicle for prsoml or family use) and household g o a l s and to export the Same free of export.duties and 0th fiscal charges at theend of their stay in Jamarca.
+### DEVEWPMENT CORPORATZON AGREEMENT
+
+*and 13.2 Be*
+
+13.1 Not be subject to income or similar taxes in respect of salaries emoluments received fram “The Cmpation”; and antitled within six months of arriving in J a m a h to isopoat free of cusboms or import duties. pessonal effeds (ioluding one vehicle for prsoml or family use) and household g o a l s and to export the Same free of export.duties and fiscal charges at theend of their stay in Jamarca. 0th
 
 ENTRY VISAS, WORK PERMITS, ETC.
 
-**14.** “The Government’’ will facilitate the issue of all Vipas. @‘s and other authorisations required to enable “The Corporauon’s” staff, and their families. to w k in Jamaica and to enter. remain and reside in and leave JapnaiCa at any time and from time to time PLS requid in order to carry out “The Corporation’s” pwposS. in acoadance with the laws of Jannabad.
+*\14. “The and other staff, and*
 
-**15.** ‘The Govemnwnt” will giw sympathetic consideration to appli-cations for work petmits fa sp-of “The corpaation’s” stall (not being citizens of Jamaica).
+Government’’ will facilitate the issue of all Vipas. @‘s authorisations required to enable “The Corporauon’s” their families. to w k in Jamaica and to enter. remain and reside in and leave JapnaiCa at any time and from time to time PLS requid in order to carry out “The Corporation’s” pwposS. in acoadance with the laws of Jannabad.
 
-### FOREIGN INVESTMENT EXCHANGE CONTROL
+*\15. ‘The*
 
-**16.** ‘The G o m e n t ” undertakm to pocure that the del#rrtments or &ces for the tinae k i i g responsible f a foreign investment and foreign exchange control matters will:
+Govemnwnt” will giw sympathetic consideration to appli-cations for work petmits fa sp-of “The corpaation’s” stall (not being citizens of Jamaica).
+
+*FOREIGN*
+
+### INVESTMENT EXCHANGE CONTROL
+
+*or &ces*
+
+**16.** ‘The G o m e n t ” undertakm to pocure that the del#rrtments for the tinae k i i g responsible f a foreign investment and foreign exchange control matters will:
 
 16.1 Deal expeditiously with any request for any approval for foreign investment and/or foreign exchange control purposes that may he required for a pmposed investment by “The Carpration” in any enteqnise in Jamaica.
 
 16.2 Grsnt nll aWhorizations that may be squired:
 
-16.2.1 For the remittance out of Jamaica of all dividends and ather distriblltim, interest, pmfits, gains. proceeds m ndimtion. inme. fee and moneys of any kind w h t s o e w arising from or in CoZLnection with any inw-t by ‘The caporalion” in Jamaica. 16.2.2 For the mnitlannoe out of Jamaica of any moneys Lmlmging to emplayees of ‘The Onporation’’ and their spus% d children (not being citizeas of J&C@.
+For the remittance out of Jamaica of all dividends 16.2.1
 
-162.3 For the purohase at the h autbonzed exchange ‘ rate available of any foreign currency that may be q u i d in connection with any suoh remittances,
+and ather distriblltim, interest, pmfits, gains. proceeds m ndimtion. inme. fee and moneys of any kind w h t s o e w arising from or in CoZLnection with any inw-t by ‘The caporalion” in Jamaica. 16.2.2 For the mnitlannoe out of Jamaica of any moneys Lmlmging to emplayees of ‘The Onporation’’ and their spus% d children (not being citizeas of J&C@.
+
+162.3 For the purohase at the h autbonzed exchange ‘ rate available of any foreign currency that may be q u i d in connection with any suoh remittances, [The inclusion of Dhis page is a h i z e d by LN. 3/2001]
 
 ### ANDEAN DEVELDPMENT CORPORATION AGREEMENT
 
 ### OTHER MATTERS
 
-**17.** With the excqtion c4 the exemptiom and pride@ applicable only to the staf? of a -tatwe &ce, the ttairamt mhi& d to ‘The Caporation” will apply ‘The Guv-ent”
+With the excqtion c4 the exemptiom and pride@ applicable only to the staf? of a -tatwe &ce, the ttairamt mhi& d to ‘The Caporation” will apply ‘The Guv-ent”
 
 whether or n d ‘The Coqmmtion’’ &tabs an o6ice, w t , munager. r a p m n t h v e a any other SaiT in Jamaica Such exwmp and pidw ma be a d d bo w b o l l y - o w n e d il - ~~OIIS -2le
 
@@ -854,7 +914,9 @@ ANDEAN DEVELOPMENT CORPORATION AGREEh¶i?h‘T
 
 Cuble Address: Corporation Andina de Foment0 Telephone: (582) 209-2120 FaX: (582) 209-2406 Telex No. : 23504 CAFVF SIXTH: Any p b l e m s a r i s i i under this Agreement will bc diaxmuj between the parties in order to arrive at a speCay and amkable resolution of the matter.
 
-By common -men5 the pattics subscribe to this Agreemeat for subsaiption of f3mlmm capital shock in tbs city d this of ,199 i n t l R o ( 2 ) o r i ~ i . English and two (2) originals in Spanish, all of &e same tenor.
+*.*
+
+By common -men5 the pattics subscribe to this Agreemeat for subsaiption of f3mlmm capital shock in tbs city d this of ,199 i n t l R o ( 2 ) o r i ~ i English and two (2) originals in Spanish, all of &e same tenor.
 
 THE GOVERNMENT OF CORPORACION ANDINA DE JAMAICA FOMENTO.
 
@@ -878,7 +940,7 @@ inclusion of hip page i s authorircd by L.N. 31xM11
 
 ### ANDEAN DEVELOPMENT CORPORATZON AGREEMENT
 
-**3.** Form of Paymeat: Shares W be subscribed to form the paid-up capital and security capital in such proportion. ternis and conditions to be agreed upon by subscribers and the administratiW.
+Form of Paymeat: Shares W be subscribed to form the paid-up capital and security capital in such proportion. ternis and conditions to be agreed upon by subscribers and the administratiW.
 
 Payment is to be made within such period of time as agreed upon by the parties, which shall not exceed two (2) years.
 
@@ -902,4 +964,6 @@ Shares may be assigned to similar persons in a same country. and those subscriba
 
 **7.** Other rights and Obligatim: The rights and obligatiom act forth in the ConstCtutive Agreement and in the General By-Law. Meeting’s decisions and Board of Directors’ resolutions not exclusively refemng to Series “A” and “ B sbkholders shall apply to Series “c” stockholders.
 
-Caracas, Sepiemlxr 19, 1989.
+*Caracas,*
+
+Sepiemlxr 19, 1989.

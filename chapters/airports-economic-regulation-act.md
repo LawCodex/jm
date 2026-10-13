@@ -146,15 +146,21 @@ subject to subsection (2), the handling of passengers or their baggage or of car
 
 (c) the supply of consumer goods or services.
 
-(3) The Minister may, by order, make such modifications to the definition of “operational activities” as he thinks necessary or expedient having regard to Jamaica’s international obligations.
+*thinks*
 
-**3.** (1) The Authority shall perform its functions under this Perform-
+(3) The Minister may, by order, make such modifications to the definition of “operational activities” as he necessary or expedient having regard to Jamaica’s international obligations.
 
-*M C O of hnctions of Authoritv*
+*3.-(1)*
 
-Act in such manner as it considers best calculated to-
+*Perform-M C O of*
 
-hrther the reasonable interests of users of airports :*h s i within Jamaica and to provide economical and reliable services to those users by establishing a system for the regulation of airports that takes account of those interests;
+*Act in*
+
+*hnctions of Authoritv :\*h s i*
+
+The Authority shall perform its functions under this such manner as it considers best calculated to-
+
+hrther the reasonable interests of users of airports within Jamaica and to provide economical and reliable services to those users by establishing a system for the regulation of airports that takes account of those interests;
 
 promote the efficient, economic and profitable operation of airports;
 
@@ -174,11 +180,9 @@ hrther such vital public interests as may be notified to the Authority by the Mi
 
 (a) consult with persons who are or are likely to be affected by the decision;
 
-(b) give to such persons an opportunity to make
-
 *c*
 
-submissions and to be heard by the Authority;
+(b) give to such persons an opportunity to make submissions and to be heard by the Authority;
 
 (c) have regard to the evidence adduced at any such hearing and to the matters contained in any such submission;
 
@@ -200,9 +204,9 @@ submissions and to be heard by the Authority;
 
 (6) The Minister may by order designate a person to operate an airport or parts thereof as an approved airport operator for the purposes of this Act.
 
-*\-yh*
+*Diredims b -yh b of M t i d*
 
-**5.** (1) The Minister responsible for national security may Diredims give to any approved airport operator or operators generally, b such directions of a general character as appear to the Minister b of to be necessary or expedient in the interests of national security, M t i d including a direction requiring him (according to the circumstances of the case) to do, or not to do, a particular thing specified in the direction, if the Minister considers such a direction necessary or expedient in the interests of national security.
+**5.** (1) The Minister responsible for national security may give to any approved airport operator or operators generally, such directions of a general character as appear to the Minister to be necessary or expedient in the interests of national security, including a direction requiring him (according to the circumstances of the case) to do, or not to do, a particular thing specified in the direction, if the Minister considers such a direction necessary or expedient in the interests of national security.
 
 (2) The Minister may give to-
 
@@ -244,11 +248,9 @@ if the Minister considers such a direction necessary or expedient in order to di
 
 ## PART 11. Airport Improvement Fee
 
-**6.** (1) The Minister may, by order subject to affirmative ~ i r p o c t
+*~ i r p o c t improve-matfee.*
 
-*improve-*
-
-resolution, impose an airport improvement fee to be paid by matfee. each passenger using an airport for the purpose of travel from Jamaica.
+**6.** (1) The Minister may, by order subject to affirmative resolution, impose an airport improvement fee to be paid by each passenger using an airport for the purpose of travel from Jamaica.
 
 (2) The airport improvement fee shall not be payable by such categories of passengers as may be prescribed.
 
@@ -256,11 +258,9 @@ resolution, impose an airport improvement fee to be paid by matfee. each passeng
 
 (4). &I order under subsection (1) shall provide for the payment and collection of the airport improvement fee.
 
-(5) Moneys collected by way of airport improvement fee shall be paid into a special fund which shall be established for that purpose and be applied to purposes conducive to capital
-
 *Schedule.*
 
-improvements at airports specified in the Schedule, on such terms and conditions as are specified in regulations under section 2 1.
+(5) Moneys collected by way of airport improvement fee shall be paid into a special fund which shall be established for that purpose and be applied to purposes conducive to capital improvements at airports specified in the Schedule, on such terms and conditions as are specified in regulations under section 2 1.
 
 (6) The Minister shall authorize all expenditure from the fbnd referred to in subsection (5).
 
@@ -292,13 +292,17 @@ improvements at airports specified in the Schedule, on such terms and conditions
 
 (b) the application is withdrawn or the Authority notifies the applicant in writing that the permission is refused.
 
-(4) Any permission granted under this section in relation to an airport shall come into force on the later of the following dates, namely-
+*to*
+
+(4) Any permission granted under this section in relation an airport shall come into force on the later of the following dates, namely-
 
 (a) the date on which it is granted; or
 
 (b) the date on which the airport becomes a scheduled airport under this Act,
 
-and such permission shall remain in force until it is revoked pursuant to section 17.
+*and*
+
+such permission shall remain in force until it is revoked pursuant to section 17.
 
 (5) Where the Authority grants permission to an approved airport operator to levy any airport charges, that approved airport operator shall, before levying such charges-
 
@@ -412,11 +416,23 @@ levied by the approved airport operator by way of airport charges at the airport
 
 (iii) the granting of a right by virtue of which any such operational activities may be carried on by any other person; and
 
-(b) whether the effects adverse to the public interest which that course of conduct has had or might be expected to have, could be remedied or prevented by the imposition of any conditions in relation to the airport or by the modification of any conditions already in force in relation to that airport.
+whether the effects adverse to the public interest (b)
 
-(3) In determining whether any particular matter has operated or might be expected to operate, against the public interest, in the case of a matter relating to the granting of a right by virtue of which any operational activities may be carried on by any person, the Authority shall have regard to the objective of hrthering the reasonable interests of persons granted such rights.
+which that course of conduct has had or might be expected to have, could be remedied or prevented by the imposition of any conditions in relation to the airport or by the modification of any conditions already in force in relation to that airport.
 
-**12.** (1) The Authority shall submit to the Minister, a report &portof of its findings in respect of an investigation under section 11 and Authority. shall give a copy thereof to the approved airport operator concerned.
+(3) In determining whether any particular matter has operated or might be expected to operate, against the public in the case of a matter relating to the granting of a right interest,
+
+*by*
+
+*of rights.*
+
+virtue of which any operational activities may be carried on by any person, the Authority shall have regard to the objective hrthering the reasonable interests of persons granted such
+
+*&portof Authority.*
+
+*of its shall*
+
+**12.** (1) The Authority shall submit to the Minister, a report findings in respect of an investigation under section 11 and give a copy thereof to the approved airport operator concerned.
 
 (2) In making a report in relation to an investigation the Authority-
 
@@ -458,9 +474,9 @@ shall be guilty of an offence and liable on summary conviction before a Resident
 
 (4) A person referred to in subsection (3) who at any time communicates or attempts to communicate any information referred to in that subsection to any person otherwise than for the purposes of this Act, shall be guilty of an offence and liable on summary conviction before a Resident Magistrate to a fine not exceeding one million dollars or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.
 
-*znpdi-*
+*Discretion-znpdi-*
 
-**14.** (1) Where, at the time of granting a permission under Discretion-section 8 in respect of an airport or at any other time while such permission is in force, it appears to the Authority that the approved airport operator is pursuing a course of conduct specified in subsection (2), the Authority may, if it thinks fit, impose in relation to the airport such conditions as it considers appropriate for the purpose of remedying or preventing what it considers are the adverse effects of that course of conduct.
+**14.** (1) Where, at the time of granting a permission under section 8 in respect of an airport or at any other time while such permission is in force, it appears to the Authority that the approved airport operator is pursuing a course of conduct specified in subsection (2), the Authority may, if it thinks fit, impose in relation to the airport such conditions as it considers appropriate for the purpose of remedying or preventing what it considers are the adverse effects of that course of conduct.
 
 (l’lic iiicliisiiiii of tliis page is aiitlionzed by L.N.
 
@@ -482,7 +498,9 @@ shall be guilty of an offence and liable on summary conviction before a Resident
 
 or which has resulted in the adoption by any other person of a practice that does any of those things;
 
-(c) the fixing by the approved airport operator of any charges levied by him at the airport in relation to any relevant activities carried on by him there at levels which-
+the fixing by the approved airport operator of any (c)
+
+charges levied by him at the airport in relation to any relevant activities carried on by him there at levels which-
 
 S8/2003]
 
@@ -512,7 +530,11 @@ S8/2003]
 
 (b) have regard to any circumstances which, in its opinion, would affect any company carrying on the business of operating the airport as a commercial undertaking.
 
-(5) Before imposing any conditions under subsection (l), the Authority shall notify in writing the approved airport operator concerned of the course of conduct specified in subsection (2) which it appears to the Authority that he is pursuing and of the conditions which the Authority intends to impose.
+*(l), the operator*
+
+*pursuing impose.*
+
+(5) Before imposing any conditions under subsection Authority shall notify in writing the approved airport concerned of the course of conduct specified in subsection (2) which it appears to the Authority that he is and of the conditions which the Authority intends to
 
 (6) For the purposes of this section the Authority shall investigate whether-
 
@@ -520,9 +542,11 @@ S8/2003]
 
 (b) the effects adverse to the public interest which that course of conduct has had or might be expected to have, could be remedied or prevented by the imposition of any conditions in relation to the airport or by the modification of any existing conditions.
 
+*15.-(1)*
+
 *Provisions supplementary to section*
 
-**15.** (1) Nothing in section 14 (1) shall be construed as authorizing the Authority to impose a condition-
+Nothing in section 14 (1) shall be construed as authorizing the Authority to impose a condition-
 
 14.
 
@@ -538,15 +562,15 @@ S8/2003]
 
 (3) Where an aircraft operator whose principal place of business is outside Jamaica makes representations to the Authority to the effect that the Authority’s powers under section 14 (I) appear to be exercisable in relation to an airport on the ground that the approved airport operator is pursuing a course of conduct within section 14 (2) (a), the Authority shall notify the Minister of those representations for the purpose of enabling the Minister to determine whether to give any advice to the Authority for the purposes of subsection (2) of this section.
 
-*Enforcement of*
+*Enforcement of conditions other than*
 
 **16.** (I) Where-
 
-*other than*
+a complaint is made to the Authority that an approved (U)
 
-a complaint is made to the Authority that an approved conditions (U)
+*conditions.*
 
-airport operator is in contravention of any condition imposed by the Authority in relation to any airport; and conditions.
+airport operator is in contravention of any condition imposed by the Authority in relation to any airport; and
 
 (b) such complaint is made-
 
@@ -556,17 +580,23 @@ airport operator is in contravention of any condition imposed by the Authority i
 
 the Authority shall investigate that complaint, unless it considers it to be fiivolous.
 
-(2) Where any such complaint is made to the Authority by a person not falling within subsection (1) (b), the Authority may investigate the complaint if it thinks fit.
+*by a may*
 
-(3) This section shall not apply to a condition to which section 18 applies (breach of accounts conditions).
+(2) Where any such complaint is made to the Authority person not falling within subsection (1) (b), the Authority investigate the complaint if it thinks fit.
+
+*section*
+
+(3) This section shall not apply to a condition to which 18 applies (breach of accounts conditions).
 
 (4) Where, upon an investigation %he Authority is satisfied that an approved airport operator has contravened the condition in question the Authority shall-
 
-(a) by order (hereinafter referred to as a compliance order) provide such measures as it considers appropriate for the purpose of securing compliance with that condition and for remedying any loss or damage or injury suffered by any person in consequence of the contravention; or
+by order (hereinafter referred to as a compliance (a)
+
+order) provide such measures as it considers appropriate for the purpose of securing compliance with that condition and for remedying any loss or damage or injury suffered by any person in consequence of the contravention; or
 
 (b) subject to subsection (9, modify the condition in such manner as it considers appropriate in the circumstances.
 
-( 5 ) A compliance order under subsection (4) (a)-
+5 ) A compliance order under subsection (4) (a)- (
 
 (a) shall require the approved airport operator concerned to do or to refiain from doing, such things as are specified in the order; and
 
@@ -574,9 +604,11 @@ the Authority shall investigate that complaint, unless it considers it to be fii
 
 (c) may be revoked by the Authority at any time.
 
-*Validityand effect of compliance order*
+*Validityand effect of any compliance the order*
 
-**17.** (1) An approved airport operator who is aggrieved by any compliance order applying to him may, within thirty days of the service of a copy of the order on him, make an application to the Court under this section on the ground that the order is not within the powers of section 16.
+*to the within*
+
+**17.** (1) An approved airport operator who is aggrieved by compliance order applying to him may, within thirty days of service of a copy of the order on him, make an application Court under this section on the ground that the order is not the powers of section 16.
 
 (2) On any such application the Court may quash the compliance order or any part thereof if the Court is satisfied that the order is not within the powers conferred by section 16.
 
@@ -618,9 +650,9 @@ took all reasonable steps for securing compliance with the relevant condition; o
 
 (b) in the case of an offence under subsection (3), that he took all reasonable steps for securing compliance with the relevant condition before the end of the period allowed for such compliance.
 
-*visions*
+*Suppiemen-visions re*
 
-**19.** (1) Any condition imposed by the Authority under this Suppiemen-Part otherwise than pursuant to section 10 (4), shall remain in force for a particular period or without limit of time, as the re Authority may determine, and, in imposing the condition, the Authority shall specify-
+**19.** (1) Any condition imposed by the Authority under this Part otherwise than pursuant to section 10 (4), shall remain in force for a particular period or without limit of time, as the Authority may determine, and, in imposing the condition, the Authority shall specify-
 
 (a) the period that it is to remain in force; or
 

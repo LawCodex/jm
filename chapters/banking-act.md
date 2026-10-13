@@ -220,11 +220,9 @@ Cf) the amount of special debentures which for the time being may be taken into 
 
 "company" means a body corporate whether incorporated under the law of Jamaica or of any other country; 2812004
 
-"competent authority" means a supervisory authority in a
-
 *S. 2 (a).*
 
-foreign country which has supervisory duties and responsibilities-
+"competent authority" means a supervisory authority in a foreign country which has supervisory duties and responsibilities-
 
 (a) with respect to a company which is incorporated in and provides financial services in that country; and
 
@@ -254,9 +252,13 @@ foreign country which has supervisory duties and responsibilities-
 
 "retained earnings reserve" means a reserve which has been notified as such to the Bank of Jamaica and into which is paid such portion of a bank's net profits as defined in section 8 (including realized capital gains) as the bank may determine;
 
-"Supervisor" means the Supervisor of Banks and Financial z6/1997 Institutions appointed under the Bank of Jamaica Act; S, 2 (axiii).
+*z6/1997 S, 2 (axiii).*
 
-"Supervisory Department" means the Department of 26f1997 Supervision of Banks and Financial Institutions 8, 2 (n)(iii). established under Part VA of the Bank of Jamaica Act;
+"Supervisor" means the Supervisor of Banks and Financial Institutions appointed under the Bank of Jamaica Act;
+
+*26f1997 8, 2 (n)(iii).*
+
+"Supervisory Department" means the Department of Supervision of Banks and Financial Institutions established under Part VA of the Bank of Jamaica Act;
 
 "trust business" includes property devalving upon a bank whether in the capacity af trustee, executor, administrator or any other fiduciary capacity;
 
@@ -268,7 +270,11 @@ foreign country which has supervisory duties and responsibilities-
 
 the assets comprising the security or which exceeds the valuation approved by the Bank of Jamaica whenever it deems that no market value exists for such assets, and for the purpose of this definition security shall be construed as including a confirmed irrevocable letter of credit and such other instruments as the Bank of Jamaica may from time to time determine.
 
-(2) For the purposes of this Act the following persons shall be treated as being connected with a given bank ("B") and the bank with them, and shall be so treated notwithstanding that at the relevant time any of the persons in question (not being individuals) had not yet come into existence or had ceased to exist-
+*persons bank*
+
+*in*
+
+(2) For the purposes of this Act the following shall be treated as being connected with a given ("B") and the bank with them, and shall be so treated notwithstanding that at the relevant time any of the persons question (not being individuals) had not yet come into existence or had ceased to exist-
 
 a holding company or subsidiary of B;
 
@@ -286,29 +292,53 @@ an individual who is a director, manager or a person who has control of B or any
 
 any company of which any of the persons referred to in paragraph (g) is a director, manager or has control.
 
-(3) For the purposes of this Act "group" in relation to a company, means that company and-
+*a*
 
-(a) any other company which is its holding company or subsidiary;
+(3) For the purposes of this Act "group" in relation to company, means that company and-
 
-(b) any other company which is a subsidiary of the holding company;
+any other company which is its holding company or (a)
 
-(c) any company which directly or indirectly controls or is controlled by any company referred to in paragraph (4 or (b);
+subsidiary;
+
+any other company which is a subsidiary of the holding company;
+
+any company which directly or indirectly controls or is controlled by any company referred to in paragraph (4 or (b);
 
 (cl) any company which is controlled by a- person who directly or indirectly controls a company referred to in paragraph (U), (b) or (c).
 
-(3A) For the purposes of this Act a company is the 2611997 holding company of any company that is its immediate, S. 2 (b). intermediate or ultimate subsidiary whether the holding I I ~ O O Z company holds that other company’s shares on trust or is the S. 2 (b). beneficial owner of such shares.
+*S. 2 (b).*
 
-(4) For the purposes of this Act, in determining the paid-up capital of a bank-
+*holding*
 
-( U ) unless the Bank of Jamaica otherwise determines and subject to .paragraph (b), there shall be dis-regarded any portion of capital subscribed to and paid up by a connected person who had within the three years immediately preceding the payment, received fiom the bank a loan (other than a loan referred to in subsection ( 5 ) ), deposit or advance of an amount equal to or greater than the amount of that portion of capital; and
+*I I ~ O O Z S. 2 (b).*
+
+(3A) For the purposes of this Act a company is the 2611997 company of any company that is its immediate, intermediate or ultimate subsidiary whether the holding company holds that other company’s shares on trust or is the beneficial owner of such shares.
+
+*paid-up*
+
+(4) For the purposes of this Act, in determining the capital of a bank-
+
+unless the Bank of Jamaica otherwise determines ( U )
+
+and subject to .paragraph (b), there shall be dis-regarded any portion of capital subscribed to and paid up by a connected person who had within the three years immediately preceding the payment, received fiom the bank a loan (other than a loan referred to in subsection ( 5 ) ), deposit or advance of an amount equal to or greater than the amount of that portion of capital; and
 
 (b) the amount disregarded pursuant to paragraph ( b ) consequent OR any loan, deposit or advance shall be limited to the amount remaining unpaid on the loan, deposit or advance.
 
-(5) Subsection (4) shall not apply to any secured loan used to purchase shares in a bank where those shares are not used as security for that loan.
+*used to used as*
 
-(6) Nothing in this Act shall be construed as permitting a bank to reduce the amount held in the retained earnings reserve without the prior approval in writing of the Bank of Jamaica.
+(5) Subsection (4) shall not apply to any secured loan purchase shares in a bank where those shares are not security for that loan.
 
-PART 11. Licensing of Banks 3 . 4 1 ) A person other than a company duly licensed under g-2: this Act shall not carry on banking business in onbanking business. (The IIIC~IISIOB of this page IS authonzed by L N
+*bank to without*
+
+(6) Nothing in this Act shall be construed as permitting a reduce the amount held in the retained earnings reserve the prior approval in writing of the Bank of Jamaica.
+
+*g-2: onbanking business.*
+
+## PART 11. Licensing of Banks A person other than a company duly licensed under 3 . 4 1 )
+
+this Act shall not carry on banking business in
+
+(The IIIC~IISIOB of this page IS authonzed by L N
 
 ### BAA?HNG
 
@@ -330,13 +360,17 @@ Jamaica; and any person who contravenes this subsection shall be guilty of an of
 
 shall be permitted a reasonable period of time specified in that order, not being less than twelve months, within which to comply.
 
-(2A) A bank shall maintain at all times an adequate 26 1997 capital base determined in such manner and by such methods as S. 4 (b). may be prescribed fiom time to time.
+*26 1997 S. 4 (b).*
+
+(2A) A bank shall maintain at all times an adequate capital base determined in such manner and by such methods as may be prescribed fiom time to time.
 
 (3) Any bank which contravenes subsection (1) shall be guilty of an offence.
 
 ## PART IV. Restrictions on Bmikiirg Business
 
-1 0 . 4 1 ) The fixed assets of a local bank or as the case may Lintit on be, such assets of a foreign bank as are located in Jamaica, shall fixed assets ofbankS. not, without the approval in writing of the Minister, and subject to such conditions as the Minister may specify, exceed an amount equivalent to its capital base.
+*Lintit on fixed assets ofbankS.*
+
+1 0 . 4 1 ) The fixed assets of a local bank or as the case may be, such assets of a foreign bank as are located in Jamaica, shall not, without the approval in writing of the Minister, and subject to such conditions as the Minister may specify, exceed an amount equivalent to its capital base.
 
 (2) For the purposes of this section-
 
@@ -350,7 +384,9 @@ shall be permitted a reasonable period of time specified in that order, not bein
 
 (b) the historical cost method shall be applied in the valuation of fixed assets.
 
-Lmc'" 11.41) A person to whom this subsection applies shall not, without the express authorization in writing of 6 m W the Minister, act or continue to act, as a director of, or be m -geat.
+*Lmc'" 6 m W m at. -ge-*
+
+11.41) A person to whom this subsection applies shall not, without the express authorization in writing of the Minister, act or continue to act, as a director of, or be
 
 directly or indirectly concerned in the management of any bank.
 
@@ -360,11 +396,9 @@ directly or indirectly concerned in the management of any bank.
 
 (3) of section 4; or
 
-( b ) whether in Jamaica or elsewhere has been a director of, or directly concerned in management of a bank or
-
 *First Schedule. 11 2002 s. 3.*
 
-other financial institution referred to in the First Schedule.
+( b ) whether in Jamaica or elsewhere has been a director of, or directly concerned in management of a bank or other financial institution referred to in the First Schedule.
 
 (3) Any person who contravenes the provisions of subsection (1) shall be guilty of an offence.
 
@@ -378,11 +412,7 @@ Except with the approval in writing of the Minister 12.-(1)
 
 or except in accordance with the provisions of any Act, no person other than a company duly licensed under this Act shall, in connection with a trade or business carried on by him, use the word “bank”. or any grammatical variation thereof and any person who contravenes this subsection shall be guilty of an offence.
 
-(2) Subsection (1) shall not apply to any association formed by banks for the purpose of representing the common
-
-*26/1997*
-
-interests of the members of such association or in any case where the word “bank” or any grammatical variation thereof forms part of the name of a person or place.
+(2) Subsection (1) shall not apply to any association formed by banks for the purpose of representing the common interests of the members of such association or in any case where the word “bank” or any grammatical variation thereof forms part of the name of a person or place.
 
 ### SSL?003]
 
@@ -424,47 +454,51 @@ Provided that no information in respect of the affairs of a particular customer 
 
 (7) In this section “working day” means any day on which a bank is normally opened for business.
 
-**17.** \-(1) Where, in respect of any credit facility granted by a I B O S S ~ ~ S W - bank, no payment of principal or interest which is due and ves on payable has been made for a period of three months-
+*I B O S S ~ ~ S W - ves on*
 
-lilies. 1 112002
+*lilies. 1 112002 s 2611097 . 4 ~*
 
-(a) the bank shall establish an appropriate reserve s 2611097 . 4 ~ (hereinafter referred to as loss reserves on credit s , 7 ( n ) . facilities) in respect of all such credit facilities in 11/2002 suchamount and on such basis as the Minister may 26/1997 prescribe in regulations made under section 38; and s.7(h).
+**17.** \-(1) Where, in respect of any credit facility granted by a bank, no payment of principal or interest which is due and payable has been made for a period of three months-
+
+*s , 7 ( n ) .*
+
+*s.7(h).*
+
+(a) the bank shall establish an appropriate reserve (hereinafter referred to as loss reserves on credit facilities) in respect of all such credit facilities in suchamount and on such basis as the Minister may prescribe in regulations made under section 38; and
 
 [Tlic incliisios of this page is aiithorized by L.N
 
-*11/2002*
+interest in respect of such credit facilities shall not continue to be taken to the profit and loss account aRer the expiration of that period.
 
-(b) interest in respect of such credit facilities shall not continue to be taken to the profit and loss account aRer the expiration of that period.
+*1 112002 S. 4 (b). each facilities against 1 1 12002 S. 4 (b).*
 
-*1 112002 S. 4 (b).*
-
-(2) There shall be shown on the audited balance sheet of each bank the aggregate amount of the loss reserves on credit facilities and the portion thereof which has been written off against the profit and loss account.
-
-*1 1 12002 S. 4 (b).*
+(2) There shall be shown on the audited balance sheet of bank the aggregate amount of the loss reserves on credit and the portion thereof which has been written off the profit and loss account.
 
 (3) Where the terms of any credit facility referred to in subsection (1) have been altered pursuant to a renegotiation-
 
 *1 1 /2002 S 4 (b).*
 
-(a) if the credit facility is of an amount equivalent to 10 per cent or more of the bank’s capital base, the bank shall within seven days after the date of such renegotiation notify the Bank of Jamaica in writing giving full particulars thereof
+if the credit facility is of an amount equivalent to (a)
 
 *1 112002 S. 4 (b).*
 
-(b) if the credit facility is not one referred to in paragraph (a) but is of an amount in excess of 1 per cent of the bank’s capital base, the bank shall within seven days after the expiration of the month in which the alteration occurred, make a return to the
-
 *1 1 12002 S. 4 (b).*
 
-Bank of Jamaica setting out the total amount of the credit facility so altered during that month.
+10 per cent or more of the bank’s capital base, the bank shall within seven days after the date of such renegotiation notify the Bank of Jamaica in writing giving full particulars thereof (b) if the credit facility is not one referred to in paragraph (a) but is of an amount in excess of 1 per cent of the bank’s capital base, the bank shall within seven days after the expiration of the month in which the alteration occurred, make a return to the Bank of Jamaica setting out the total amount of the credit facility so altered during that month.
 
-*Presentation and publication of balance sheet and profit and loss account*
+*18.--(1) Presentation*
 
-**18.** \-(1) Every bank shall-
+Every bank shall-
 
-(a) not later than ninety days after the end of each financial year, submit the prescribed documents to the Bank of Jamaica;
+*and publication of balance sheet and profit and loss account*
+
+not later than ninety days after the end of each (a)
+
+financial year, submit the prescribed documents to the Bank of Jamaica;
 
 (b) not later than fourteen days after the date on which the prescribed documents are submitted pursuant to paragraph (a), cause a copy thereof to be published in a daily newspaper printed and circulated in Jamaica;
 
-(c) exhibit throughout each year a copy of the latest prescribed documents in a conspicuous position in each place of business of the bank in Jamaica.
+exhibit throughout each year a copy of the latest prescribed documents in a conspicuous position in each place of business of the bank in Jamaica.
 
 (ii) loans or credit facilities granted by the subsidiary shall be deemed to be loans of the bank for the purposes of section 13 (prohibited business);
 
@@ -480,41 +514,53 @@ Bank of Jamaica setting out the total amount of the credit facility so altered d
 
 (b) fails to comply with directions issued under subsection (3),
 
-shall be guilty of an offence.
+*shall be*
 
-**19A.** (1) It is the duty of the auditors of a bank to report in auditors to
+guilty of an offence.
+
+*19A.-(1)*
+
+*auditors to*
+
+*writing to*
 
 *to*
 
-writing to the chief executive officer of the bank, each director of the bank and the Supervisor, any material transactions or Supervis0r on transac . conditions that have come to the auditors' attention in the tions,etc., ordinary course of the audit, which, in the auditors' opinion meet one or more of the following criteria-
+*of the*
 
-financial viability.
+*Supervis0r on transac . tions,etc.,*
 
-(a) any change in accounting policy or any presentation 2611997 of or any failure to present, facts or figures which, in s. 10. the opinion of the auditors, has the effect of misrepresenting the financial position of the bank;
+*ordinary meet one*
+
+*financial viability.*
+
+It is the duty of the auditors of a bank to report in the chief executive officer of the bank, each director bank and the Supervisor, any material transactions or conditions that have come to the auditors' attention in the course of the audit, which, in the auditors' opinion or more of the following criteria-
+
+*s. 10.*
+
+(a) any change in accounting policy or any presentation 2611997 of or any failure to present, facts or figures which, in the opinion of the auditors, has the effect of misrepresenting the financial position of the bank;
 
 (b) transactions or conditions giving rise to significant risks or exposures that have the potential to jeopardize the bank's financial viability;
 
-(c) transactions or conditions indicating that the bank has significant weaknesses in internal control which
+transactions or conditions indicating that the bank has significant weaknesses in internal control which
 
 such further order relating to the sale or transfer of the shares as he thinks fit.
 
 (4) Where specified shares are sold in pursuance of an order under this section the proceeds of sale, less the costs of the sale, shall be paid into such fund as the Court may specify for the benefit of the persons beneficially interested in them, and any such person may apply to the Court for the whole or part of the proceeds to be paid to him.
 
-tzz:
+*tzz: restriction ; :& S. 12.*
 
-**24.** Any person who is aggrieved by a notice of refirsal pursuant to section 20 ( 2 ~ ) or 21 ( 2 ~ ) or any terms and restriction conditions stipulated by the Minister in granting approval ; :& pursuant to those sections or any notice served pursuant to S. 12. section 23 (1) or (2), may within twenty-one days after receipt of such notice appeal to the Court of Appeal against the Minister's decision and that Court may make such order as it thinks fit.
+**24.** Any person who is aggrieved by a notice of refirsal pursuant to section 20 ( 2 ~ ) or 21 ( 2 ~ ) or any terms and conditions stipulated by the Minister in granting approval pursuant to those sections or any notice served pursuant to section 23 (1) or (2), may within twenty-one days after receipt of such notice appeal to the Court of Appeal against the Minister's decision and that Court may make such order as it thinks fit.
 
-PART VIII. Regulation against Unsafe Practices 2 5 . 3 1 ) Where the Supervisor believes that any of the w e - conditions specified in paragraph 1,2,3, or 4 of Part A of the hzlldcdin-Second Schedule exists in relation to a bank, the Supervisor E' ' '?. mav-
+*w e - hzlldcdin-E' ' '?. Schedule. 2611 997 s. 13.*
 
-Schedule. 2611 997
+PART VIII. Regulation against Unsafe Practices 2 5 . 3 1 ) Where the Supervisor believes that any of the conditions specified in paragraph 1,2,3, or 4 of Part A of the Second Schedule exists in relation to a bank, the Supervisor mav-
 
-(a) require the bank to give an undertaking signed by the s. 13. majority of the members of the bank's Board to take such corrective action as may be agreed between the bank and the Supervisor;
+(a) require the bank to give an undertaking signed by the majority of the members of the bank's Board to take such corrective action as may be agreed between the bank and the Supervisor;
 
 (b) give directions to the bank under this section; or
 
-issue a cease and desist order in accordance with Part B (c)
-
-of the Second Schedule.
+issue a cease and desist order in accordance with Part B of the Second Schedule.
 
 (Vie iiiclusion of this page is autliorized by L.N. 88/2003]
 
@@ -542,7 +588,9 @@ of the Second Schedule.
 
 ### BA"G
 
-(6) Where the Minister, after consultation with the Supervisor, believes that a bank is or appears likely to become unable to meet its obligations or that any of the conditions specified in paragraph 5, 6, 7, 8, 9, 11 or 12 of Part A of the Second Schedule exists, the Minister may-Second Schedule.
+*Second Schedule.*
+
+(6) Where the Minister, after consultation with the Supervisor, believes that a bank is or appears likely to become unable to meet its obligations or that any of the conditions specified in paragraph 5, 6, 7, 8, 9, 11 or 12 of Part A of the Second Schedule exists, the Minister may-
 
 (a) [Deleted by Act I I of2002.1
 
@@ -550,11 +598,17 @@ of the Second Schedule.
 
 (c) present to the court a petition for the winding up of the bank or an application regarding reconstruction of the bank.
 
-(6A) Where the Supervisor believes that a bank is or 1 ll2002 appears likely to become unable to meet its obligations or that s. 5 (c). any of the conditions specified in paragraph 5, 6, 7, 8, 9, 10, 11 or 12 of Part A of the Second Schedule exists, the Supervisor may assume temporary management of the bank in accordance with Part C of that Schedule.
+*1 ll2002 s. 5 (c).*
 
-(6B) The Minister may, &er consultation with the 11l2002 Supervisor, give to the Supervisor directions of a general s. 5 (c). character as to the policy to be followed by the Supervisor in the performance of his functions under subsection (6A), in relation to matters appearing to the Minister to concern the public interest.
+(6A) Where the Supervisor believes that a bank is or appears likely to become unable to meet its obligations or that any of the conditions specified in paragraph 5, 6, 7, 8, 9, 10, 11 or 12 of Part A of the Second Schedule exists, the Supervisor may assume temporary management of the bank in accordance with Part C of that Schedule.
 
-(6C) The Supervisor shall inform the Minister in Writing 1 Id002 of any action that he intends to take under subsections (1) (b) s. 5 (c). and (c) and (6A).
+*11l2002 s. 5 (c).*
+
+(6B) The Minister may, &er consultation with the Supervisor, give to the Supervisor directions of a general character as to the policy to be followed by the Supervisor in the performance of his functions under subsection (6A), in relation to matters appearing to the Minister to concern the public interest.
+
+*1 Id002 s. 5 (c).*
+
+(6C) The Supervisor shall inform the Minister in Writing of any action that he intends to take under subsections (1) (b) and (c) and (6A).
 
 (7) Where action is taken under paragraph (b) or (c) of subsection (6) the bank concerned shall not, without the consent of the court-
 
@@ -594,11 +648,9 @@ the Minister shall notifjl the bank in writing accordingly and provide the bank 
 
 (c) the bank has failed to pay any liability that has become due and payable or will not be able to pay its liabilities as they become due and payable.
 
-(3) The powers conferred by this section and by sections 25B to 25F may be exercised by the Minister in relation to a bank in respect of which the Supervisor has assumed temporary management pursuant to subsection (6A) of 1112002
-
 *s 7 (a) @)*
 
-section 25.
+(3) The powers conferred by this section and by sections 25B to 25F may be exercised by the Minister in relation to a bank in respect of which the Supervisor has assumed temporary management pursuant to subsection (6A) of section 25.
 
 I I IIC IIicltlwti of tliib page IS nutlionzed by L N
 
@@ -612,23 +664,19 @@ of any audit or examination carried out pursuant to subsection
 
 (4) An auditor or firm of auditors, appointed under subsection (I), of a bank shall not be regarded as being in breach of a duty of confidentiality to the bank in consequence of any report made to the Supervisor in compliance with subsection (1).
 
-*2'::;*
+*2'::; to have*
 
-2 9 B . 4 1 ) Where a bank is a subsidiary of a holding company, the Supervisory Department shall be entitled at all to have reasonable times to examine books, records, statements and
+*of holding company. 2 6 ' ~ ~ S . IS.*
 
-*of holding company.*
+2 9 B . 4 1 ) Where a bank is a subsidiary of a holding company, the Supervisory Department shall be entitled at all reasonable times to examine books, records, statements and other relevant documents of that holding company.
 
-other relevant documents of that holding company.
+(2) The Supervisory Department may in writing require the manager of the holding company to hrnish the Department with such information concerning the operation of the holding company as the Department shall specify.
 
-(2) The Supervisory Department may in writing 2 6 ' ~ ~ require the manager of the holding company to hrnish the S . IS. Department with such information concerning the operation of the holding company as the Department shall specify.
+*zrd:e information. i'f"*
 
-(3) A person who fails to comply with a request of the Supervisory Department under subsection (2) shall be guilty of
+(3) A person who fails to comply with a request of the Supervisory Department under subsection (2) shall be guilty of an offence.
 
-*zrd:e i'f"*
-
-an offence.
-
-2 9 C . 4 1 ) The Supervisor may require any company which is a member of a group of which a bank is a member, or as the case information. may require, all companies within that group, to submit to the Supervisor such information relating to the operations of that company or those companies, as the Supervisor considers necessary for the effective supervision of the bank concerned.
+2 9 C . 4 1 ) The Supervisor may require any company which is a member of a group of which a bank is a member, or as the case may require, all companies within that group, to submit to the Supervisor such information relating to the operations of that company or those companies, as the Supervisor considers necessary for the effective supervision of the bank concerned.
 
 (2) The information referred to in subsection (1) may be required for the purpose of determining-
 
@@ -638,33 +686,33 @@ an offence.
 
 *\-16.02*
 
-(b) whether a member of the group is obtaining financing or other benefit, whether directly or indirectly from the bank;
+whether a member of the group is obtaining financing or other benefit, whether directly or indirectly from the bank;
 
 (c) the general risks relating to the operations of the members of the group;
 
-(4 the risk management capabilities of the group as a whole;
+(4
+
+the risk management capabilities of the group as a whole;
 
 (e) whether the internal audit facilities within the group have the capability to scrutinize transactions undertaken or proposed to be undertaken by the management of the group or a company within the group so as to determine whether there are associated risks.
 
-(3) For the purposes of this section the Supervisor may-
+(3) For the purposes of this section the Supervisor
 
-(a) require the information in the form of documents (including audited and consolidated accounts); or
+*may-*
 
-(b) summon any officers, directors or substantial shareholders of the company or companies concerned for the purposes of obtaining the information.
+(a) require the information in the form of documents (including audited and consolidated accounts); or (b) summon any officers, directors or substantial shareholders of the company or companies concerned for the purposes of obtaining the information.
 
-(4) A company which refuses to furnish information required under subsection (1) or any person who refuses to obey a summons issued to that person under subsection (3) (b), shall be guilty of an offence.
+*a*
 
-*of ownaship*
+(4) A company which refuses to furnish information required under subsection (1) or any person who refuses to obey summons issued to that person under subsection (3) (b), shall be guilty of an offence.
 
-Rcstrurmriw 29D.41) Where a bank is a member of a group and at least one member of that group is not a bank or other regulated or
+*Rcstrurmriw of ownaship one s. 9. 1”200z*
 
-*s. 9. 1”200z*
-
-supervised financial institution, the Supervisor may, in writing, direct the bank to undertake-
+29D.41) Where a bank is a member of a group and at least member of that group is not a bank or other regulated or supervised financial institution, the Supervisor may, in writing, direct the bank to undertake-
 
 (a) a restructuring such that ownership of the bank is directly held by a financial holding company which does hot own the other companies within the group unless those other companies are regulated or supervised financial institutions; or
 
-(b) such other measures as may be necessary to properly identifi, assess and manage-
+such other measures as may be necessary to properly identifi, assess and manage-
 
 (i) the relationship between the companies in the group;
 
@@ -672,13 +720,21 @@ supervised financial institution, the Supervisor may, in writing, direct the ban
 
 (iii) any other risks posed by external factors.
 
-(2) The restructuring under subsection (1) shall be carried out within twelve months of the date of the direction, so, however, that the Supervisor may extend the period by notice in writing to the bank.
+*carried however, writing to*
 
-(3) A bank which wilhlly rehses to comply with a direction under subsection (1) shall be guilty of an offence.
+(2) The restructuring under subsection (1) shall be out within twelve months of the date of the direction, so, that the Supervisor may extend the period by notice in the bank.
 
-(4) Without prejudice to the operation of sgbsection (3), the Minister may revoke the licence of the bank referred to in that subsection.
+*direction*
 
-( 5 ) Where a group is restructured, the Supervisor may-
+(3) A bank which wilhlly rehses to comply with a under subsection (1) shall be guilty of an offence.
+
+*(3), the in that*
+
+(4) Without prejudice to the operation of sgbsection Minister may revoke the licence of the bank referred to subsection.
+
+( 5 ) Where a group is restructured, the Supervisor
+
+*may-*
 
 examine and inspect the books of the bank's financial (U)
 
@@ -716,19 +772,21 @@ treat the non-member as a member of the group; or (U)
 
 (ii) there are no impediments to the Supervisor’s receipt of information as regards that foreign financial holding company fiom the head office thereof or the competent authority.
 
-Subject to subsection (2). a bank may only own a * d i p 29E.-(1)
+*\\* d i p of subai- &,. b\ bML.5. dC. s. 112002*
 
-*&,.*
+Subject to subsection (2). a bank may only own a 29E.-(1)
 
-of subai-subsidiary which is a regulated or supervised financial institution. b\ bML.5. dC.
+subsidiary which is a regulated or supervised financial institution.
 
-(2) The Supervisor may approve the ownership of a s. 112002
+(2) The Supervisor may approve the ownership of a
 
 **9.** company by bank or its financial holding company, if the business of that company is the provision of necessary support services to companies held by the financial holding company and its subsidiaries.
 
-**29F.** \-(1) The Supervisor may issue directions to a bank or supq\.l-may Issus? its financial holding company, regarding the control of risks hliuns ,o throughout the group. balks. ac.. n til.
+*supq\.l-may Issus? hliuns ,o balks. ac.. n til. :I @”*
 
-(2) The directions referred to in subsection (1) may :I @” include -
+**29F.** \-(1) The Supervisor may issue directions to a bank or its financial holding company, regarding the control of risks throughout the group.
+
+(2) The directions referred to in subsection (1) may include -
 
 capital requirements, including market risks on a (LI)
 
@@ -746,39 +804,47 @@ I Ilic i i i ~ l i i ~ i 1 t 3 1 w [hi\ pigz I< .iutlltmd b\ I N SS Z O O ; ]
 
 (3) A bank or financial holding company which fails to comply with directions under this section shall be guilty of an offence.
 
-*Xlanagement or investment of customers’ hnds. 11 2002 s. 9.*
+*Xlanagement or investment of its of customers’ trust hnds. 11 2002 or the s. 9.*
 
-29G.+1) A bank shall not manage or invest hnds on behalf of its customers unless such investment is carried out under a trust subject to regulations made under the Bank of Jamaica Act or the Standards of Best Practice issued from time to time by the Bank of Jamaica.
+29G.+1) A bank shall not manage or invest hnds on behalf customers unless such investment is carried out under a subject to regulations made under the Bank of Jamaica Act Standards of Best Practice issued from time to time by the Bank of Jamaica.
 
-(2) A bank that engages in proprietary trading in securities for its own account shall conform with the Standards of Best Practice referred to in subsection (1).
+*of Best*
+
+(2) A bank that engages in proprietary trading in securities for its own account shall conform with the Standards Practice referred to in subsection (1).
 
 *Powers of inspection.*
 
 **30.** (1) In the performance of his duties under this Part an authorized officer shall be entitled at all reasonable times-
 
-(a) to have access to all books, records and documents in the possession or control of any director, manager, officer or employee of any bank;
-
-(h) to require any , director, manager, officer, auditor, former auditor or employee of any bank to hrnish such information or to produce such books, records or documents as are in his possession or control,
+(a) to have access to all books, records and documents in the possession or control of any director, manager, officer or employee of any bank; (h) to require any , director, manager, officer, auditor, former auditor or employee of any bank to hrnish such information or to produce such books, records or documents as are in his possession or control,
 
 that relate to the operations of the bank and may be reasonably required for the performance of those duties.
 
 (2) Any person who-
 
-( U ) fails to attend in response to a summons issued pursuant to section 29 (2) (e); or
+fails to attend in response to a summons issued ( U )
+
+pursuant to section 29 (2) (e); or
 
 (h) fails to comply with a requirement made pursuant to subsection (1) (b) of the section; or
 
-(c) wilfblly attempts to mislead or makes any false statement with intent to mislead or attempts to mislead any person in the execution of his duties under this Part; or
+wilfblly attempts to mislead or makes any false statement with intent to mislead or attempts to mislead any person in the execution of his duties under this Part; or
 
 88f2003l
 
 (4 without lawful justification or excuse, obstructs or hinders any person in the execution of such duties, shall be guilty of an offence.
 
-**31.** An auditor or former auditor of a bank shall not be Protection of auditor. regarded as being in breach of his duty of confidentiality to 26/1997 a bank in consequence of any disclosure to an authorized S. 16. officer pursuant to section 29 or 30.
+*Protection of auditor. 26/1997 S. 16.*
+
+**31.** An auditor or former auditor of a bank shall not be regarded as being in breach of his duty of confidentiality to a bank in consequence of any disclosure to an authorized officer pursuant to section 29 or 30.
 
 ## PART X. Winding U p of Local Banks
 
-**32.** (1) Where a local bank passes a resolution for on Restriction volun-voluntary winding up, it shall forthwith notify the Bank of tary wind-Jamaica in writing and shall, within twenty-one days after ins "P* the date of the passing of such resolution, furnish to the Bank of Jamaica-
+*Restriction volun-on tary wind-ins "P\**
+
+**32.** (1) Where a local bank passes a resolution for voluntary winding up, it shall forthwith notify the Bank of Jamaica in writing and shall, within twenty-one days after date of the passing of such resolution, furnish to the the
+
+Bank of Jamaica-
 
 (a) a statement of the financial position of the bank;
 
@@ -812,37 +878,23 @@ and such bank shall, within thirty days after the date of publication of a copy 
 
 (2) Application to the Minister for approval pursuant to subsection (1) shall be presented in the form of a scheme and shall be regulated in accordance with such provisions as may be prescribed.
 
-*Statements relating to amalgam-tion Or transfer to*
+*Statements relating to amalgam-tion Or transfer to bedepodtcd with Minister.*
 
-%.-(I) Where an amalgamation or transfer referred to in section 33 takes place, the bank or company as the case may be as amalgamated or to which business is transferred
-
-*with Minister.*
-
-bedepodtcd shall, within thirty days from the date of completion of the amalgamation or transfer or such longer period as the Minister may allow, deposit with the Minister-
+%.-(I) Where an amalgamation or transfer referred to in section 33 takes place, the bank or company as the case may be as amalgamated or to which business is transferred shall, within thirty days from the date of completion of the amalgamation or transfer or such longer period as the Minister may allow, deposit with the Minister-
 
 (a) certified copies of statements of the assets and lia-bilities of the banks or, as the case may be, the bank and company concerned in the amalgamation or transfer, together with a statement of the nature and terms of the amalgamation or transfer;
 
 (b) a certified copy of the agreement or deed under which the amalgamation or transfer is effected;
 
-(c) a declaration signed by the secretzry or manager, if any, and by at least two directors of the bank or company as the case may be. that to the best of their belief every payment made or to be made to any person on account of the amalgamation or transfer is therein fully set out, and that no pay-
-
-ments other than those set out have been made or are to be made by or with the knowledge of any parties to the amalgamation or transfer.
+(c) a declaration signed by the secretzry or manager, if any, and by at least two directors of the bank or company as the case may be. that to the best of their belief every payment made or to be made to any person on account of the amalgamation or transfer is therein fully set out, and that no pay-ments other than those set out have been made or are to be made by or with the knowledge of any parties to the amalgamation or transfer.
 
 (2) A person who in any statement, agreement, deed or declaration referred to in subsection (1) causes or permits
 
-in a material particular or recklessly includes any informa-
+in a material particular or recklessly includes any information which is false in a material particular, shall be guilty of an offence.
 
-tion which is false in a material particular, shall be guilty of an offence.
+*E:tFonof sale of bank.*
 
-**35.** Where a bank sells the whole or any part of its assets E:tFonof
-
-*bank.*
-
-to any other bank or, as the case may be, a company which sale of is a licensee under the Financial Institutions Act, if the purchasing bank or purchasing company as the case may be requires that assets included in the agreement for sale and purchase be vested in it pursuant to this section, it may make written application to the Minister accordingly specifying which of the assets included as aforesaid it re-
-
-quires to be so vested and thereupon the Minister may, if he thinks fit, make an order vesting, subject to the agree-
-
-ment for sale and purchase. the assets so specified in the purchasing bank or purchasing company, as the case may be, and thereupon-
+**35.** Where a bank sells the whole or any part of its assets to any other bank or, as the case may be, a company which is a licensee under the Financial Institutions Act, if the purchasing bank or purchasing company as the case may be requires that assets included in the agreement for sale and purchase be vested in it pursuant to this section, it may make written application to the Minister accordingly specifying which of the assets included as aforesaid it re-quires to be so vested and thereupon the Minister may, if he thinks fit, make an order vesting, subject to the agreement for sale and purchase. the assets so specified in the purchasing bank or purchasing company, as the case may be, and thereupon-
 
 (a) the assets shall so vest without further conveyance, assignment and assurance; and
 
@@ -902,11 +954,9 @@ shall be guilty of an offence.
 
 (2) Every offence under and every contravention of this Act may be tried summarily before a Resident Magistrate.
 
-(3) Where any person commits an offence against this Act or any regulations hereunder for which no penalty is
-
 *11/2002 S . 1 0 ~*
 
-expressly provided he shall be liable to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding six months.
+(3) Where any person commits an offence against this Act or any regulations hereunder for which no penalty is expressly provided he shall be liable to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding six months.
 
 (4) A person upon whom a fine is imposed under this Act may be sentenced in default of payment thereof to imprisonment with or without hard labour in the case of a fine-
 
@@ -914,17 +964,13 @@ expressly provided he shall be liable to a fine not exceeding five hundred thous
 
 (a) not exceeding two hundred thousand dollars, for a period not exceeding three months;
 
-(b) exceeding two hundred thousand dollars but not
-
 *1 1/2002 S . lO(b).*
 
-exceeding one million dollars, for a period not exceeding six months;
-
-(c) exceeding one million dollars, for a period not
+(b) exceeding two hundred thousand dollars but not exceeding one million dollars, for a period not exceeding six months;
 
 *S .10 (b).*
 
-exceeding twelve months.
+(c) exceeding one million dollars, for a period not exceeding twelve months.
 
 [The iiicliisioii of this page IS authonzed by L N
 
@@ -938,11 +984,9 @@ such director, manager, secretary or other officer or person as aforesaid, as we
 
 (6) For the purposes of this section, a person shall be deemed to be a director of a body corporate, if he occupies in relation thereto the position of a director, by whatever name called, or is a person in accordance with whose directions or instructions (not being directions or instructions in a professional capacity only) the directors and the body corporate or any of them act.
 
-**42A.** (1) This section shall apply to an offence specified in
-
 *s. 11. Fifth Schedule.*
 
-the Fifth Schedule.
+**42A.** (1) This section shall apply to an offence specified in the Fifth Schedule.
 
 (2) The Supervisor may give to any person which he has reason to believe has committed an offence to which this section applies, a notice in writing in the prescribed form offering that person the opportunity to discharge any liability to conviction of that offence by payment of a fixed penalty under this section.
 
@@ -972,11 +1016,9 @@ the Fifth Schedule.
 
 (ii) the amount of the fixed penalty and the Collector of Taxes to whom and the address at which it may be paid.
 
-(8) The fixed penalty for the offences specified in the
+*Fifth Schedule.*
 
-*Schedule.*
-
-Fifth Schedule shall be the penalty specified therein in relation Fifth to such offences.
+(8) The fixed penalty for the offences specified in the Fifth Schedule shall be the penalty specified therein in relation to such offences.
 
 (9) In any proceedings for an offence to which this section applies, no reference shall be made after the conviction of the accused to the giving of any notice under this section or to the payment or non-payment of a fixed penalty thereunder unless in the course of the proceedings or in some document which is before the court in connection with the proceedings, reference has been made by or on behalf of the accused to the giving of such a notice, or, as the case may be, to such payment.
 
@@ -994,11 +1036,9 @@ Fifth Schedule shall be the penalty specified therein in relation Fifth to such 
 
 (11) An order made under subsection (10) (b) shall be subject to affirmative resolution.
 
-**43.** Every order made by the Minister under this Act shall be wication
+*wication ofadas.*
 
-*ofadas.*
-
-published in the Gazette.
+**43.** Every order made by the Minister under this Act shall be published in the Gazette.
 
 *Saving.*
 
@@ -1008,11 +1048,9 @@ published in the Gazette.
 
 45.41) Subject to subsection (2), no official of any bank and no person who, by reason of his capacity or office has by any means access to the records of the bank, or any registers, correspondence or material with regard to the account of any customer of that bank shall, while his employment in or, as the case may be, his professional relationship with the bank continues or after the termination thereof, give, divulge or reveal any information regarding the money or other relevant particulars of the account of that customer.
 
-(2) Subsection (1) shall not apply in any of the
-
 *Fourth Schedule.*
 
-circumstances specified in the Fourth Schedule.
+(2) Subsection (1) shall not apply in any of the circumstances specified in the Fourth Schedule.
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence.
 
@@ -1034,15 +1072,19 @@ Bank of Jamaica for the operation of each such transaction after that date or, a
 
 (6) For the purposes of section 40 (unclaimed moneys) where the period of fifteen years referred to in subsection (1) of that section expired at any time prior to the 3 1st December, 1992 then, unless it was part of a period of thirty years in relation to which action was taken pursuant to section 24 of the repealed Act, it shall be deemed to have expired on that date.
 
-(7) For the purposes of paragraph (b) of the definition 2611997 of "capital base", in section 2 (1) the special debentures which S. may be included in the calculation of a bank's capital, are those outstanding at the 29th October, 1997.
+*S.*
 
-## FIRST SCHEDULE (Section 11) flanks or orher,financ/al insrirurions lo which secrion I I applies 1 1 12002
+(7) For the purposes of paragraph (b) of the definition 2611997 of "capital base", in section 2 (1) the special debentures which may be included in the calculation of a bank's capital, are those outstanding at the 29th October, 1997.
 
-l 2 (") (h). Any bank or other financial institutions whether in Jamaica or clscu hcrc-
+*1 1 12002 l 2 (") (h). clscu hcrc-*
 
-(a) which has becn wound up by a court;
+## FIRST SCHEDULE (Section 11) flanks or orher,financ/al insrirurions lo which secrion I I applies Any bank or other financial institutions whether in Jamaica or
 
-(h) the liccncc of which has bccn rcvokcd. unlcss such rcvocation was conscqucnl upon-
+which has becn wound up by a court; (a)
+
+the liccncc of which has bccn rcvokcd. unlcss such rcvocation was (h)
+
+conscqucnl upon-
 
 (i) thc :unalgaualion of that bank or othcr financial institution with another b'mk or financial institution:
 
@@ -1052,29 +1094,37 @@ which has becn in rcccivership:
 
 (c)
 
-((I) which has cntcred into a composition with its creditors;
+*((I)*
 
-(e) whose business has been conducted imprudently or fraudulently: V ) which has failcd to meet the solvency requirements prescribed by I ~ M
+which has cntcred into a composition with its creditors;
+
+*V ) I*
+
+(e) whose business has been conducted imprudently or fraudulently: which has failcd to meet the solvency requirements prescribed by ~ M
 
 ## SECOND SCHEDULE (Scction 25)
 
-### PART A 26 1907
+*26 1907 s 10 ( A ) (11*
 
-s 10 ( A ) (11
+*\1. The*
 
-('OML//I/OMS I S ~ h j e 10 ~ t Hen~e~I/a/. l~tton un~ler s t ~ c f i o 25 ~ (1) and (6)
+PART A ('OML//I/OMS I S ~ h j e 10 ~ t Hen~e~I/a/. l~tton un~ler s t ~ c f i o 25 ~ (1) and (6) bank has breached the provisions of its ine~noranduin or articles of association.
 
-**1.** The bank has breached the provisions of its ine~noranduin or articles of association.
+*\2. Thc*
 
-**2.** Thc bank. a director or any person einploycd (either as agent or otlicruisc) in thc conduct of the business of the bank-
+bank. a director or any person einploycd (either as agent or otlicruisc) in thc conduct of the business of the bank-
 
-is cngaging or is about to engage in an unsafe or unsound practice ((7)
+*((7)*
 
-111 conducting the busincss of the bank: or
+is cngaging or is about to engage in an unsafe or unsound practice conducting the busincss of the bank: or
 
-(h) is contr~vening a Standard of Best Practicc or has contravened- 1 1 2002
+111
 
-s 1.3 (")(I) (i) any provisions of this Act or any regulations nude hercunder:
+*1 1 2002 s 1.3 (")(I)*
+
+(h) is contr~vening a Standard of Best Practicc or has contravened-
+
+(i) any provisions of this Act or any regulations nude hercunder:
 
 (ii) any condition of the licence granted under section 4 in respect of that bank:
 
@@ -1082,15 +1132,21 @@ s 1.3 (")(I) (i) any provisions of this Act or any regulations nude hercunder:
 
 ( i ~ ) any provision of the Money Laundering Act or regulations inadc thereunder or any other Act which imposes obligations on a bank.
 
-**3.** The bank's capital base is less than thc mount required by this Act or any regulations made hereunder.
+*\3. The any 4. A accordance appropriate*
 
-**4.** A &rector or nlanager has ceased to be a fit and proper person in accordance with section 4 (3) and thc bank has refused or neglected to take appropriate action.
+bank's capital base is less than thc mount required by this Act or regulations made hereunder.
 
-**5.** A final judgment has been obtained against the bank and has remained unsatisfied for at least one month.
+&rector or nlanager has ceased to be a fit and proper person in with section 4 (3) and thc bank has refused or neglected to take action.
 
-**6.** Thebank-
+*\5. A*
 
-(a) has given false or misleading information in its application for a licence; or
+final judgment has been obtained against the bank and has remained unsatisfied for at least one month.
+
+Thebank- 6.
+
+has given false or misleading information in its application (a)
+
+for a licence; or
 
 (b) has continued to take deposits in violation of a direction; or
 
@@ -1100,9 +1156,13 @@ s 1.3 (")(I) (i) any provisions of this Act or any regulations nude hercunder:
 
 (e) refuses to permit inspection of the bank by an authorized officer.
 
-**7.** The bank has failed to commence banking business within six months of the date of the granting of a licence or the coming into effect of the Banking (Amendment) Act, 1997.
+*of the*
 
-**8.** The bank is contravening or has contravened any cease and desist order or any directions issued by the Supervisor pursuant to this Act.
+**7.** The bank has failed to commence banking business within six months date of the granting of a licence or the coming into effect of the Banking (Amendment) Act, 1997.
+
+*or any*
+
+**8.** The bank is contravening or has contravened any cease and desist order directions issued by the Supervisor pursuant to this Act.
 
 **9.** The value of the bank's assets is substantially less than the amount of its liabilities.
 
@@ -1112,21 +1172,21 @@ s 1.3 (")(I) (i) any provisions of this Act or any regulations nude hercunder:
 
 **12.** A receiver has been appointed in respect of the bank.
 
-### PART B
+PART B Cease and Desist Orders
 
-Cease and Desist Orders
+*26/1997 s. 19 (c).*
 
-**1.** Before issuing a cease and desist order the Supervisor shall cause to be 26/1997
-
-*s. 19 (c).*
-
-served on the bank concerned a noti-
+**1.** Before issuing a cease and desist order the Supervisor shall cause to be served on the bank concerned a noti-
 
 (a) containing a statement of the facts constitutmg the alleged unsafe or unsound practice or the alleged conmention and, where appropriate, the name of the person a g m t whom the allegation is made; and
 
-(6) specifying a date (not being earlier than thirty nor later than sixty days after the date of service of the notice) and a phce at which a hearing will be held to determine whether a cease and desist order should be made.
+specifying a date (not being earlier than thirty nor later than sixty (6)
 
-**2.** If. at any time prior to the date of the hearing specified in the notice under paragraph 1. the bank concerned consents to the making of a cease and desist order and the terms of the order. the hearing shall be waived and the order shall be made accordingly.
+days after the date of service of the notice) and a phce at which a hearing will be held to determine whether a cease and desist order should be made.
+
+*under desist order*
+
+**2.** If. at any time prior to the date of the hearing specified in the notice paragraph 1. the bank concerned consents to the making of a cease and order and the terms of the order. the hearing shall be waived and the shall be made accordingly.
 
 **3.** If at the hearing-
 
@@ -1136,13 +1196,11 @@ served on the bank concerned a noti-
 
 in respect of that bank; or
 
-(b) the allegations specified in such notice are established in relation
+*261 1997 S. 19 (c). and a on the*
 
-*261 1997 S. 19 (c).*
+(b) the allegations specified in such notice are established in relation to the bank, the Supervisor shall make a cease and desist order in respect of that bank,
 
-to the bank, the Supervisor shall make a cease and desist order in respect of that bank,
-
-and a copy of the order shall be served on the bank an4 where appropriate, on the person named in the notice pursuant to paragraph 1 (a).
+copy of the order shall be served on the bank an4 where appropriate, person named in the notice pursuant to paragraph 1 (a).
 
 **4.** A cease and desist order shall-
 
@@ -1158,17 +1216,17 @@ the order or from such later date as may be specified therein.
 
 (a) a notice has been served pursuant to paragraph 1; and
 
-( 6 ) at any time prior to the holdmg of a hearing in accordance with that paragraph, the Supenisor is satisfied that the situation giving
-
 *26i1997 S. 19 (c).*
 
-rise to the notice is likely to endanger the financial position of the bank or the interests of its customers,
+( 6 ) at any time prior to the holdmg of a hearing in accordance with that paragraph, the Supenisor is satisfied that the situation giving rise to the notice is likely to endanger the financial position of the bank or the interests of its customers,
 
-*26i1997 S. 19(c).*
+*the 26i1997 such S. 19(c).*
 
-the Supervisor may forthwith serve on that bank and on any person named in such notice. a temporary cease and desist order which shall take effect as from the date of such service.
+Supervisor may forthwith serve on that bank and on any person named in notice. a temporary cease and desist order which shall take effect as from the date of such service.
 
-**6.** Where a temporary cease and desist order is served under pangraph 5, the bank or. as the case may be. the person on whom it is served may, within ten days after the date of such service, apply to a Judge of the Supreme Court in accordance with rules of court to set aside, limit, or suspend the operation or enforcement of such order.
+*in or*
+
+**6.** Where a temporary cease and desist order is served under pangraph 5, the bank or. as the case may be. the person on whom it is served may, within ten days after the date of such service, apply to a Judge of the Supreme Court accordance with rules of court to set aside, limit, or suspend the operation enforcement of such order.
 
 ## PART C
 
@@ -1182,7 +1240,7 @@ s. 13 (b) (i). the bank specified in a notice under sub-paragraph (1).
 
 (3) A copy of the notice referred to in sub-paragraph (1) shall be sent to the Registrar of the Supreme Court and shall be posted in a wnspicuous position at each place of business of the bank and shall be published in a newspaper printed and circulated in Jamaica.
 
-(4) Upon the date and time specified in the notice referred to in sub- lllzooz paragraph (1). there shall vest in the Supervisor full and exclusive powers of s. 13 (b) (i), management and control of the bank. including, without prejudice to the generality of the foregoing, power t e
+(4) Upon the date and time specified in the notice referred to in sub-lllzooz paragraph (1). there shall vest in the Supervisor full and exclusive powers of s. 13 (b) (i), management and control of the bank. including, without prejudice to the generality of the foregoing, power t e
 
 (a) continue or discontinue its operations;
 
@@ -1194,15 +1252,13 @@ s. 13 (b) (i). the bank specified in a notice under sub-paragraph (1).
 
 (e) initiate, defend and conduct in the name of the bank, any action or proceedings to which the bank may be a party.
 
-(5) Subject to sub-paragraph (5A), not later than sixty days after the 1 112002 Supervisor has assumed temporary management of a bank he shall apply to S. I3 (b)(ii). the Court (furnishing full particulars of the assets and liabilities of the bank) for an order confirming the vesting in the Supervisor of full and exclusive ~lizooz powers of management of the bank as described in sub-paragraph (4). s. I3 (b) (i),
+(5) Subject to sub-paragraph (5A), not later than sixty days after the 1 112002 S. I3 (b)(ii). Supervisor has assumed temporary management of a bank he shall apply to the Court (furnishing full particulars of the assets and liabilities of the bank) for an order confirming the vesting in the Supervisor of full and exclusive ~lizooz powers of management of the bank as described in sub-paragraph (4). s. I3 (b) (i),
 
 (5A) An application under sub-paragraph (5) shall be made by the llI2002 S . 13 (b) Attorney General.
 
 (iii). ~,
 
-(6) All expenses of and incidental to the temporary management of a bank shall be paid by such bank in such manner as the Supervisor may ll'zooz ?
-
-S. 13 (b) (i). determine.
+(6) All expenses of and incidental to the temporary management of a bank shall be paid by such bank in such manner as the Supervisor may ? ll'zooz S. 13 (b) (i). determine.
 
 LL
 
@@ -1358,11 +1414,9 @@ Brief Description of Relevant
 
 Penalh Offences Section
 
-Failure to not@ the Bank of 32 (4) On conviction a fine not exceeding
-
 *268 1997 S. 20(cXxiv).*
 
-Jamaica of a resolution for $1,000.000.00.
+Failure to not@ the Bank of 32 (4) On conviction a fine not exceeding Jamaica of a resolution for $1,000.000.00.
 
 voluntary windmg up.
 
@@ -1378,19 +1432,15 @@ term not exceeding two years of bank.
 
 or to a fine or to both such fine and imprisonment;
 
-(b) on summary conviction before a Resident Magistrate, to imprisonment for a term not e x d n g twelve months or to a fine not exceeding
-
 *26i 1 997 S. ZO(a)(xv).*
 
-$l.OOO,OOO.OO or to both such fine and imprisonment.
+(b) on summary conviction before a Resident Magistrate, to imprisonment for a term not e x d n g twelve months or to a fine not exceeding $l.OOO,OOO.OO or to both such fine and imprisonment.
 
 Fraudulently inducing per- 41 On convictionm indictment in a sons to invest. Circuit Court, to imprisonment for a term not exceeding two years or to a fine or to both such fine and imprisonment.
 
-Being a bank official, making 45 (3) On conviction, a fine not exceeding
-
 *261 1997 S. ZO(c)(xvi).*
 
-unauthorized disclosures. $2,000,000.00 or to imprisonment for a term not exceeding two years or to both such fine and imprisonment.
+Being a bank official, making 45 (3) On conviction, a fine not exceeding unauthorized disclosures. $2,000,000.00 or to imprisonment for a term not exceeding two years or to both such fine and imprisonment.
 
 ## FOURTH SCHEDULE (Section 45 (2))
 
@@ -1422,21 +1472,19 @@ the information disclosed is required by the hcad office of a Coreign bank and p
 
 the Minister in writing directs such disclosure to a foreign government or agency of such government where there exists between Jamaica and such foreign government an agreement for the mutual exchange of information of such kind and the Minister considers it in the public interest that such disclosure be made;
 
-*1 If2002*
+*1 If2002 S. 15 (b).*
 
-on the recommendation of the Supervisor, the Minister in writing S. 15 (b).
+*1 112002 s. ,5 (b),*
 
-*1 112002*
+on the recommendation of the Supervisor, the Minister in writing directs such disclosure;
 
-directs such disclosure;
-
-the circumstances are such that it is in the interests of the bank that s. ,5 (b), the information be disclosed;
+the circumstances are such that it is in the interests of the bank that the information be disclosed;
 
 disclosure is required under another enactment;
 
-*11/2002*
+*s, (b).*
 
-disclosure is required by virtue of an order of the court, other than s, (b). an order under paragraph (g).
+disclosure is required by virtue of an order of the court, other than an order under paragraph (g).
 
 ## FIFTH SCHEDULE (Section 42A)
 

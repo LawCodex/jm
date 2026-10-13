@@ -84,13 +84,19 @@ me inclusion of thii page is authoripd by LS. 480119131
 
 ### SCIIEDULE
 
-C.p.14. AdI 6 of 1966, 42 of 1969 3rdscb V5zh October, 1948.1
+*C.p.14. AdI 6 of 1966, 42 of 1969 3rdscb*
 
-**1.** This Act may be cited as the Animals (Diseases and shorttitb. Importation) Act.
+V5zh October, 1948.1
+
+*shorttitb.*
+
+**1.** This Act may be cited as the Animals (Diseases and Importation) Act.
 
 ## PART I. Preliminary
 
-**2.** In this Act-httaprrt.-tion.
+*httaprrt.-tion.*
+
+**2.** In this Act-
 
 “animal” includes cattle, buffalo, horses, mules, asses, sheep, swine, goats, dogs, cats and all animals of whatsoever kind, whether similar to the foregoing or not;
 
@@ -100,9 +106,13 @@ C.p.14. AdI 6 of 1966, 42 of 1969 3rdscb V5zh October, 1948.1
 
 “cattle” includes bulls, cows, oxen, steers, heifers and calves;
 
-“defined port” means a port as defined by any regulations . made under section 14;
+*.*
 
-“disease” means the diseases set out in the Schedule, and &tbaillto. such other diseases as the Minister may from t h e to time by order made under section 11 declare to be a disease within the meaning of this Act;
+“defined port” means a port as defined by any regulations made under section 14;
+
+*&tbaillto.*
+
+“disease” means the diseases set out in the Schedule, and such other diseases as the Minister may from t h e to time by order made under section 11 declare to be a disease within the meaning of this Act;
 
 “diseased” means affected with disease;
 
@@ -194,11 +204,13 @@ tion shall not exceed the value of the animal immediately before slaughter, and 
 
 (2) No compensation shall be payable in respect of any animal compulsorily slaughtered when in a quarantine depot if, in the opinion of the inspector, such animal was diseased at the time of importation.
 
-*unending*
+*order unending deanitionof*
 
-**11.** The Minister may from time to time by order add order any particular disease to, or remove any particular disease deanitionof from, the Schedule, and as from the date of any such order such particular disease shall be, or shall cease to be (as the case may be) a disease within the meaning of this Act.
+**11.** The Minister may from time to time by order add any particular disease to, or remove any particular disease from, the Schedule, and as from the date of any such order such particular disease shall be, or shall cease to be (as the case may be) a disease within the meaning of this Act.
 
-lZ.-(l) The Minister may make regulations generally Regulations. for the control and treatment of diseased or suspected animals and for the prevention and spread of disease.
+*Regulations.*
+
+lZ.-(l) The Minister may make regulations generally for the control and treatment of diseased or suspected animals and for the prevention and spread of disease.
 
 (2) Regulations made under subsection (11 may, without prejudice to the generality of such power make provision with regard to-
 
@@ -208,29 +220,33 @@ lZ.-(l) The Minister may make regulations generally Regulations. for the control
 
 (c) the notification to the public of infected places or infected areas and the removal of anything into, within or out of such places or areas, and the cleaning or disinfecting of such places or areas;
 
-(6) the movement of persons into, within or out of infected places or infected areas, and the prevention of the spread of disease by persons in contact with diseased or suspected animals;
+the movement of persons into, within or out of infected places or infected areas, and the prevention of the spread of disease by persons in contact with diseased or suspected animals;
 
 (e) the treatment, disinfecting, destruction, burial, disposal, and digging up, of anything in or removed from an infected place or infected area;
 
-Cf) the movement, isolation, segregation, treatment, slaughter, destruction, disposal, burial, seizure, detention, and exposure for sate, of diseased or suspected animals;
+*Cf)*
+
+the movement, isolation, segregation, treatment, slaughter, destruction, disposal, burial, seizure, detention, and exposure for sate, of diseased or suspected animals;
 
 (g) the removal, transport, treatment, isolation, examination, testing, cleansing, disinfecting, protection from suffering, exposure for sale, exhibition, or marking of animals;
 
 (h) the removal, transport, treatment, examination, cleansing, and disinfecting of carcasses, fodder, litter, dung and other things;
 
-(11 the cleansing, disinfecting, and examination, of places used by, and vehicles used for the transport of animals;
+*(11*
+
+the cleansing, disinfecting, and examination, of places used by, and vehicles used for the transport of animals;
 
 63 the fees and expenses incurred for any purpose for which regulations may be made under this section, and the persons by whom they are to be paid, and the manner in which they may be recovered.
 
 ## PART 111. Zmpurtution
 
-*Rohibition of importa-tlOn of birds,etc.*
+*1 3 . 4 Rohibition of importa-the*
 
-1 3 . 4 1 ) No bird, reptile or insect may be imported into the Island save under and in accordance with a licence granted by the Director of Veterinary Services under the
+*tlOn of birds,etc. granted*
 
 *6’1968 S. 3(2) & Sfh.*
 
-provisions of section 15.
+1 ) No bird, reptile or insect may be imported into Island save under and in accordance with a licence by the Director of Veterinary Services under the provisions of section 15.
 
 ( 2 ) Any person who-
 
@@ -238,9 +254,9 @@ provisions of section 15.
 
 (b) contravenes or fails to comply with any of the provisions of any such licence, shall be guilty of an offence against this Act; and any bird, reptile or insect in respect of which any such offence is alleged to have been committed may be seized and on conviction shall be forfeited to the Crown.
 
-The Minister may, for the purpose of preventing Rwulatiom 14.--(1)
+The Minister may, for the purpose of preventing 14.--(1)
 
-wntrollurg the introduction or spread of any disease into the Island, theimporta-tion of make regulations prohibiting, restricting, controlling or animals, etc. regulating the importation of animals or poultry, or any specific kind thereof, or of carcasses, fodder, litter, dung or other similar things.
+Rwulatiom wntrollurg the introduction or spread of any disease into the Island, theimporta-tion of make regulations prohibiting, restricting, controlling or animals, etc. regulating the importation of animals or poultry, or any specific kind thereof, or of carcasses, fodder, litter, dung or other similar things.
 
 (2) Regulations made under subsection (1) may without prejudice to the generality of such power make provision with regard to-
 
@@ -288,7 +304,9 @@ the constable and he fails to give them to the satisfaction of the constable, su
 
 (3) A person apprehended under this section shall not be detained without warrant longer than is necessaTy for the purpose of being taken before a Justice, and the provisions of the Constabulary Force Act in relation to the granting of bail shall apply to any such person.
 
-**19.** The inspector shall have all the powers given to a Powcnoi constable under section 18 and may at any time enter- inaptor.
+*Powcnoi inaptor.*
+
+**19.** The inspector shall have all the powers given to a constable under section 18 and may at any time enter-
 
 (a) any pen, building, land, or place where he has reasonable grounds for supposing-
 
@@ -302,17 +320,19 @@ HH
 
 (iv) that this Act or any regulation made thereunder has not been or is not being complied with;
 
-(6) any vehicle, vessel, or boat, in which or in respect whereof he has reasonable grounds for believing that this Act or any regulation made thereunder has not been or is not being complied with.
+any vehicle, vessel, or boat, in which or in respect whereof he has reasonable grounds for believing that this Act or any regulation made thereunder has not been or is not being complied with.
 
-*OEenas.*
+*OEenas. the*
 
-**20.** Any person who, without lawful authority or excuse the proof whereof shall lie on him-
+**20.** Any person who, without lawful authority or excuse proof whereof shall lie on him-
 
-(U) when required by this Act, or by any regulation made thereunder, to keep any animal separate as far as practicable, or to give any notice of disease with all practicable speed, fails to do SO, or
+when required by this Act, or by any regulation (U)
 
-(6) contravenes or fails to comply with any of the provisions of this Act, or of any regulations made thereunder; or
+made thereunder, to keep any animal separate as far as practicable, or to give any notice of disease with all practicable speed, fails to do SO, or (6) contravenes or fails to comply with any of the provisions of this Act, or of any regulations made thereunder; or
 
-(c) contravenes or fails to comply with any directions given by the inspector under section 8; or (4 refuses to the inspector, acting in execution of this Act or of any regulation made thereunder, admission to any pen, building, land, place, vehicle, vessel, or boat, which such inspector is entitled to enter or examine, or obstructs or impedes him from so entering or examining, or otherwise in any respect obstructs or impedes the inspector or any constable in the execution of his duty, or assists in any such obstructing or impeding; or
+(c) contravenes or fails to comply with any directions given by the inspector under section 8; or
+
+(4 refuses to the inspector, acting in execution of this Act or of any regulation made thereunder, admission to any pen, building, land, place, vehicle, vessel, or boat, which such inspector is entitled to enter or examine, or obstructs or impedes him from so entering or examining, or otherwise in any respect obstructs or impedes the inspector or any constable in the execution of his duty, or assists in any such obstructing or impeding; or
 
 (e) throws or places or causes to be thrown or placed into or in any river, stream, drain, or other water, or into or in the sea within three miles of the shore, the carcass of an animal which has died of disease or has been slaughtered as diseased or suspected; or
 
@@ -320,19 +340,31 @@ V, takes, or allows to be taken, unless otherwise required by this Act or by any
 
 (g) digs up, or causes or allows to be dug up, the buried carcass of any animal which has been slaughtered under this Act as diseased or SUSpected, or which has died or is suspected of having died from any disease; or
 
-(h) takes or moves, or allows to be taken or moved, any animal, carcass, fodder, litter, dung or other thing, into or out of any infected place or infected area otherwise than in accordance with this Act or with any regulations made thereunder; or
+takes or moves, or allows to be taken or moved, (h)
 
-0 allows any animal to stray into or out of any infected place or infected area, shall be guilty of an offence against this Act.
+any animal, carcass, fodder, litter, dung or other thing, into or out of any infected place or infected area otherwise than in accordance with this Act or with any regulations made thereunder; or 0 allows any animal to stray into or out of any infected place or infected area, shall be guilty of an offence against this Act.
 
-**21.** Any person guilty of an offence against t h i s Act or Penalty. against any regulations made thereunder, shall, save where otherwise expressly provided, be liable for each such offence on summary conviction before a Resident Magistrate to a h e not exceeding one hundred dollars or to imprisonment with hard labour for any term not exceeding six months.
+*Penalty.*
 
-**22.** (1) Where the owner or person in charge of any €*dencc
+*on*
 
-*$ ~ n r*
+**21.** Any person guilty of an offence against t h i s Act or against any regulations made thereunder, shall, save where otherwise expressly provided, be liable for each such offence summary conviction before a Resident Magistrate to a exceeding one hundred dollars or to imprisonment h e not
 
-animal is charged with an offence against this Act, or ~ ~ ~ against any regulations made thereunder, relative to disease or to any illness of the animal, he shall be presumed to have known of the existence of the disease or illness unless and until he shows to the satisfaction of the court that he had not knowledge thereof and could not with reasonable diligence have obtained that knowledge.
+*with*
 
-(2) The certificate of the inspector to the effect that any animal is or was affected with a disease specified in the __
+hard labour for any term not exceeding six months.
+
+*€\*dencc ~ ~ ~ $ ~ n r*
+
+*or to*
+
+*not*
+
+**22.** (1) Where the owner or person in charge of any animal is charged with an offence against this Act, or against any regulations made thereunder, relative to disease any illness of the animal, he shall be presumed to have known of the existence of the disease or illness unless and until he shows to the satisfaction of the court that he had knowledge thereof and could not with reasonable diligence have obtained that knowledge.
+
+*any*
+
+(2) The certificate of the inspector to the effect that animal is or was affected with a disease specified in the __
 
 certificate shall for the purposes of this Act or of any regulations made thereunder be conclusive evidence in all courts of justice of the matter certified.
 

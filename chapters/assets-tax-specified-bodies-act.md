@@ -20,17 +20,23 @@ retrieved: 2026-10-13
 
 ### A.SSETS TAX (SPEC'IFIEU BODIES)
 
-Acts THE ASSETS TAX (SPECIFIED BODIES) ACT 33 0f2002, 31 of ZOOS.
+*THE*
+
+Acts ASSETS TAX (SPECIFIED BODIES) ACT 33 0f2002, 31 of ZOOS.
 
 [Znd January, 2003. ]
 
-**1.** This Act may be cited as the Assets Tax (Specified Bodies) s h titla. ~ Act.
+*\1. This Act Act.*
+
+may be cited as the Assets Tax (Specified Bodies) s h titla. ~
 
 **2.** (1) In this Act, unless the context otherwise requires- ~ntcrpre tntiun.
 
 "Commissioner" means the Commissioner of Inland Revenue;
 
-"specified body" means-
+*"specified*
+
+body" means-
 
 (a) a company within the meaning of the Companies Act other than a company in respect of which a licence has been granted pursuant to section 16 of that Act by the Minister responsible for the administration of companies,
 
@@ -38,19 +44,29 @@ Acts THE ASSETS TAX (SPECIFIED BODIES) ACT 33 0f2002, 31 of ZOOS.
 
 (c) such other body as may be prescribed by order subject to negative resolution.
 
-**3.** (1) Subject to the provisions of this section and sections A ~ u a l declaration 4 and 5, every specified body shall make and submit to the Commissioner an annual declaration of the value of its assets and shall in relation thereto pay the tax prescribed in the Schedule. Schedule.
+*3.-(1)*
+
+*Commissioner and shall in Schedule.*
+
+Subject to the provisions of this section and sections A ~ u a l declaration 4 and 5, every specified body shall make and submit to the an annual declaration of the value of its assets relation thereto pay the tax prescribed in the Schedule.
 
 (2) The declaration required by subsection (1) shall-
 
-.\ (a) subject to subsection (3), be submitted on or before the 1st day of September in each year (hereinafter referred to as the relevant date);
+*.\*
 
-(b) be in such form and accompanied by such documents as the Commissioner may prescribe by notice published in the Gazette;
+*to as (b) be in*
+
+(a) subject to subsection (3), be submitted on or before the 1st day of September in each year (hereinafter referred the relevant date);
+
+such form and accompanied by such documents as the Commissioner may prescribe by notice published in the Gazette;
 
 IThe lnrlualon of this page la authorbed by L.N. 180Al10061
 
 (c) subject to subsection (3), be based upon the value of assets of the specified body as indicated by the balance sheet and profit and loss account as relates to the assessment of income tax for the year of assessment immediately prior to the relevant date or the date authorized pursuant to subsection (3).
 
-(3) The Commissioner may, on the application of any specified body, allow the body to submit its declaration for any year specified in the application, on or before such date as the Commissioner may authorize in writing.
+*year*
+
+(3) The Commissioner may, on the application of any specified body, allow the body to submit its declaration for any specified in the application, on or before such date as the Commissioner may authorize in writing.
 
 (4) The Commissioner may act in accordance with subsection (5) if he is satisfied that-
 
@@ -258,60 +274,60 @@ ASSETS 1iiX (SPECIFIED BODIES)
 
 ## PART 11. Registered Societies
 
-Description of Registered
-
 *Tax -*
 
-Society
+Description of Registered Society
 
 \-
 
-*. . . ... $1,000*
+*. . .*
+
+*... $1,000*
 
 Where the aggregate value of thc assets does not exceed $50,000 1
 
-Where the aggregate value of the assets exceeds $50,000 but does not
+*...*
 
-*... . . .*
+*. . .*
 
 *$2,000*
 
-exceed $500,000
+Where the aggregate value of the assets exceeds $50,000 but does not exceed $500,000
 
-Where the aggregate value of the assets exceeds $500.000 but does
+*...*
 
-*... ... $4,000*
+*... $4,000*
 
-not exceed $1,000,000
+Where the aggregate value of the assets exceeds $500.000 but does not exceed $1,000,000
 
-Where the aggrega:e value of the assets exceeds $1,000,000 but does
+*. . .*
 
-*. . . ... $10,000*
+*... $10,000*
 
-not exceed $5,000,000
+Where the aggrega:e value of the assets exceeds $1,000,000 but does not exceed $5,000,000
 
-Where the aggregate value of the assets exceeds $5,000,000 but does
+*...*
 
-*... ... $lS,000*
+*... $lS,000*
 
-not exceed $10,000,000
+Where the aggregate value of the assets exceeds $5,000,000 but does not exceed $10,000,000
 
-Where the aggregate value of the assets exceeds $10,000,000 but
+*...*
 
-*... ...*
+*...*
 
 *$20,000*
 
-does not exceed $50,000,000
+Where the aggregate value of the assets exceeds $10,000,000 but does not exceed $50,000,000
 
-Where the aggregate value of the assets exceeds $50,000,000 but
+*...*
 
-*... ... $25,000*
+*... $25,000*
 
-does not exceed $100,000,000
+Where the aggregate value of the assets exceeds $50,000,000 but does not exceed $100,000,000
 
-Where the aggregate value of the
+*. . .*
 
-*. . . ... $35,000*
+*... $35,000*
 
-assets exceeds $100,000,000
+Where the aggregate value of the assets exceeds $100,000,000

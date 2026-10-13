@@ -76,9 +76,9 @@ U8th Januav, 1983.1
 
 “public organization” means any ministry, department, commission, committee, board, corporation, agency or other organization of the Government of Jamaica or a local government authority.
 
-*mmt and Axchives Advisory Committee*
+*Establish-mmt and f unctions Of Axchives Advisory Committee*
 
-3.41) For the purposes of this Act there is hereby estab- Establish-lished a body to be known as the Archives Advisory Corn- f unctions Of mittee.
+3.41) For the purposes of this Act there is hereby established a body to be known as the Archives Advisory Corn-mittee.
 
 *Schedule.*
 
@@ -94,11 +94,9 @@ U8th Januav, 1983.1
 
 (3) The provisions of this Act shall apply in relation to official records referred to in subsection ( 2 ) and their custody in the same way as if they had been placed under the charge and control of the Archivist by this Act.
 
-**5.** The Archivist s h d cause to be prepared and shall
-
 *Jamaica Archim.*
 
-keep and use a seal bearing the impression of the A r m s of Jamaica, and having inscribed in the margin thereof the words “Ofice of the Jamaica Archives”.
+**5.** The Archivist s h d cause to be prepared and shall keep and use a seal bearing the impression of the A r m s of Jamaica, and having inscribed in the margin thereof the words “Ofice of the Jamaica Archives”.
 
 *Appomi-mentand funCtl0ns of Archivist.*
 
@@ -116,15 +114,23 @@ rehabditation of archives;
 
 (c) the preparation and publication of inventories, in-dexes, catalogues and other finding-aides or guides facilitating the use of archives.
 
-**7.** (1) Subject to subsection (2), the Ardivist, or any mramina-officer of the Jamaica Archives authorized by him, has the tion of owial power to examine any official records whick are in the custody of any public organization and to advise such organization as to the care, custody and control thereof. Jamaim Alchi?ea.
+*mramina-of tion owial*
+
+*Jamaim Alchi?ea.*
+
+**7.** (1) Subject to subsection (2), the Ardivist, or any officer of the Jamaica Archives authorized by him, has the power to examine any official records whick are in the custody of any public organization and to advise such organization as to the care, custody and control thereof.
 
 (2) Nothing in this section s h d authorize the Archivist or any officer referred to in subsection (11, to examine any official record relating to matters which by Statute are €orbidden to be communicated to him.
 
 (3) Official records in the custody of any public organization shall be t r a m f m d periodically to the Jamaica Archives in accordance with regulations made under this Act.
 
-**8.** The Archivist may require by gift, purchase or loan, Acquisition all such original records, documents, books, and other his- of private modby t o r i d material, of any nature whatsoever, or copies or Archivist. replicas thereof, as he may think necessary or desirable to secure for the Jamaica Archives.
+*Acquisition of private modby Archivist.*
 
-**9.** (1) Every person responsible for the custody of offi- Afqnirition of o m a cial records of any description which are not in the Jamaica m r d a by Archives shall make arrangements for the selection of those mivkt. records which ought to be permanently preserved and for their safe-keeping.
+**8.** The Archivist may require by gift, purchase or loan, all such original records, documents, books, and other hist o r i d material, of any nature whatsoever, or copies or replicas thereof, as he may think necessary or desirable to secure for the Jamaica Archives.
+
+*Afqnirition of o m a m r d a by mivkt.*
+
+**9.** (1) Every person responsible for the custody of official records of any description which are not in the Jamaica Archives shall make arrangements for the selection of those records which ought to be permanently preserved and for their safe-keeping.
 
 (2) Every person required to make arrangement3 pursuant to subsection (l), shall do so under the guidance of the Arcbivist or any officer of the Jamaica Archives autho-
 
@@ -154,9 +160,13 @@ regulations made under this Act, the Archivist shall arrange that reasonable fad
 
 ( 5 ) Any person who fails to comply with any condition imposed pursuant to subsection (2), shall be guilty of an offence and shall be liable on summary conviction in a Resident Magistrate’s Court to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding twelve months.
 
-**11.** Where the person in charge of any public organization ~~~~t notifies the Archivist in writing that any official record & % :-which was transferred from that organization to the Jamaica public Ol%3alwa-Archives is required for use in that organization, the Archi- ticns. vist shall, if he has the custody or control of that official record, make it available to that person, who shall return it to the Archivist as soon as it is no longer required by him for use.
+*~~~~t & % :-public Ol%3alwa-ticns.*
 
-1 2 4 1 ) The exportation from Jamaica of any official re- Rcatriotioo cord which relates to Jamaica and which has been certified on export o~oficclal by the Archivist to be of historical value is prohibited, ex- moords. cept with the permission of the Minister given in accordance wi,th subsection (2).
+**11.** Where the person in charge of any public organization notifies the Archivist in writing that any official record which was transferred from that organization to the Jamaica Archives is required for use in that organization, the Archivist shall, if he has the custody or control of that official record, make it available to that person, who shall return it to the Archivist as soon as it is no longer required by him for use.
+
+*Rcatriotioo on export o~oficclal moords.*
+
+1 2 4 1 ) The exportation from Jamaica of any official record which relates to Jamaica and which has been certified by the Archivist to be of historical value is prohibited, except with the permission of the Minister given in accordance wi,th subsection (2).
 
 (2) The Minister may by memorandum in writing give permission for the export of an official record spmified in the memorandum and may impose such conditions in relation thereto as the Minister thinks necessary or desirable.
 
@@ -182,15 +192,15 @@ regulations made under this Act, the Archivist shall arrange that reasonable fad
 
 ( 6 ) the fees which may be oharged in respect of services provided to the public by the Jamaica Archives.
 
-**15.** (1) Official records presently classified as archives Saving and permanently preserved as such shall be deemed to be in the custody and control of the Jamaica Archives.
+*Saving*
+
+**15.** (1) Official records presently classified as archives and permanently preserved as such shall be deemed to be in the custody and control of the Jamaica Archives.
 
 (2) The Record Office (Archives) Rules, 1%9 in force at the 18th day of January, 1983 shall apply to the Jamaica Archives as if made pursuant to this Act and such rules may be amended or revoked pursuant to section 14,
 
-(%tirn 3) SCK~DVLE
-
 *Conatitu-tion of Commiltee.*
 
-1 . 4 1 ) The Arohivcs Advisory Committee shall wmist of the following memkrs-
+(%tirn 3) SCK~DVLE 1 . 4 1 ) The Arohivcs Advisory Committee shall wmist of the following memkrs-
 
 (a) the Keeper of the Romrds;
 
@@ -248,21 +258,19 @@ be held at sudh places and times and on sucb days as the Committee shall determi
 
 (6) The validity of any proceedings of the Commi~ec shall not be ?ffW by any vacancy amongst the mernbm thermf or by any defect III the appointment of a member bhereof.
 
-**6.** There may be paid to the ohairman and olher members of the R ~ ~ ~ ~ ~ Comanittee and to members of any s~b-commibtee appointed under tionof paragraph 8 such remuneration (whether by way of honorarium. members.
+*R ~ ~ ~ ~ ~ tionof members.*
 
-salary or fees) and such allowances as the Minister may determine.
+**6.** There may be paid to the ohairman and olher members of the Comanittee and to members of any s~b-commibtee appointed under paragraph 8 such remuneration (whether by way of honorarium. salary or fees) and such allowances as the Minister may determine.
 
-**7.** No action, suit, proseoution or obher proceedings shall be brought Protection or instituted personally against any member of the Committee in re- ofmcm-
+*Protection ofmcm-Eittec*
 
-Eittec spect of any act done bona fde in pursuance or execution or intended execution of this A&.
+**7.** No action, suit, proseoution or obher proceedings shall be brought or instituted personally against any member of the Committee in respect of any act done bona fde in pursuance or execution or intended execution of this A&.
 
-**8.** \-(1) Tbe Committee may appoint subarmmittem for any such Y-general or s p e d purposes with which bhe Committee may be m- o sub-
+*Yo sub-committees.*
 
-cam& as in the opinion of & committee WOUU be better regulated committees. and managed by means of a sub-committee.
+**8.** \-(1) Tbe Committee may appoint subarmmittem for any such general or s p e d purposes with which bhe Committee may be m-cam& as in the opinion of & committee WOUU be better regulated and managed by means of a sub-committee.
 
-(2) The number of member6 of a subcommittee appointed under sub-paragraph (l), their functions and terms d appointment, the quorum of the sub-committee and the area, if any, within which the sub-”-
-
-mittee is to exercise authority shall be determined by the Comu~ttec.
+(2) The number of member6 of a subcommittee appointed under sub-paragraph (l), their functions and terms d appointment, the quorum of the sub-committee and the area, if any, within which the sub-”-mittee is to exercise authority shall be determined by the Comu~ttec.
 
 (3) A subcommittee appointed pursuant to tbis pragraph may include persons who are not members of the Committee.
 

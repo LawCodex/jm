@@ -24,7 +24,7 @@ THE APPORTIONMENT ACT cap. 16.
 
 **1.** This Act may be cited as the Apportionment Act. sorttitle.
 
-**2.** In this Act-Intcrprcta-tion.
+In this Act- 2. Intcrprcta-tion.
 
 “rents” includes rent-service, rent-charge and rent-seck and all periodical payments in lieu of or in the nature of rent;
 
@@ -32,7 +32,7 @@ THE APPORTIONMENT ACT cap. 16.
 
 “dividends” includes (besides dividends strictly so called) all payments made by the name of dividend, bonus or otherwise out of the revenue of trading or other public companies, divisible between all or any of the members of such respective companies, whether such payments shall be usually made or declared at any fixed times or otherwise; and all such divisible revenue shall, for the purposes of this Act, be deemed to have accrued by equal daily increment during and within the period for or in respect of which the payment of the same revenue shall be declared or expressed to be made, but the said word “dividend” does not include payments in the nature of a return or reimbursement of capital.
 
-**3.** All rents, annuities, dividends and other periodical Apportion-payments in the nature of income (whether reserved or made ment payable under an instrument in writing or otherwise), shall like interest on money lent, be considered as accruing from day to day, and shall be apportionable in respect of time accordingly.
+**3.** All rents, annuities, dividends and other periodical Apportionment payments in the nature of income (whether reserved or made payable under an instrument in writing or otherwise), shall like interest on money lent, be considered as accruing from day to day, and shall be apportionable in respect of time accordingly.
 
 When 4. The apportioned part of any such rent, annuity, avwriioned
 

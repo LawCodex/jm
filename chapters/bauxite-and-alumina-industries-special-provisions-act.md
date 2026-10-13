@@ -76,33 +76,39 @@ retrieved: 2026-10-13
 
 BAUXITE A N D ALUMINA 1NDUSTRlES
 
-between the Government and associated producers, as the Ministers think expedient to enable the Government to participate in the operations of the bauxite, alumina and related enterprises of Jamaica.
+*Ministers*
+
+*related*
+
+between the Government and associated producers, as the think expedient to enable the Government to participate in the operations of the bauxite, alumina and enterprises of Jamaica.
 
 (2) This section shall be deemed to have come into operation on the 1st day of October, 1976.
 
-*POaratO declare certain persoa% associaled producers,*
+*POaratO declare associated certain persoa% associaled producers,*
 
-4 . 4 1 ) The Minister may, by order, declare to be an associated producer-
+4 . 4 1 ) The Minister may, by order, declare to be an producer-
 
 (a) any bauxite producer with whom the Government has an agreement in force under which the Government is associated either directly or indirectly with that bauxite producer in the production of bauxite or alumina in Jamaica or in related enterprises; or
 
-311982
-
 *S. 3 (a).*
 
-( b ) any person whe-
+311982 ( b ) any person whe-
 
 (i) is engaged in the winning in Jamaica of bauxite or in the producing in Jamaica of alumina from bauxite won in Jamaica, and is, in the opinion of the Minister, in special relationship with the Government; or
 
 (ii) is engaged in the winning in Jamaica of bauxite or in the producing in Jamaica of alumina from bauxite won in Jamaica. or is engaged in other related enterPrks or in all those activities and enterprises, and in any case has entered into a spacial agreement with the Government for the purpose of facilitating the carrying on of those activities or enterprises or of rationalizing the bauxite industry.
 
-m
+*m e*
 
 (2) Any order made under subsection (1) may contain such consequential, supplementary or ancillary provisions as the Minister thinks necessary or expedient.
 
-(3) Each associated producer named in the Schedule wulc. shall continue to be an associated producer for the duration of the agreement under which the Government is associated with that associated producer in the production of bauxite or dumina in Jamaica or in related enterprises.
+*wulc.*
 
-(4) Any order made under subsection (I) shall be 3 1982 subject to a m a t i v e resolution of the House of Repre- S L @I.
+(3) Each associated producer named in the Schedule shall continue to be an associated producer for the duration of the agreement under which the Government is associated with that associated producer in the production of bauxite or dumina in Jamaica or in related enterprises.
+
+*3 1982 S L @I.*
+
+(4) Any order made under subsection (I) shall be subject to a m a t i v e resolution of the House of Repre-
 
 sentatives.
 
@@ -112,9 +118,7 @@ sentatives.
 
 (b) that agreement requires to be transferred; and
 
-(c) is specified in the order,
-
-shall be transferred to and vested in such person, on such date, as the order shall specify.
+(c) is specified in the order, shall be transferred to and vested in such person, on such date, as the order shall specify.
 
 (2) No order shall be made under subsection (1) which is inconsistent with the agreement aforesaid.
 
@@ -122,19 +126,19 @@ shall be transferred to and vested in such person, on such date, as the order sh
 
 ### (SPECIAL PRO VISIONS)
 
-(4) Nothing in this section shalt prevent any property 3/1982
+*3/1982 s. 4 (C). which*
 
-s. 4 (C).
+*being which*
 
-which is required to be transferred under an agreement between the Government and an associated producer from being transferred by methods other than the method for which this section provides.
+(4) Nothing in this section shalt prevent any property is required to be transferred under an agreement between the Government and an associated producer from transferred by methods other than the method for this section provides.
 
-**6.** Notwithstanding anything in any other enactment where any property specified in an order made under section 5 is being transfemed-
+*where section rax, S-P*
 
-rax, S-P
+**6.** Notwithstanding anything in any other enactment any property specified in an order made under 5 is being transfemed-
 
-duties
+*duties and fee&*
 
-and fee& (a) if the laying out or sub-division of land is necessary for that transfer, the Minister may, by order, declare that the Local Improvements Act and the Town and Country Planning Act shall not apply in relation to that transfer;
+(a) if the laying out or sub-division of land is necessary for that transfer, the Minister may, by order, declare that the Local Improvements Act and the Town and Country Planning Act shall not apply in relation to that transfer;
 
 (b) if that property comprises or is included in an agricultural unit within the meaning of the Land Development and Utilization Act, approval of the Commission under section 20 of that Act need not be obtained for that transfer;
 
@@ -150,21 +154,13 @@ BAUXITE AND ALUMINA lNDUSTRlES
 
 *[Zk atorden*
 
-section 4(4) or section 5 of the Bauxite (Production Levy)
-
 *tiOtlS*
 
-Act applies to an associated producer, the Minister-
-
-(a) shall do anything necessary (including the amend-
-
-ing or varying of that provision) to ensure that, for the duration of any relevant agreement existing between the Government and the associated pro-
-
-ducer, that provision is consistent with that agree-
+section 4(4) or section 5 of the Bauxite (Production Levy) Act applies to an associated producer, the Minister-
 
 *, I*
 
-ment; and
+(a) shall do anything necessary (including the amend-ing or varying of that provision) to ensure that, for the duration of any relevant agreement existing between the Government and the associated producer, that provision is consistent with that agreement; and
 
 (b) shall have a l l the powers necessary for the purpose of this section and, in particular, the power to include in any order made under section 4(4) or section 5 of the Bauxite (Production Levy) Act, Merent provisions in relation to different bauxite producerS.
 
@@ -174,9 +170,11 @@ ment; and
 
 **9.** Notwithstanding anything in section 12 of the Mining Act, a bauxite producer who is an associated producer may, prior to the determination or payment of any compensation which may be payable under that section, mine on lands comprised in his mining lease or special mining lease.
 
-*i*
+*pplicacion bpm i*
 
-**19.** In section 45W of the Mining Act the words “for pplicacion any other cause’’ shall be construed to include the necessity bpm to give &est to any relevant agreement between the h i n p k Government and an associated producer.
+*h i n p k*
+
+**19.** In section 45W of the Mining Act the words “for any other cause’’ shall be construed to include the necessity to give &est to any relevant agreement between the Government and an associated producer.
 
 (SPECIAL PROVfSIONS)
 
@@ -200,11 +198,9 @@ BAUXITE AND ALUMINA INQUSTRXES (SPECIAL PROVlSlONS)
 
 *@$*
 
-**14.** In so far as it is necessary to give effect to any provision in any agreement between the Government and any associated producer providing that payments under prom- 1 issory notes issued by the Government shall be made net
+*i ,*
 
-*,*
-
-of Jamaican taxes, those payments shall accordingly be i free from liability to tax.
+**14.** In so far as it is necessary to give effect to any provision in any agreement between the Government and any associated producer providing that payments under prom- 1 issory notes issued by the Government shall be made net of Jamaican taxes, those payments shall accordingly be free from liability to tax.
 
 BAUXlTE AND ALUMlNA INDUSTRIES
 

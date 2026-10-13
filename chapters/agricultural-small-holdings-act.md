@@ -134,13 +134,13 @@ Rent restriction. 50.
 
 ### SCHEDULES
 
-*c a p 8. LPW 3 Of 1%. A& 52 of 1964, 15of1919 ZndSrh, 31 d 1995 s. 4.*
+*c a p 8. LPW 3 Of 1%. A& 52 of 1964, 15of1919 ZndSrh, 31 d 1995 s. 4. Shorttitle.*
 
 ### THE AGRICULTURAL SMALL HOLDINGS ACT
 
 18th March, 1946.1
 
-**1.** This Act may be cited as the Agricultural Small Shorttitle. Holdings Act.
+**1.** This Act may be cited as the Agricultural Small Holdings Act.
 
 *Interprcta-tion.*
 
@@ -152,11 +152,9 @@ Rent restriction. 50.
 
 “contract of tenancy” means any contract, express or implied, creating a tenancy or a licence to cultivate in respect of any small holding other than an excepted holding;
 
-“ControIled area” means any locality declared by the
-
 *52/1964 s. 3.*
 
-Minister under section 9 to be a controlled area;
+“ControIled area” means any locality declared by the Minister under section 9 to be a controlled area;
 
 “economic tree” means any tree of a class specified by the Minister to be economic trees for the purpose of this Act;
 
@@ -202,7 +200,11 @@ any parcel of land intended for cultivation or pastur. age, with or without buil
 
 Contract of Tenancy
 
-3,-(1) A contract of tenancy shall be in writing in Formof duplicate and shall be signed by the parties thereto and contract. attested.
+*Formof*
+
+*contract.*
+
+3,-(1) A contract of tenancy shall be in writing in duplicate and shall be signed by the parties thereto and attested.
 
 W
 
@@ -240,29 +242,27 @@ when the rent reserved does not exceed two dollars per annum and five cents when
 
 AGRICULTURAL SMALL HOLDlNGS
 
-**6.** Every landlord shall on being required so to do by copyor wntract to any tenant and being paid the sum of ten cents furnish befur. to such tenant a copy of the contract of tenancy to which he E,$;:, is a party.
+*copyor wntract to befur. E,$;:,*
 
-7.41) Subject to the provisions of subsection (2) and Rpstriction on crop-of section 8 the consideration for a contract of tenancy sharing z F shall not be or include a part of the crop derived from the small holding or a part of the proceeds of sale of such crop rendered to the landlord, or any equivalent of rent given in kind or in labour to the landlord in return for the use and occupation of the holding :
+**6.** Every landlord shall on being required so to do by any tenant and being paid the sum of ten cents furnish to such tenant a copy of the contract of tenancy to which he is a party.
+
+*Rpstriction on crop-sharing z F*
+
+7.41) Subject to the provisions of subsection (2) and of section 8 the consideration for a contract of tenancy shall not be or include a part of the crop derived from the small holding or a part of the proceeds of sale of such crop rendered to the landlord, or any equivalent of rent given in kind or in labour to the landlord in return for the use and occupation of the holding :
 
 Provided that nothing in this section contained shall be deemed to apply to any establishment tenancy.
 
 (2) The provisions of subsection (I) shall not apply to any contract of tenancy which at its inception is intended to subsist for any period not less than the prescribed period whereby provision is made for the landlord to receive in accordance with such conditions as may be prescribed not more than the prescribed percentage of any prescribed crop grown upon the land to which such contract relates.
 
-2;$$n8
+*2;$$n8 re1ating.m economic t re58 and prescribed trees.*
 
-**8.** (1) Every landlord may at the time when he enters into a contract of tenancy by the inclusion in such contract re1ating.m economic of an express term to that effect reserve to himself the t re58 and prescribed exclusive right-
-
-trees.
+**8.** (1) Every landlord may at the time when he enters into a contract of tenancy by the inclusion in such contract of an express term to that effect reserve to himself the exclusive right-
 
 (i) to fell or cut timber from any economic tree;
 
 (ii) to reap the produce of any prescribed tree growing upon such holding;
 
-(iii) in the case of rice tenancies, in any area prescribed by the Minister or forming any part of any pro-
-
-perty so prescribed to graze cattle upon the hold-
-
-ing for the period between the reaping of one crop of rice and the preparation of the land for planting the next crop.
+(iii) in the case of rice tenancies, in any area prescribed by the Minister or forming any part of any property so prescribed to graze cattle upon the holding for the period between the reaping of one crop of rice and the preparation of the land for planting the next crop.
 
 (2) Where the landlord reserves for himself any of the exclusive rights referred to in subsection (1) it shall be lawful for him to enter by himself or his servants or agents upon the small holding in respect of which the right is reserved at all reasonable times between the hours of sunrise and sunset for the purpose of exercising the right so reserved.
 
@@ -276,13 +276,9 @@ ing for the period between the reaping of one crop of rice and the preparation o
 
 **9.** Where the Minister is satisfied that the rentals of small holdings in any locality are unreasonably high and that such a course is expedient in the public interest, he may by order declare such locality to be a controlled area.
 
-*of contrace*
+*Prohibition of contrace oftenancy for less than twn years or fin :'i964*
 
-**10.** (1) It shall not be lawful for any person to enter into Prohibition a contract of tenancy, other than a crop-sharing tenancy, oftenancy
-
-*for less than twn years or fin :'i964*
-
-for a term of less than-
+**10.** (1) It shall not be lawful for any person to enter into a contract of tenancy, other than a crop-sharing tenancy, for a term of less than-
 
 (a) two years where the landlord is a company holding a mining lease for bauxite in respect of the land;
 
@@ -292,9 +288,9 @@ for a term of less than-
 
 (3) Any person who enters into a contract of tenancy in contravention of the provisions of subsection (1) or of subsection (2) shall be guilty of an offence against this Act and shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding twenty dollars.
 
-*terms to*
+*certain terms to beinvalld.*
 
-**11.** (1) Any term or condition of any contract of tenancy certain whether entered into before or after the commenoement of beinvalld. this Act whereby either-
+**11.** (1) Any term or condition of any contract of tenancy whether entered into before or after the commenoement of this Act whereby either-
 
 (a) the exercise by the tenant of any right to distrain upon or to claim or recover damages or compensation in respect of any damage occasioned by any animal trespassing upon his small holding is in any way restricted; or
 
@@ -302,31 +298,35 @@ for a term of less than-
 
 (2) Any term or condition of any contract of tenancy whereby rent is expressed to be payable more than half-yearly in advance shall take effect as if such rent were expressed to be payable half-yearly in advance.
 
-Reaping 1 2 - 4 1 ) No contract of tenancy shall contain any term or and mar-
+*1 2 - 4 Reaping*
 
-keting of
+*and marketing of crops of any tenant by landlord.*
 
-condition whereby the landlord is entitled to reap or market crops of
+1 ) No contract of tenancy shall contain any term or condition whereby the landlord is entitled to reap or market crop on behalf of the tenant.
 
-any crop on behalf of the tenant.
+*prevent entering*
 
-tenant by
+(2) Nothing in subsection (1) shall be deemed to the landlord and tenant of any small holding from into a separate agreement for the reaping or marketing of any crop by the landlord on account of the
 
-landlord.
+*tenant.*
 
-(2) Nothing in subsection (1) shall be deemed to prevent the landlord and tenant of any small holding from entering into a separate agreement for the reaping or marketing of any crop by the landlord on account of the tenant.
+*reaping landlord shall*
 
-(3) Where a separate agreement is made for the reaping or marketing of any crop of a small holding by the landlord on account of the tenant, the following provisions shall apply-
+(3) Where a separate agreement is made for the or marketing of any crop of a small holding by the on account of the tenant, the following provisions apply-
 
 (a) no charge shall be made for supervision, administration or other services by or on behalf of the landlord in excess of two and one-half per cenrum of the proceeds of the sale from which such charge may be deducted;
 
 (b) actual expenses reasonably incurred by the landlord in respect of the reaping or marketing of the crop sold may be deducted from the amount found due after deducting the charge aforesaid;
 
-(c) subject to the provisions of paragraphs (a) and (b), the amount to be paid by the landlord under any such arrangement shall not be less than can be secured in the open market for produce of the same kind and quality at the date of delivery;
+subject to the provisions of paragraphs (a) and (b), (c)
 
-(d) the landlord shall deliver a copy of such agreement to the tenant and shall on being required so to do at any time by the tenant and on being paid the sum of ten cents deliver to the tenant a further copy of such agreement;
+the amount to be paid by the landlord under any such arrangement shall not be less than can be secured in the open market for produce of the same kind and quality at the date of delivery; the landlord shall deliver a copy of such agree- (d)
 
-(e) the landlord shall annex a copy of such agreement to the contract of tenancy in relation to the holding in respect of which such agreement is entered into
+ment to the tenant and shall on being required so to do at any time by the tenant and on being paid the sum of ten cents deliver to the tenant a further copy of such agreement;
+
+the landlord shall annex a copy of such agreement (e)
+
+to the contract of tenancy in relation to the holding in respect of which such agreement is entered into
 
 me inclusion of i!nis page is aulhorized by L.N. 4801197131
 
@@ -336,13 +336,23 @@ and shall keep such copy in the file required to be kept under section 4.
 
 (4) Any landlord who fails to comply with the provisions of paragraph (4 or paragraph (e) of subsection
 
-(3) shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding, in the case of a first offence one hundred dcllars, in the case of a second or sub- zi4,1935 sequent offence two hundred dollars, and in any case of a further fine not exceeding two hundred dollars for each 31/1ws month during which such failure continues after conviction s.4. thereof.
+*zi4,1935*
 
-**13.** Where any small holding is subject to any contract F zs of tenancy under this Act then, notwithstanding anything ofmort-to the contrary, any mortgage over such small holding or E :, over any land of which such small holding forms part, whether created by the landlord or the tenant or any person claiming through either of them or before or after the commencement of this Act or before or after the creation of the tenancy, shall be subject to the contract of tenancy.
+*31/1ws s.4.*
 
-**14.** On the alienation or devolution of ownership of a Linbility for con-small holding, the incoming owner of the holding shall have tractson and be subject to the same rights and liabilities under any $,9dom contract of tenancy subsisting at the time of alienation or of am^ devolution, as his predecessor in title had and was subject to.
+(3) shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding, in the case of a first offence one hundred dcllars, in the case of a second or subsequent offence two hundred dollars, and in any case of a further fine not exceeding two hundred dollars for each month during which such failure continues after conviction thereof.
 
-15.41) A tenant of a small holding shall not sublet the Re~trictio~ on sub-holding without the consent of the landlord previously wing. obtained in writing.
+*F zs ofmort-E :,*
+
+**13.** Where any small holding is subject to any contract of tenancy under this Act then, notwithstanding anything to the contrary, any mortgage over such small holding or over any land of which such small holding forms part, whether created by the landlord or the tenant or any person claiming through either of them or before or after the commencement of this Act or before or after the creation of the tenancy, shall be subject to the contract of tenancy.
+
+*Linbility for con-tractson $,9dom of am^*
+
+**14.** On the alienation or devolution of ownership of a small holding, the incoming owner of the holding shall have and be subject to the same rights and liabilities under any contract of tenancy subsisting at the time of alienation or devolution, as his predecessor in title had and was subject to.
+
+*Re~trictio~ on sub-wing.*
+
+15.41) A tenant of a small holding shall not sublet the holding without the consent of the landlord previously obtained in writing.
 
 (2) Such consent shall not be unreasonably withheld by the landlord.
 
@@ -376,7 +386,7 @@ p iaelnasDn d 1MB paga is - a by UN. 9511997l
 
 failing to agree, by the Valuation Board, so, however, that in determining the rental paid in respect of the period of any extension or renewal of the tenancy regard shall not be had to any improvement made by the tenant.
 
-lS.-(l) Subject to the provisions of this section, the Continua-tenancy of a small holding shall not terminate on the tion of lenancyin expiration of the period fixed by the contract of tenancy izz&Of
+lS.-(l) Subject to the provisions of this section, the Continuation of tenancy of a small holding shall not terminate on the lenancyin izz&Of expiration of the period fixed by the contract of tenancy
 
 unless-
 
@@ -420,7 +430,9 @@ m
 
 (b) requires the land for mining purposes pursuant to the lease mentioned in paragraph (a) of this subsection,
 
-the company may terminate the tenancy of the small holding as if section 18 of this Act had not been repealed or replaced by the amending Act.
+*ing as if*
+
+the company may terminate the tenancy of the small hold-section 18 of this Act had not been repealed or replaced by the amending Act.
 
 (7) In this section-
 
@@ -428,15 +440,15 @@ the company may terminate the tenancy of the small holding as if section 18 of t
 
 (b) “existing terms” means-
 
-(i) in relation to a tenancy which would have expired but for section 18 of this Act prior to its repeal and replacement by the amend-ing Act, the terms upon which the tenancy subsisted immediately before the date of commencement of the amending Act;*
+(i) in relation to a tenancy which would have expired but for section 18 of this Act prior to its repeal and replacement by the amend-ing Act, the terms upon which the tenancy subsisted immediately before the date of commencement of the amending Act;* (ii) in relation to any other tenancy, the terms upon which the tenancy subsisted at the time when it would have expired but for thii section.
 
-(ii) in relation to any other tenancy, the terms upon which the tenancy subsisted at the time when it would have expired but for thii section.
+*\19. A*
 
-**19.** A tenancy may, notwithstanding anything provided Dctcnnina-in section 18 or any period of tenancy stipulated in the
+*Dctcnnina-*
 
 *S. 6 (a).*
 
-contract of tenancy, be determined- 5211964
+tenancy may, notwithstanding anything provided in section 18 or any period of tenancy stipulated in the contract of tenancy, be determined- 5211964
 
 (U) by the landlord ,without notice-
 
@@ -446,35 +458,45 @@ contract of tenancy, be determined- 5211964
 
 \*Zlst November. 1964.
 
-(3 where the tenant commits a breach of any term or condition of the tenancy which is not capable of being remedied or which can only be remedied at a cost in excess of a sum equivalent to two years’ rental of the holding or of ten dollars per acre or part thereof of the holding whichever shall be the greater;
+*W e*
 
-(b) by the landlord by three months’ notice to quit--
+*(b) by*
+
+(3 where the tenant commits a breach of any term or condition of the tenancy which is not capable of being remedied or which can only be remedied at a cost in excess of a sum equivalent to two years’ rental of the holding or of ten dollars per acre or part thereof of the holding whichever shall be the greater; the landlord by three months’ notice to quit--
 
 (i) where the tenant commits a breach, which is not capable of being remedied, of any term or condition of the tenancy and the interests of the landlord are materiaily prejudiced thereby;
 
 (ii) upon certificate by any officer designated for the purpose by the Minister for the area within which the small holding is situated that the tenant is not cultivating or operating the holding according to the practices of good husbandry and that the interests of the landlord are materially prejudiced thereby :
 
-Provided that if within the period of notice the tenant remedies his default and furnishes to the landlord a certificate from such officer to that effect the notice to quit shall be deemed to be cancelled and of no force or effect;
-
-(iii) if any part of the rent in respect of the small holding is in arrear for a period of three months or more or if any of the terms or
+Provided that if within the period of notice the tenant remedies his default and furnishes to the landlord a certificate from such officer to that effect the notice to quit shall be deemed to be cancelled and of no force or effect; if any part of the rent in respect of the small (iii)
 
 *52/1%4 S. 6 (b).*
 
-conditions of the tenancy are not performed or observed by the tenant :
+holding is in arrear for a period of three months or more or if any of the terms or conditions of the tenancy are not performed or observed by the tenant :
 
 Provided that if the tenant pays the rent in arrear or, in the case of any breach or nonobservance of any of the terms of the tenancy, the tenant makes good such breach or nonobservance, within one calendar month of the
 
+*me*
+
 service of the notice to quit the notice to quit shall be deemed to be cancelled and of no force or effect;
 
-(c) by the tenant without notice where the landlord commits a breach of any term or condition of the 'Sf Q :? tenancy, or permits any taxes or rates (for the payment of which the landlord is as between the landlord and the tenant liable) to fall into arrears or is guilty of any unreasonable conduct which causes the tenant to quit the holding.
+*'Sf Q :?*
 
-**20.** (1) Every notice to quit a small holding shall be in to Notice qu1t. writing and shall be signed by the landlord or tenant, as the case may be, or his agent or solicitor. It shall describe clearly the holding which is sought to be recovered or intended to be quitted, the grounds upon which the tenancy is to be determined, and the proper day on which possession is to be delivered up, and shall not be ambiguous or optional.
+(c) by the tenant without notice where the landlord commits a breach of any term or condition of the tenancy, or permits any taxes or rates (for the payment of which the landlord is as between the landlord and the tenant liable) to fall into arrears or is guilty of any unreasonable conduct which causes the tenant to quit the holding.
 
-( 2 ) The forms of notice to quit prescribed in the Second Schedule, with such variations as circumstances Second SFhodUlc. may require, may be used.
+*Notice to qu1t.*
+
+**20.** (1) Every notice to quit a small holding shall be in writing and shall be signed by the landlord or tenant, as the case may be, or his agent or solicitor. It shall describe clearly the holding which is sought to be recovered or intended to be quitted, the grounds upon which the tenancy is to be determined, and the proper day on which possession is to be delivered up, and shall not be ambiguous or optional.
+
+*Second SFhodUlc.*
+
+( 2 ) The forms of notice to quit prescribed in the Second Schedule, with such variations as circumstances may require, may be used.
 
 (3) Service of a notice to quit may be effected either personally on the person to be served or by leaving the notice with some adult person at his last or most usual place of abode, or if the person to be served cannot be found and the place of his abode either is not knowil or admission thereto cannot be obtained, then by posting the notice on some conspicuous place on the small holding.
 
-(4) It shall not be necessary that a notice to quit 52/1964 under paragraph (b) of section 19 should expire at the end s.7. of the current term or half year of the tenancy. Such notice may be given at any time.
+*52/1964 s.7.*
+
+(4) It shall not be necessary that a notice to quit under paragraph (b) of section 19 should expire at the end of the current term or half year of the tenancy. Such notice may be given at any time.
 
 Valuation Boards
 
@@ -528,13 +550,17 @@ by the Board or any member thereof or to produce any document, production of whi
 
 Appoint- 23-(1) A Valuation Board may, with the approval of ment of
 
-officers, ser- the Minister, appoint or employ, at such remuneration and vants and on such terms and conditions as the Minister may either valuers.
+the Minister, appoint or employ, at such remuneration and officers, ser-
+
+vants and on such terms and conditions as the Minister may either valuers.
 
 generally or specially determine, such officers and servants and such persons to act as valuers as may be deemed necessary for the proper carrying out of the provisions of this Act, and may pay to the members of the Board such allowances and expenses as the Minister may generally or specially approve.
 
 (2) The Board may require any person so appointed or employed to give such security as the Board may deem proper for the due performance of his duties.
 
-**24.** (1) Every Board shall have in relation to the area Functions in respect of which it is appointed the following powers of Board. and duties-
+*Functions of Board.*
+
+**24.** (1) Every Board shall have in relation to the area in respect of which it is appointed the following powers and duties-
 
 (U) on the application of any tenant or prospective tenant of a small holding situated in any controlled area, to fix the maximum economic rent for such small holding;
 
@@ -552,7 +578,9 @@ on the application of either of them, to determine the market value of the holdi
 
 (b) to the gross annual value which a tenant might reasonably be expected to derive from the occupancy of the small holding, but shall not have regard to the rental previously received by the landlord for the holding or to the standard of rentals prevailing in the controlled area.
 
-**25.** (1) Any landlord who knowingly receives any rent ~ c n t a i i n in excess of the maximum rent fixed by the Valuation Board cacEcM of under paragraph (U) of subsection (1) of section 24 shall, on summary conviction before a Resident Magistrate, be liable to a fine not exceeding one hundred dollars or to imprisonment for a period not exceeding six months, or to both such imprisonment and such fine.
+*~ c n t a i i n cacEcM of*
+
+**25.** (1) Any landlord who knowingly receives any rent in excess of the maximum rent fixed by the Valuation Board under paragraph (U) of subsection (1) of section 24 shall, on summary conviction before a Resident Magistrate, be liable to a fine not exceeding one hundred dollars or to imprisonment for a period not exceeding six months, or to both such imprisonment and such fine.
 
 \-
 
@@ -590,21 +618,21 @@ __
 
 shall be taken into account in reduction of the amount of compensation, and any sum due to the tenant in respect of any breach of contract or otherwise in respect of the holding shall be added to the amount of compensation.
 
-**27.** Compensation under this Act shall not be payable Consentof landlord as in respect of any improvement comprised in Part I of the toimprove. Third Schedule unless the landlord of the small holding has, ?:At;$ l: iule, previously to the execution of the improvement, consented in writing to the making of the improvement.
+*Consentof landlord as toimprove. ?:At;$ l: iule,*
+
+**27.** Compensation under this Act shall not be payable in respect of any improvement comprised in Part I of the Third Schedule unless the landlord of the small holding has, previously to the execution of the improvement, consented in writing to the making of the improvement.
+
+*Compensa- !ion for ~",",~ &;?;'of Schedule payable uponccrti- 2;: c L ; and notice to landlord.*
 
 **28.** Compensation under this Act shall not be payable-
 
-Compensa- !ion for
-
-(a) in respect of items (101, (ll), (12), (13) and (14) ~",",~ of Part I1 of the Third Schedule unless the tenant &;?;'of of the small holding has, previously to the execu- Schedule payable tion of the improvement, obtained a certificate uponccrti- 2;: from the Agricultural Officer of the district in which the holding is situated recommending that r c L ;
-
-and such improvement be effected; notice to landlord.
+(a) in respect of items (101, (ll), (12), (13) and (14) of Part I1 of the Third Schedule unless the tenant of the small holding has, previously to the execution of the improvement, obtained a certificate from the Agricultural Officer of the district in which the holding is situated recommending that r such improvement be effected;
 
 (b) in respect of any improvement comprised in Part 11 of the Third Schedule unless the tenant of the holding has, not more than three nor less than two months before beginning to execute the improvement, given to the landlord notice in writing of his intention so to do and of the manner in which he proposes to do the intended work.
 
-**29.** (1) Compensation under this Act shall not be pay- commnsa-tion for able in respect of items (15) and (16) of Part III of the Thiid improve. Schedule unless the tenant of the small holding has, previously to the execution of the improvement, obtained g!& a certiticate from the Agricultural Officer of the district in payable upon certi-which the holding is situated recommending that such ticateof Agricul-improvement be effected.
+*commnsa-tion for improve. g!& payable upon certi-ticateof Agricultural Officer.*
 
-tural Officer.
+**29.** (1) Compensation under this Act shall not be payable in respect of items (15) and (16) of Part III of the Thiid Schedule unless the tenant of the small holding has, previously to the execution of the improvement, obtained a certiticate from the Agricultural Officer of the district in which the holding is situated recommending that such improvement be effected.
 
 ### AGRICULTURAL SMALL HOLDLVGS
 
@@ -630,7 +658,9 @@ of right to
 
 forfeited where the tenancy is duly determined for any of compcnJa.
 
-tionfor disturbance. the causes mentioned in paragraph (U) or paragraph (b) of section 19.
+tionfor the causes mentioned in paragraph (U) or paragraph (b) of disturbance.
+
+section 19.
 
 52/1%4
 
@@ -650,13 +680,17 @@ the holding planted by the tenant or taken over by him before the notice to term
 
 tenant shall be allowed to have free access to the holding for the purpose of reaping and to reap such crops at any time within six months of the termination of his tenancy, or, in lieu thereof, the landlord may elect to pay, and, upon such election, shall pay to the tenant the value of the growing crop at the date of the expiration of the notice.
 
-**33.** Except as otherwise provided in section 32, compen- Tlmc sation payable under this Act shall be paid by the landlord allowed for paymentof to the tenant within thirty days of the determination of the F;;Pcnsa-tenancy.
+*Tlmc allowed for paymentof*
+
+*F;;Pcnsa-*
+
+**33.** Except as otherwise provided in section 32, compensation payable under this Act shall be paid by the landlord to the tenant within thirty days of the determination of the tenancy.
 
 Fixtures and Buildings
 
-34.41) Subject to the provisions of subsection (2) any ~ ~ ~ engine, machinery, fencing or other fixture affixed to a ~ ~ ~ small holding by a tenant, and any building erected by him buildings thereon for which he is not under this Act or otherwise entitled to compensation, and which is not so affixed or erected in pursuance of some obligation in that behalf or instead of some fixture or building belonging to the land-
+*~ ~ ~ ~ ~ ~ buildings*
 
-lord, shall be the property of and be removable by the tenant within sixty days of the determination of the tenancy:
+34.41) Subject to the provisions of subsection (2) any engine, machinery, fencing or other fixture affixed to a small holding by a tenant, and any building erected by him thereon for which he is not under this Act or otherwise entitled to compensation, and which is not so affixed or erected in pursuance of some obligation in that behalf or instead of some fixture or building belonging to the landlord, shall be the property of and be removable by the tenant within sixty days of the determination of the tenancy:
 
 Provided that-
 
@@ -698,13 +732,21 @@ liable for the erection of any fence required by any law for the time being in f
 
 (6) Any contract made or purporting to be made by any landlord with any of his tenants whereby the landlord is relieved of indemnity against any liability under Part Il of the Trespass Act, which relates to cattle trespass, shall be void and of no effect.
 
-**37.** The landlord of every small holding shall provide ~~~~~t~ reasonable means of ingress and egress for the tenant and small a led animal to and from the holding.
+*~~~~~t~ small*
 
-38.41) Notwithstanding anything to the contrary con- Tenant's tained in a contract of tenancy, the tenant of the small right to ~eeepsfoc~ holding shall be entitled to keep horses, mules, asses, cattle, On sheep, pigs, goats and poultry on the holding,
+**37.** The landlord of every small holding shall provide reasonable means of ingress and egress for the tenant and a led animal to and from the holding.
+
+*Tenant's right to ~eeepsfoc~*
+
+*On*
+
+38.41) Notwithstanding anything to the contrary con-tained in a contract of tenancy, the tenant of the small holding shall be entitled to keep horses, mules, asses, cattle, sheep, pigs, goats and poultry on the holding,
 
 (2) The provisions of subsection (1) shall not apply to any establishment tenancy.
 
-39.41) A tenant of a small holding shall not, without Restriction the consent in writing of the landlord previously obtained, cut down or destroy or cause or allow to be cut down or ;&;ptice destroyed any economic tree growing on the holding.
+*Restriction ;&;ptice*
+
+39.41) A tenant of a small holding shall not, without the consent in writing of the landlord previously obtained, cut down or destroy or cause or allow to be cut down or destroyed any economic tree growing on the holding.
 
 (2) Any tenant contravening the provisions of subsection (1) shall, without prejudice to any civil liability, be liable on summary conviction before a Resident Magistrate to a fine not exceeding ten dollars.
 
@@ -728,17 +770,29 @@ liable for the erection of any fence required by any law for the time being in f
 
 (3) The Minister may specify any class of tree to be economic trees for the purposes of this Act and may prescribe any class of tree to be prescribed trees for the purposes of this Act.
 
-**44.** All claims to recover possession of small holdings Jurisdiction of Resident and all disputes and differences arising out of contracts of M agintrates. tenancy shall, save as otherwise provided in section 24, be within the jurisdiction of a Resident Magistrate and shall be heard and determined on the civil side of the Resident Magistrate’s Court, and the provisions of the Judicature (Resident Magistrates) Act shall apply, mutatis mutandis.
+*Jurisdiction of Resident M agintrates.*
 
-to all proceedings brought before a Resident Magistrate by virtue of this Act so far as the same can be made applicable thereto and are not inconsistent with any of the provisions of this Act.
+**44.** All claims to recover possession of small holdings and all disputes and differences arising out of contracts of tenancy shall, save as otherwise provided in section 24, be within the jurisdiction of a Resident Magistrate and shall be heard and determined on the civil side of the Resident Magistrate’s Court, and the provisions of the Judicature (Resident Magistrates) Act shall apply, mutatis mutandis. to all proceedings brought before a Resident Magistrate by virtue of this Act so far as the same can be made applicable thereto and are not inconsistent with any of the provisions of this Act.
 
-**45.** The provisions of this Act shall apply notwithstand- Cnntracting ing anything to the contrary contained in any contract of $:&bited. tenancy, and in case any of the provisions of a contract of tenancy are inconsistent with any of the provisions of this Act the contract shall be read and construed so as to be consistent with the provisions of this Act.
+*Cnntracting $:&bited.*
 
-4 6 . 4 1 ) Where there is any conflict or inconsistency Provisions of this Act between the provisions of this Act and the provisions of la prevail. any other enactment the provisions of this Act shall prevail.
+**45.** The provisions of this Act shall apply notwithstanding anything to the contrary contained in any contract of tenancy, and in case any of the provisions of a contract of tenancy are inconsistent with any of the provisions of this Act the contract shall be read and construed so as to be consistent with the provisions of this Act.
+
+*Provisions of this Act la prevail.*
+
+4 6 . 4 1 ) Where there is any conflict or inconsistency between the provisions of this Act and the provisions of any other enactment the provisions of this Act shall prevail.
 
 (2) Subject as aforesaid, the provisions of this Act shall be in addition to, and not in derogation of, any of the provisions of any other enactment relating to landlords and tenants.
 
-47.41) Subject to the provisions of this section, the Application provisions of this Act shall apply to any subsisting contract to subsiat- :s;d - Ing tenan-of tenancy as they apply to any contract of tenancy entered into after the 1st day of June, 1949. pIovIsIom. 33/1955 ( 2 ) The provisions of section 3 and of subsection %64 S. 9 (1) (a). (I) of section 4 and of subsection (1) of section 5 shall not apply to any subsisting contract of tenancy.
+*Application to subsiat- :s;d - Ing tenan-*
+
+*pIovIsIom. 33/1955*
+
+47.41) Subject to the provisions of this section, the provisions of this Act shall apply to any subsisting contract of tenancy as they apply to any contract of tenancy entered into after the 1st day of June, 1949.
+
+*%64 S. 9 (1) (a).*
+
+( 2 ) The provisions of section 3 and of subsection (I) of section 4 and of subsection (1) of section 5 shall not apply to any subsisting contract of tenancy.
 
 *5211 964 s.9(1)(b).*
 
@@ -832,19 +886,15 @@ before and in the presente of-
 
 SECOND SCHEDmE (section 20 (2) ) ( I ) Notice to Quir by Landlord To
 
-1 hereby (as agent or solicitor for X.Y. your landlord and on his behalf) give you notice to quit and deliver up possession on the day of 19 , of the small holding situated at in the parish of in the Island of Jamaica which you hold of mejhim as tenant thereof under a contract of tenancy dated the day of 19 , under the provisions of the Agricultural Small Holdings Act. This tenancy is being terminated for the following reasons-
-
 *.*
 
-Dated the day of 19
+1 hereby (as agent or solicitor for X.Y. your landlord and on his behalf) give you notice to quit and deliver up possession on the day of 19 , of the small holding situated at in the parish of in the Island of Jamaica which you hold of mejhim as tenant thereof under a contract of tenancy dated the day of 19 , under the provisions of the Agricultural Small Holdings Act. This tenancy is being terminated for the following reasons-Dated the day of 19
 
 (2) Notice to Quit by Tenant To
 
-I hereby (as agent or solicitor for X.Y. your tenant and on his
-
 *.*
 
-behalf) give you notice that it is my/his intention to quit and dcliver up pssession on the day of 19 of the small holding situated at in the parish of in the Island of Jamaica now held by mejhim as your tenant under a contract of tenancy dated the day of 19 , under the provisions of the Agricultural Small Holdings Act.
+I hereby (as agent or solicitor for X.Y. your tenant and on his behalf) give you notice that it is my/his intention to quit and dcliver up pssession on the day of 19 of the small holding situated at in the parish of in the Island of Jamaica now held by mejhim as your tenant under a contract of tenancy dated the day of 19 , under the provisions of the Agricultural Small Holdings Act.
 
 This tenancy is being terminated for the following reason& day of Dated the 19
 

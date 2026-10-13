@@ -92,15 +92,23 @@ Conirol of Purchose, Sale and Exportation of Bananas
 
 **29.** Rules.
 
-LpWl 24 of 1953, THE BANANA BOARD ACT 16 of 1955, 41 of 1958, 17 of 1%0. [ I s October, 1953.1 lbof19dS, Acts
+*LpWl 24 of 1953, 16 of 1955, 41 of 1958, 17 of 1%0. lbof19dS, Acts*
 
-24 01 1969 b d Sch. 23 d WO, Preliminary 12 or i m %b.
+### THE BANANA BOARD ACT
+
+[ I s October, 1953.1
+
+*24 01 1969 b d Sch. 23 d WO, 12 or i m %b.*
+
+Preliminary
+
+*Short title*
 
 **1.** This Act may be cited as the Banana Board Act.
 
-Short title
+*Interpretation*
 
-**2.** In this Act, unlws the context otherwise requires-tion Interpreta-
+**2.** In this Act, unlws the context otherwise requires-
 
 “agent” means an agent of the Board and includes any Government department acting for and on behalf of the Board;
 
@@ -110,11 +118,15 @@ Short title
 
 “the Board” means the Banana Eoard established in accordance with this Act;
 
-“chairman” means chairman of the Board, and includes g3Y.970 the acting chairman;
+*g3Y.970*
+
+“chairman” means chairman of the Board, and includes the acting chairman;
 
 “export” means to take or cause to be taken out of this Island or the territorial waters thereof;
 
-“limited purchasing order” means an order in writing 1611965 *’ relating to the quantity of bananas which the Board will purchase from the person to whom such order is addressed in respect of a particular banana cultivation, during any period specified in the order;
+*\\*’*
+
+“limited purchasing order” means an order in writing 1611965 relating to the quantity of bananas which the Board will purchase from the person to whom such order is addressed in respect of a particular banana cultivation, during any period specified in the order;
 
 “member” means member of the Board and includes 1711960 chairman;
 
@@ -126,7 +138,9 @@ Establishment and Constirurion of Board
 
 Establish- 3 . 4 1 ) There shall be established for the purposes of ment and
 
-composition this Act a body to be called the Banana Board.
+this Act a body to be called the Banana Board.
+
+composition
 
 (2) The Board shall be appointed by the Minister 1611463
 
@@ -176,21 +190,19 @@ which shall not exceed three years.
 
 tion.
 
-chairman, may at any time resign his office by instrument
-
 *_ -*
 
-__. ~ [The inclmm of this page IS authorid by L N 87/19861 ~ ~
+chairman, may at any time resign his office by instrument __. ~ [The inclmm of this page IS authorid by L N 87/19861 ~ ~
 
 in writing addressed to the Minister and transmitted through the chairman, and from the date of the receipt by the Minister of such instrument, such member shall cease to be a member of the Board.
 
 (2) The chairman may at any time resign his office by instrument in writing addressed to the Minister and such resignation shall take effect as from the date of the receipt of such instrument by the Minister.
 
-**7.** (1) The Minister if he thinks it expedient so to do membm: Removalof may at any time remove any member from office.
+**7.** (1) The Minister if he thinks it expedient so to do Removalof membm: may at any time remove any member from office.
 
 tanporary chaimsn.
 
-(2) In the event of the absence or inability to act i7/1960 of the chairman the Minister may appoint any person to s. 2 (1). act temporarily as chairman; and subject to the conditions (if any) of his appointment a person so appointed shall while so acting have all the powers and be liable to perform all the duties of the chairman; but where an appointment under this subsection is made by reason of the absence from Jamaica of the chairman in the course of the performance of the functions of his office as such, this subsection shall not operate to invalidate anything done by him in the course of such performance during such absence.
+(2) In the event of the absence or inability to act i7/1960 s. 2 (1). of the chairman the Minister may appoint any person to act temporarily as chairman; and subject to the conditions (if any) of his appointment a person so appointed shall while so acting have all the powers and be liable to perform all the duties of the chairman; but where an appointment under this subsection is made by reason of the absence from Jamaica of the chairman in the course of the performance of the functions of his office as such, this subsection shall not operate to invalidate anything done by him in the course of such performance during such absence.
 
 **8.** The names of all members of the Board and every PubIia-change in the membership thereof shall be published in the Guzetfe. sblp of Board.
 
@@ -228,15 +240,23 @@ chairman, shall preside at meetings of the Board; in the case of the absence of 
 
 S. 5 (b).
 
-(5) Subject to the foregoing provisions of this section the Board shall have the power to regulate their own proceedings.
+*section own*
 
-(6) The validity of any proceeding of the Board shall not be affected by any vacancy amongst the members thereof or by any defect in the appointment of a member thereof.
+(5) Subject to the foregoing provisions of this the Board shall have the power to regulate their proceedings.
+
+*thereof thereof.*
+
+(6) The validity of any proceeding of the Board shall not be affected by any vacancy amongst the members or by any defect in the appointment of a member
 
 Functions, Duties and Powers of Board
 
-**11.** Apart from any functions of the Board under the Functions of Board. Banana Insurance Act, it shall be their duty-
+*Banana*
 
-16/1965 (U) to promote the interests and efficiency of the S. '. banana industry of this Island and to assist in the development of that industry;
+**11.** Apart from any functions of the Board under the Functions of Board. Insurance Act, it shall be their duty-
+
+16/1965 S. '. to promote the interests and efficiency of the (U)
+
+banana industry of this Island and to assist in the development of that industry;
 
 (b) to secure the most favourable arrangements for the purchase, handling, transportation, exprta-
 
@@ -254,47 +274,61 @@ tions-
 
 (iii) for the development of bananas wholly or partially immune to disease.
 
-\1241) Subject to the provisions of this Act, the ~ ~ ~ r r a l Board shall have power, for the purpose of the discharge g T 2 : O f of their duty under section 11-
+*Board of their*
 
-(a) to carry on all activities the carrying on whereof appears to them to be requisite, advantageous or
+\1241) Subject to the provisions of this Act, the ~ ~ ~ r r a l g T 2 : O f shall have power, for the purpose of the discharge duty under section 11-
+
+to carry on all activities the carrying on whereof appears to them to be requisite, advantageous or
 
 me inclusion of this paw is authorizal by L.N. 480/19731
 
 convenient for or in connection with the discharge of their said duty;
 
-(b) to do anything and to enter into any transaction (whether or not involving expenditure, borrowing, granting of loans or investment of money, the acquisition of any property or rights or the disposal of any property or rights) which in their opinion is calculated to facilitate the proper discharge of their functions under this Act or is 16/1%5
+*16/1%5 s. 2.*
 
-s. 2.
+(b) to do anything and to enter into any transaction (whether or not involving expenditure, borrowing, granting of loans or investment of money, the acquisition of any property or rights or the disposal of any property or rights) which in their opinion is calculated to facilitate the proper discharge of their functions under this Act or is incidental or conducive thereto.
 
-incidental or conducive thereto.
+( 2 ) In particular, and without prejudice to the generality of the foregoing, the Board shall have power-to control and fix the prices to be paid from time (a)
 
-( 2 ) In particular, and without prejudice to the generality of the foregoing, the Board shall have power-
-
-(a) to control and fix the prices to be paid from time to time to growers, producers or agents for bananas and to arrange for these prices to be notified in such manner as the Board shall think fir
+to time to growers, producers or agents for bananas and to arrange for these prices to be notified in such manner as the Board shall think fir
 
 (b) subject to the provisions of the Agricultural Produce Act, to regulate from time to time the grading for sale in the Island for export, of bananas grown or produced in the Island and to 'arrange for any such grading to be notified in such manner as the Board shall think fit.
 
-13.41) ~ Subject ~ to the provisions ~ of subsection (2) the ~ ~ ~ w i ~ powers.
+*~ ~ ~ powers. Board 171 I960 s. 2 (1). any of s. 2. 161196\* tions*
 
-Board may borrow sums required by them for meeting 171 I960
+13.41) ~ Subject ~ to the provisions ~ of subsection (2) the w i ~ may borrow sums required by them for meeting their obligations or discharging any of their func-under this Act.
 
-s. 2 (1). any of their obligations or discharging any of their func-s. 2.
-
-161196* tions under this Act.
+*s. 2. the under*
 
 (2) The Board shall not borrow any sums whereby 1611965
 
-s. 2. the aggregate amount outstanding on loan to the Board under this Act at any one time exceeds two hundred thousand dollars without the approval of the Minister, as to the amount, as to the sources of the borrowing and as to the terms on which the borrowing may be effected and
+*to the to the*
+
+aggregate amount outstanding on loan to the Board this Act at any one time exceeds two hundred thousand dollars without the approval of the Minister, as amount, as to the sources of the borrowing and as terms on which the borrowing may be effected and
 
 an approval given in any respect for the purposes of this subsection may be either unconditional or subject to con-ditions.
 
-1 4 . 4 1 ) With the approval of the House of Represent- p . - o f lnlstcr atives the Minister responsible for finance may guarantee, mpoe in such manner and on such conditions as he may think i b l e for fit, the payment of the principal and of interest on any authorized borrowings of the Board under this Act. by the Board.
+*p . - o f lnlstcr mpoe i b l e for*
 
-(2) Where the Minister responsible for finance is satisfied that there has been default in the repayment of :6/;,965 any principal moneys or interest guaranteed under the provisions of this section, he shall direct repayment out of the Consolidated Fund and assets of this Island of the amount in respect of which there has been such default.
+*by the Board.*
 
-\1541) The Board shall make to the Accountant- Repay-General, at such times and in such manner as the Minister ment of sums may direct, payments of such amounts as may be so directed in or towards repayment of any sums issued w; tm in fulfilment of any guarantee given under section 14, and dv-. payments of interest on what is outstanding for the time being in respect of any sums so issued, at such rate as the Minister may direct, and different rates of interest may ,,/,4MI be directed as respects different sums and as respects S. z (I). interest for different periods.
+1 4 . 4 1 ) With the approval of the House of Represent-atives the Minister responsible for finance may guarantee, in such manner and on such conditions as he may think fit, the payment of the principal and of interest on any authorized borrowings of the Board under this Act.
 
-( 2 ) Any sum advanced (whether before or after the commencement of this Act) by the Government of this Island or of the United Kingdom for the benefit of the banana industry of this Island shall, for the purposes of S. 1-5/1965
+*:6/;,965*
+
+(2) Where the Minister responsible for finance is satisfied that there has been default in the repayment of any principal moneys or interest guaranteed under the provisions of this section, he shall direct repayment out of the Consolidated Fund and assets of this Island of the amount in respect of which there has been such default.
+
+*Repayment of sums*
+
+*w; tm dv-.*
+
+*,,/,4MI S. z (I).*
+
+\1541) The Board shall make to the Accountant-General, at such times and in such manner as the Minister may direct, payments of such amounts as may be so directed in or towards repayment of any sums issued in fulfilment of any guarantee given under section 14, and payments of interest on what is outstanding for the time being in respect of any sums so issued, at such rate as the Minister may direct, and different rates of interest may be directed as respects different sums and as respects interest for different periods.
+
+*S. 1-5/1965*
+
+( 2 ) Any sum advanced (whether before or after the commencement of this Act) by the Government of this Island or of the United Kingdom for the benefit of the banana industry of this Island shall, for the purposes of
 
 **2.** this Act and for all other purposes, be deemed to be borrowed by the Board under this Act and the amount outstanding on such sum and the interest thereon shall be repayable by the Board as if it were a sum issued in fulfilment of a guarantee given under section 14.
 
@@ -324,19 +358,23 @@ lS.-(l) The Board may delegate to the chairman such of their functions under thi
 
 (if any) as they think proper.
 
-( 2 ) The Board for the purpose of the performance
-
 *s. 2.*
 
-of any of their functions under this Act may appoint com- 1611965
+( 2 ) The Board for the purpose of the performance of any of their functions under this Act may appoint com- 1611965
 
 mittees each consisting of a member or members of the Board and such other persons as appear to the Board to be appropriate, and may delegate to any such committee such functions subject to such conditions and restrictions as may be specified in the resolution of appointment; and in reIation to such other persons section 16 shall have the like effect as it has in relation to members.
 
-(3) Nothing in this section shall be deemed to authorize the Board to delegate to the chairman or any i 7 ; i s o committee the power to make regulations or to do any s. 2 (I). act involving extraordinary expenditure or to control or fix the price of bananas.
+*i 7 ; i s o*
 
-**19.** It shall be lawful for the Board to demand from the ACCESS~O Commissioner of Customs and Excise or any officer of his informa-tionfrom department or from any Inspector of Agricultural Produce Commis- . 5,Lmcr Of such informalion cither written or oral as may from time 2;;yC;* to time be necessary to enable them to exercise or perform and their functions or duties under this Act and it shall be the Inspector of Agricul. duty of the Commissioner of Customs and Excise or any E&e, such officer or Inspector of Agricultural Produce to supply 12/1985 sch. any such information to the best of his ability.
+(3) Nothing in this section shall be deemed to authorize the Board to delegate to the chairman or any committee the power to make regulations or to do any act involving extraordinary expenditure or to control or fix the price of bananas.
 
-**20.** The Board may, with the approval of the Minister, Regulations. make regulations generally for the better carrying out of the purposes of this Act and in particular but without prejudice to the generality of the foregoing may make regulations providing for-
+*ACCESS~O informa-tionfrom Commis- . 5,Lmcr Of 2;;yC;\* and of Inspector Agricul. E&e, 12/1985 sch.*
+
+**19.** It shall be lawful for the Board to demand from the Commissioner of Customs and Excise or any officer of his department or from any Inspector of Agricultural Produce such informalion cither written or oral as may from time to time be necessary to enable them to exercise or perform their functions or duties under this Act and it shall be the duty of the Commissioner of Customs and Excise or any such officer or Inspector of Agricultural Produce to supply any such information to the best of his ability.
+
+*Regulations.*
+
+**20.** The Board may, with the approval of the Minister, make regulations generally for the better carrying out of the purposes of this Act and in particular but without prejudice to the generality of the foregoing may make regulations providing for-
 
 (a) the registration of persons growing or producing bananas in this Island and for the manner in which records of thp quantities of bananas grown or produced by such persons shall be kept;
 
@@ -350,9 +388,7 @@ mittees each consisting of a member or members of the Board and such other perso
 
 members
 
-for any act or default of the Board done or omitted to be lh/ 1965 done in good faith in the course of any of the various s. 2.
-
-operations of the Board.
+for any act or default of the Board done or omitted to be lh/ 1965 done in good faith in the course of any of the various operations of the Board.
 
 Powers of 22. The Minister may, after consultation with the chair-hlinirter.
 
@@ -390,43 +426,43 @@ Reserve
 
 2 4 . 4 1 ) The Board shall establish a reserve fund. fund.
 
-(2) The management of the said fund, the sums to be carried from time to time to the credit thereof, and the application thereof, shall be as the Board may determine, so, however, that no part of the said funds shall be applied otherwise than for carrying out the purposes of the Board s. 2.
-
-under this Act.
+(2) The management of the said fund, the sums to be carried from time to time to the credit thereof, and the application thereof, shall be as the Board may determine, so, however, that no part of the said funds shall be applied otherwise than for carrying out the purposes of the Board under this Act.
 
 ____ ___._
 
 ### BANANA BOAD
 
-**25.** Moneys standing to the credit of the Board under Invest-this Act may from time to time be invested in any securities ments. 16,1965 in which trustees are by statute authorized to invest in this s. 2. Island or elsewhere.
+**25.** Moneys standing to the credit of the Board under Invest-ments. this Act may from time to time be invested in any securities 16,1965 in which trustees are by statute authorized to invest in this Island or elsewhere.
 
 **26.** The Board shall keep proper accounts in a form Awounta and audit. which shall conform with the best commercial standards of their receipts, payments, credits and liabilities and shall submit the same from time to time with vouchers to a duly qualified auditor to be audited.
 
-**27.** (1) The Board shall in each year prepare and repurl Annual and present on or before the 1st day of July to the Minister eshlmatss. a report of their proceedings during the twelve months it:;:; (b), ending on the 31st day of December in the preceding year, including a complete report of their financial position in such form as to secure the provision of separate information in respect of each of the main activities of the Board.
+**27.** (1) The Board shall in each year prepare and Annual repurl and present on or before the 1st day of July to the Minister eshlmatss. it:;:; (b), a report of their proceedings during the twelve months ending on the 31st day of December in the preceding year, including a complete report of their financial position in such form as to secure the provision of separate information in respect of each of the main activities of the Board.
 
 (2) A copy of such report shall be laid on the Table of the House of Representatives and of the Senate and shall be published in the Gazette and in a daily newspaper circulating in the Island :
 
-Rovided that such separate information referred to in s. 1611965
+Rovided that such separate information referred to in 1611965 s.
 
 **2.** subsection (1) as relates to the activities of the Board under the Banana Insurance Act shall be excluded from such publication.
 
-(3) The Board shall, as soon as may be practicable it: ,; (d), after the 1st day of October in each year, publish in a daily newspaper circulating in the Island, their estimates of revenue and expenditure under this Act in respect of ,6/,965 the period commencing on the 1st day of January in the s. 2. following year and ending on the 31st day of December of the same year.
+it: ,; (d),
+
+(3) The Board shall, as soon as may be practicable after the 1st day of October in each year, publish in a daily newspaper circulating in the Island, their estimates of revenue and expenditure under this Act in respect of ,6/,965 the period commencing on the 1st day of January in the following year and ending on the 31st day of December of the same year.
 
 Control of Purchase, Sale and Exportation of Bananas
 
-28.41) From and after the commencement of this Penalties.
+*Penalties.*
 
-Act-
+28.41) From and after the commencement of this Act-
 
-(a) no person shall, without the written permission of the Board, purchase from or sell to any person other than the Board any bananas;
+no person shall, without the written permission of the Board, purchase from or sell to any person other than the Board any bananas;
 
 (6) the Board shall, upon being required so to do by the owner of any bananas suitable, in the opinion of an Inspector of Agricultural Produce, for export, purchase such bananas at the then current prices fixed by the Board in accordance with this Act:
 
+*s. 2.*
+
 1611965
 
-Provided that the Board shall not be bound to s. 2.
-
-purchase bananas from any person who contravenes any regulations for the time being in force relating to the registration of banana growers;
+Provided that the Board shall not be bound to purchase bananas from any person who contravenes any regulations for the time being in force relating to the registration of banana growers;
 
 (c) no person other than the Board shall export or attempt to export any bananas :
 
@@ -434,7 +470,9 @@ Provided, however, that the Board may grant permission in writing to any person 
 
 (2) In this section “Inspector of Agricultural Produce” means an Inspector of Agricultural Produce appointed under the Agricultural Produce Act.
 
-s. 2. 16/1%5 (3) Notwithstanding the provisions of paragraph
+*s. 2. 16/1%5*
+
+(3) Notwithstanding the provisions of paragraph
 
 (b) of subsection (11, it shall be lawful for the Board from time to time, to issue limited purchasing orders to any person who cultivates fifteen acres or more of bananas, and the Board may refuse to purchase from that person any bananas in excess of the quantity specified in such limited purchasing orders during the relevant period.
 

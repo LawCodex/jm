@@ -22,25 +22,19 @@ retrieved: 2026-10-13
 
 A DMlNlSTRA TOR-GENERA L
 
-**34.** Writs, plaints, summonses, notices, pleadings, process, HO;~;CCM and all other documents in any legal or other proceeding him.
+*HO;~;CCM him.*
 
-by or against the Administrator-General, may be served by being left at his office, and such service shall have the same effect BS if it had been made personally.
+**34.** Writs, plaints, summonses, notices, pleadings, process, and all other documents in any legal or other proceeding by or against the Administrator-General, may be served by being left at his office, and such service shall have the same effect BS if it had been made personally.
 
-si"*
+*si"\* Judmmfr.*
 
-**35.** All judgments, decrees, or orders, recovered or made Judmmfr.
+*winat him.*
 
-in any legal proceeding by or against the Administrator-
+**35.** All judgments, decrees, or orders, recovered or made in any legal proceeding by or against the Administrator-General, shall be in the same form and subject to this Act, shall have the same effect as such judgments, decrees, or orders would have had under similar circumstances, if this Act had not been passed, against a private person occupy-ing, in relation to such proceedings, a position similar to that of the Administrator-General.
 
-General, shall be in the same form and subject to this Act, winat shall have the same effect as such judgments, decrees, or him.
+*Execution mina1 him.*
 
-orders would have had under similar circumstances, if this Act had not been passed, against a private person occupy-
-
-ing, in relation to such proceedings, a position similar to that of the Administrator-General.
-
-**36.** No execution shall issue without the leave of the Execution Supreme Court on any judgment, decree, or order against mina1 him.
-
-the Administrator-General, but it shall be the duty of the Administrator-General, unless an order is made under the immediately following section, to pay forthwith the amount of such judgment, decree, or order, and costs (if any) in the same way, to the Same extent, that a private person, under similar circumstances, would be bound to pay the amount of such a judgment, decree, or order and mts:
+**36.** No execution shall issue without the leave of the Supreme Court on any judgment, decree, or order against the Administrator-General, but it shall be the duty of the Administrator-General, unless an order is made under the immediately following section, to pay forthwith the amount of such judgment, decree, or order, and costs (if any) in the same way, to the Same extent, that a private person, under similar circumstances, would be bound to pay the amount of such a judgment, decree, or order and mts:
 
 Provided, that if a private person, under similar circumstances, would be personally liable on such judgment, decree, or order, and would be entitled to recoup himself out of the estate or trust in respect of which it was recovered, the Administrator-General may in the first instance pay the amount of such judgment, decree, or order, and costs, out of the estate or trust in respect of which it was recovered, to the extent that such private person would be so entitled to be recouped :
 
@@ -62,31 +56,25 @@ And provided further, that it shall be lawful for the Supreme Court, if it think
 
 received by him, be paid into the Treasury and shall form part of the Consolidated Fund.
 
-**50.** When the Administrator-General is appointed by the Bununcn-
+*Bununcn-tim aa gz$h, reaivetot :zt,=,*
 
-*aa*
+**50.** When the Administrator-General is appointed by the Supreme Court receiver of any estate, he shall receive the same remuneration that any other person would have been entitled to, if appointed receiver under similar circumstances; and when he is a CO-trustee, co-guardian, or oo-committee, he shall be entitIed to deduct the same fees as if he were the sole trustee, guardian, or committee.
 
-Supreme Court receiver of any estate, he shall receive the tim gz$h, reaivetot same remuneration that any other person would have been :zt,=, entitled to, if appointed receiver under similar circumstances;
+*G0-t to mvldc o&,clerlra c x nsss d of,,&m- : e ' o \**
 
-and when he is a CO-trustee, co-guardian, or oo-committee, he shall be entitIed to deduct the same fees as if he were the sole trustee, guardian, or committee.
+**51.** The Government shall provide the Administrator-General with a suitable office, and with such clerks and assistants as may from time to time be necessary; and all expenses of the said office, and all expenses incurred by the Administrator-General in and about the performance of the duties of his office shall be defrayed out of the Consolidated Fund.
 
-**51.** The Government shall provide the Administrator- G0-t to mvldc General with a suitable office, and with such clerks and o&,clerlra assistants as may from time to time be necessary; and all d of,,&m-c x nsss
+*272-a-*
 
-expenses of the said office, and all expenses incurred by the : e ' o * Administrator-General in and about the performance of the duties of his office shall be defrayed out of the Consolidated Fund.
-
-272-
-
-**52.** When, in the performance of the duties of his office, the Administrator-General has incurred any expense, or a-made himself liable to any claim or demand, and there is no fund out of which he may or can lawfully recoup or re-
-
-imburse himself in respect of the same, then, on any Judge of the Supreme Court certifying that such expense was properly and reasonably incurred, or that such liability was properly and reasonably undertaken as aforesaid, it shall be lawful for the Minister to order that such expense shall be reimbursed out of, or such liability be assumed by. the Consolidated Fund and assets of the Island. T h e provisions of this section shall apply to the Deputy Administrator-General in the same manner as they apply to the Administrator-General. -
+**52.** When, in the performance of the duties of his office, the Administrator-General has incurred any expense, or made himself liable to any claim or demand, and there is no fund out of which he may or can lawfully recoup or reimburse himself in respect of the same, then, on any Judge of the Supreme Court certifying that such expense was properly and reasonably incurred, or that such liability was properly and reasonably undertaken as aforesaid, it shall be lawful for the Minister to order that such expense shall be reimbursed out of, or such liability be assumed by. the Consolidated Fund and assets of the Island. T h e provisions of this section shall apply to the Deputy Administrator-General in the same manner as they apply to the Administrator-General. -
 
 RL-3
 
 ### ADMINISTRA TOR-GENERAL
 
-*Adminis tration of assets of deceased in the hands of the*
+*Adminis tration of assets of deceased in the hands of the Govcmmcnt.*
 
-**53.** \-(1) The assets of any person dying in this Island or abroad, which shall be in or pass into the possession of the Government of this Island, and for which provision is not Govcmmcnt. otherwise made, shall be delivered to the Administrator-General, unless within six weeks of the same coming into possession of the Government, or the death of the deceased person, whichever shall last happen, probate of the will of such deceased person, or Letters of Administration on the estate and effects of such deceased person be produced to the Minister.
+**53.** \-(1) The assets of any person dying in this Island or abroad, which shall be in or pass into the possession of the Government of this Island, and for which provision is not otherwise made, shall be delivered to the Administrator-General, unless within six weeks of the same coming into possession of the Government, or the death of the deceased person, whichever shall last happen, probate of the will of such deceased person, or Letters of Administration on the estate and effects of such deceased person be produced to the Minister.
 
 *s. 8 (a).*
 

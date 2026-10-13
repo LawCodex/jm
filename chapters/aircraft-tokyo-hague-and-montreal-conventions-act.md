@@ -94,15 +94,19 @@ AII((,'lUFi (I'OKYO, HAGUE AN13 M O N T I N A L CON VI&lt;NTION,Y)
 
 AZR('KAFT (TOKYO. HA(; I//:' AND MONTHI:AZ, (.'ON bEN770NS)
 
+*THE*
+
 *.\cts 4 o f 1984, 18 o f 2005 2nd Sch.*
 
-### THE AIRCRAFT (TOKYO, HAGUE AND MONTREAL CONVENTIONS) ACT
+### AIRCRAFT (TOKYO, HAGUE AND MONTREAL CONVENTIONS) ACT
 
 ## PART I. Pi-t.limintri-y
 
 *Shorrtlrlc*
 
-**1.** This Act may be cited as the Aircraft (Tokyo, Hague, and Montreal Conventions) Act.
+*and*
+
+**1.** This Act may be cited as the Aircraft (Tokyo, Hague, Montreal Conventions) Act.
 
 *tnterprstn-tion.*
 
@@ -140,19 +144,29 @@ entitled as owner to any legal or beneficial interest in it satisfies the follow
 
 "the Montreal Convention" means the Convention for the Suppression of Unlawfbl Acts Against the Safety of Civil Aviation, done at Montreal on the 23rd day of September, 1971;
 
-"the Tokyo Convention" means the Convention on Offences and Certain Other Acts Committed on Board Aircraft, done at Tokyo on the 14th day of September, 1963.
+*"the*
 
-( 2 ) [Deleted - vide the Extradition Act, Act 7 of 1991.1
+Tokyo Convention" means the Convention on Offences and Certain Other Acts Committed on Board Aircraft, done at Tokyo on the 14th day of September, 1963.
 
-(3) Any reference in this Act to military service in-cludes a reference to naval or air force service.
+*( 2*
+
+) [Deleted - vide the Extradition Act, Act 7 of 1991.1
+
+*cludes a*
+
+(3) Any reference in this Act to military service in-reference to naval or air force service.
 
 (4) The Minister may, by order, direct-
 
-(a) that this Act, subject to such modifications as may be specified in the order, shall apply to any State aircraft;
+that this Act, subject to such modifications as (a)
+
+may be specified in the order, shall apply to any State aircraft;
 
 (b) that any aircrafi operated by the Government be treated, to such extent and subject to such modifi-cations of this Act as may be specified in the order, as excepted from the whole or any part of the provisions of this Act.
 
-## PART II. Provisions giving Eflect to the Tobo Convention
+*PART*
+
+II. Provisions giving Eflect to the Tobo Convention
 
 *Interprets-*
 
@@ -186,9 +200,13 @@ in Jamaica, would constitute an offence under the law in force in Jamaica shall 
 
 (2) Subsection (1) shall not apply to any act which is, by or under the law in force in Jamaica, expressly or impliedly authorized when taking place outside Jamaica.
 
-**5.** For the purpose of conferring jurisdiction, any offence Extension of Jamaican under the law in force in Jamaica, being an offence lo,al committed on board an aircraft in flight, shall be deemed to have been committed in any place in Jamaica where the offender may for the time being be.
+*Extension of Jamaican lo,al*
 
-6 . 4 1 ) If the commander of an aircraft in flight has Powersot aircraft reasonable grounds to believe in respect of any person on c,,m,d,, board the aircraft that the person in question has committed or is about to commit any criminal offence or has done or is about to do on the aircraft any act which jeopardizes or may jeopardize-
+**5.** For the purpose of conferring jurisdiction, any offence under the law in force in Jamaica, being an offence committed on board an aircraft in flight, shall be deemed to have been committed in any place in Jamaica where the offender may for the time being be.
+
+*Powersot aircraft c,,m,d,,*
+
+6 . 4 1 ) If the commander of an aircraft in flight has reasonable grounds to believe in respect of any person on board the aircraft that the person in question has committed or is about to commit any criminal offence or has done or is about to do on the aircraft any act which jeopardizes or may jeopardize-
 
 (a)~ the safety of the aircraft or of persons or property on board the aircraft; or
 
@@ -214,27 +232,27 @@ in Jamaica, would constitute an offence under the law in force in Jamaica shall 
 
 *Provisions*
 
-**7.** (1) Where a person is under restraint on an aircraft
-
 *to powers under section 6.*
 
-pursuant to section 6, the commander of the aircraft shall as soon as practicable, and if possible before landing in any country, notify the authorities in that country of the fact that a person on board is under restraint and of the reasons for such restraint.
+**7.** (1) Where a person is under restraint on an aircraft pursuant to section 6, the commander of the aircraft shall as soon as practicable, and if possible before landing in any country, notify the authorities in that country of the fact that a person on board is under restraint and of the reasons for such restraint.
 
 (2) Any restraint imposed on any person on board an aircraft under the powers conferred by section 6 shall not be continued after the time when the aircraft first thereafter ceases to be in flight other than-
 
-(a) for any period (including the period of any further flight) between that time and the first occasion thereafter on which the commander is able with any reqdisite consent of the appropriate autho-rities to disembark or deliver the person under restraint in accordance with subsection (3); or
+(a) for any period (including the period of any further flight) between that time and the first occasion thereafter on which the commander is able with any reqdisite consent of the appropriate autho-rities to disembark or deliver the person under restraint in accordance with subsection (3); or (b) if the person under restraint agrees to continue his journey under restraint on board that aircraft.
 
-(b) if the person under restraint agrees to continue his journey under restraint on board that aircraft.
+*person*
 
-(3)l The commander of an aircraft if in the case of any person on board the aircraft he has reasonable grounds-
+(3)l The commander of an aircraft if in the case of any on board the aircraft he has reasonable grounds- (a) to believe as mentioned in subsection (1) of section 6; and
 
-(a) to believe as mentioned in subsection (1) of section 6; and
+*may aircraft having*
 
-(b) to believe that it is necessary so to do in order to protect the safety of the aircraft or of persons or property on board the aircraft or to maintain good order and discipline on board the aircraft, may disembark that person in any country in which that aircraft may be and, if convenient, deliver him to a 'person having the function of a constable or immigration officer.
+(b) to believe that it is necessary so to do in order to protect the safety of the aircraft or of persons or property on board the aircraft or to maintain good order and discipline on board the aircraft, disembark that person in any country in which that may be and, if convenient, deliver him to a 'person the function of a constable or immigration officer.
 
 (4) The commander of an aircraft-
 
-(a)\ if he disembarks any person in pursuance of subsection (3), in the case of a Jamaican-controlled aircraft, in any country or, in the case of any other aircraft, in Jamaica, shall report the fact of, and the reasons for, that disembarkation to the autho-rities in the country of disembarkation and shall also request the authorities to notify a diplomatic or consular representative of the country of nationality of that person; or
+*(a)\*
+
+if he disembarks any person in pursuance of subsection (3), in the case of a Jamaican-controlled aircraft, in any country or, in the case of any other aircraft, in Jamaica, shall report the fact of, and the reasons for, that disembarkation to the autho-rities in the country of disembarkation and shall also request the authorities to notify a diplomatic or consular representative of the country of nationality of that person; or
 
 (b) if he delivers any person in pursuance of subsection (3), shall at the time of delivery furnish to the appropriate officer such evidence and information relating to the need to take measures against that
 
@@ -330,11 +348,17 @@ IS.--+) In this Part-
 
 (b) an aircraft shall be taken to be in service during the whole of the period fiom the beginning of the pre flight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after the aircraft lands upon completion of that flight, and also at any time (not falling within that period) while the aircraft is in flight;
 
-(c) the territorial waters of Jamaica shall be treated as part of its territory.
+the territorial waters of Jamaica shall be treated as (c)
 
-*MoYink damaging or en-*
+part of its territory.
 
-**16.** \41) It shall be an offence for any person unlawfully and intentionally-
+*MoYink damaging*
+
+*and*
+
+*or en-*
+
+**16.** \41) It shall be an offence for any person unlawfully intentionally-
 
 (a) to destroy an aircraft in service; or
 
@@ -360,7 +384,9 @@ IS.--+) In this Part-
 
 ### COWENTIONS)
 
-(3) It shall also, subject to subsections (4) and ( 9 , be an offence for any person intentionally to communicate any information which is false, misleading or deceptive in any material particular, where the communication of the information endangers the safety of an aircraft in flight or is likely to endanger the safety of an aircraft in flight.
+*an*
+
+(3) It shall also, subject to subsections (4) and ( 9 , be offence for any person intentionally to communicate any information which is false, misleading or deceptive in any material particular, where the communication of the information endangers the safety of an aircraft in flight or is likely to endanger the safety of an aircraft in flight.
 
 (4) It shall be a defence for a person charged with an offence under subsection (3) to prove that, when he com-municated the information-
 
@@ -370,13 +396,13 @@ IS.--+) In this Part-
 
 (5) Subsections (1) and (3) do not apply to the commission of any act unless either the act is committed in Jamaica or, where it is committed outside Jamaica-
 
-(a) the person committing it is a citizen of Jamaica; or
-
-(h) the commission of the act endangers or is likely to endanger the safety in flight of a civil aircraft registered in Jamaica or chartered by demise to a lessee whose principal place of business, or (if he has no place of business) whose permanent residence is in Jamaica; or
+(a) the person committing it is a citizen of Jamaica; or (h) the commission of the act endangers or is likely to endanger the safety in flight of a civil aircraft registered in Jamaica or chartered by demise to a lessee whose principal place of business, or (if he has no place of business) whose permanent residence is in Jamaica; or
 
 (c) the act is committed on board a civil aircraft which is so registered or so chartered; or
 
-(4 the act is committed on board a civil aircraft which lands in Jamaica with the person who committed the act still on board.
+(4
+
+the act is committed on board a civil aircraft which lands in Jamaica with the person who committed the act still on board.
 
 (6) Subsection (1) also does not apply to any act committed-
 
@@ -412,23 +438,31 @@ in circumstances that safety at the airport becomes or is likely to become endan
 
 ( b ) would, but for subsection (5) or (6) of section 17, be an offence under section 17.
 
-(2) Subsection (1) shall have effect without prejudice to the operation of section 41 of the Criminal Justice (Administration) Act (which relates to aiders and abettors) in
-
 *2nd Sch.*
 
-relation to any offence under section 16, 17 or 17A of this Act.
+(2) Subsection (1) shall have effect without prejudice to the operation of section 41 of the Criminal Justice (Administration) Act (which relates to aiders and abettors) in relation to any offence under section 16, 17 or 17A of this Act.
 
 AIK('NAI4'T (TOKYO. HA (;(I/&lt; A NI) hifON7'1&lt;LAI, (.'ON I.F,.N'l'roN.S)
 
-*Pcnaltirs and juris-dlct~on.*
+*Pcnaltirs and juris-*
 
-**19.** Any person who commits an offence under this Part shall be liable, on conviction on indictment, to imprisonment for life.
+*shall be*
+
+*dlct~on.*
+
+**19.** Any person who commits an offence under this Part liable, on conviction on indictment, to imprisonment
+
+*for life.*
 
 **20.** [Deleted-- vide //7e l:jr/rtrdi/io)l Act, Act 7 of IY91.1
 
-*S o confb-n1ent o f civil*
+*S o confb-n1ent o f*
 
-**21.** Subject to subsection (4) of section 49 of the Interpretation Act, nothing in the provisions of sections 16, 17 and
+*tation*
+
+*civil*
+
+**21.** Subject to subsection (4) of section 49 of the Interpre-Act, nothing in the provisions of sections 16, 17 and
 
 *18-*
 
@@ -440,21 +474,31 @@ AIK('NAI4'T (TOKYO. HA (;(I/&lt; A NI) hifON7'1&lt;LAI, (.'ON I.F,.N'l'roN.S)
 
 ## PART V. General
 
-**22.** \-( 1) [Deleted -. side /he fi;x/r'~~di/ioi~ Acf, Acf 7 qf f YY I.]
+*22.--(*
+
+\1) [Deleted -. side /he fi;x/r'~~di/ioi~ Acf, Acf 7 qf f YY I.]
 
 (2) For the purposes of the Extradition Act, any act (wherever committed)---
 
-( a ) which is an offence under Part 111 or IV, or an attempt to commit such an offence, or would be such an offence or attempt but for subsection (3) of section 12 or subsection (5) or (6) of section 17; and
+*( a*
+
+) which is an offence under Part 111 or IV, or an attempt to commit such an offence, or would be such an offence or attempt but for subsection (3) of section 12 or subsection (5) or (6) of section 17; and
 
 (h) which is an offence against the law of any foreign State in the case of which the Extradition Act applies,
 
-shall be deemed to be an offence committed within the jurisdiction of that State.
+*shall be diction*
 
-*Aircraft operated bv joint or international organiza-tions.*
+deemed to be an offence committed within the juris-of that State.
+
+*Aircraft operated bv*
 
 **23.** If the Minister by order declares-
 
-( a ) that any two or more States named in the order have established an organization or agency which operates aircraft; and
+*( a*
+
+*joint or international organiza-tions.*
+
+) that any two or more States named in the order have established an organization or agency which operates aircraft; and
 
 AIHn(AIg'7' (1'OK Y O . HA(; (/I!' A N l ) MON7'I(l?'AI, (.ON V1~N!7ONAS)
 
@@ -514,11 +558,9 @@ V) the holding of any investigation into unlawful or dangerous acts on board an 
 
 *Piracy.*
 
-**29.** For the avoidance of doubt, it is hereby declared that for the purposes of any proceedings before any court in Jamaica in respect of piracy, the provisions set cut in the
-
 *Schedule.*
 
-Schedule, being provisions of the Convention on the High Seas done at Geneva on the 29th April, 1958, shall be treated as constituting part of the law of nations; and any such court having jurisdiction in respect of piracy committed on the high seas shall have jurisdiction in respect of piracy com-mitted by or against an aircraft wherever that piracy is com-mitted.
+**29.** For the avoidance of doubt, it is hereby declared that for the purposes of any proceedings before any court in Jamaica in respect of piracy, the provisions set cut in the Schedule, being provisions of the Convention on the High Seas done at Geneva on the 29th April, 1958, shall be treated as constituting part of the law of nations; and any such court having jurisdiction in respect of piracy committed on the high seas shall have jurisdiction in respect of piracy com-mitted by or against an aircraft wherever that piracy is com-mitted.
 
 (Section 29) SCHEDULE Provisions of Geneva Convention on the High Seas to be treated as Par! of the Law of 'Vations
 

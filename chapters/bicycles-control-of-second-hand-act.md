@@ -60,7 +60,7 @@ cap. 39. ACT
 
 **1.** This Act may be cited as the Bicycles (Control of s h t t i f l c . Second-hand) Act.
 
-**2.** No person shall deal in (whether by way of purchase, N O ~ C M I sale or exchange) second-hand bicycles and second-hand t Etcond. o dcal in k;t,esor bicycle parts nor shall any person carry on the business of repairing bicycles except in accordance with a licence under rcpalr bicycled this Act.
+**2.** No person shall deal in (whether by way of purchase, N O ~ C M I t Etcond. o dcal in sale or exchange) second-hand bicycles and second-hand k;t,esor bicycle parts nor shall any person carry on the business of repairing bicycles except in accordance with a licence under rcpalr bicycled this Act.
 
 WlKlmout 11FenOc.
 
@@ -106,25 +106,17 @@ Provided that where any person shall be licensed both as a dealer in second-hand
 
 (2) Every licensee who contravenes or fails to comply with the provisions of subsection (1) shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding fifty dollars or to imprisonment with hard labour for any term not exceeding three months.
 
-**8.** (1) Every licensee shall keep such books and shall Books to be
+*Books to be kept by iicsnEc.*
 
-*kept by*
-
-enter therein such particulars in relation to any dealings iicsnEc. by him in second-hand bicycles and in relation to any repairs effected by him as may be prescribed.
+**8.** (1) Every licensee shall keep such books and shall enter therein such particulars in relation to any dealings by him in second-hand bicycles and in relation to any repairs effected by him as may be prescribed.
 
 (2) Every licensee shall permit any constable at all reasonable times to inspect any book required to be kept under subsection (1) and any bicycle or part of a bicycle upon the premises in respect of which he is licensed and shall afford to any constable all such information as may be required in relation to such book or to any dealings by him in second-hand bicycles or parts thereof or to any repairs to bicycles effected or to be effected by him.
 
-9.41) No licensee shall purchase or exchange any Restriction
+*Restriction on purchaac or exchange of sccood-hand bicycle or repair of bicycle.*
 
-*on purchaac or exchange of sccood-*
+9.41) No licensee shall purchase or exchange any second-hand bicycle-
 
-second-hand bicycle-
-
-(a) except between the hours of nine o’clock in the hand
-
-*bicycle or repair of bicycle.*
-
-morning and six o’clock in the evening;
+(a) except between the hours of nine o’clock in the morning and six o’clock in the evening;
 
 ( b ) from or with any person apparently under the age of sixteen years;
 
@@ -180,11 +172,17 @@ assistance as may be necessary to enter (with force if necessary) any premises s
 
 (3) Every licensee who fails to satisfy any Resident Magistrate that his possession of any such bicycle or part of a bicycle was lawfully obtained shall be guilty of an offence against this Act.
 
-**13.** Every person who acts in contravention of any of the ~~~~~l provisions of this Act for which no special punishment is penalty. provided by this Act, shall be guilty of an offence agahst this Act and shall, upon summary conviction before a Resident Magistrate, be liable to a fine not exceeding two hundred dollars or to imprisonment for any term not exceeding twelve months, or to both such fine and imprisonment.
+*~~~~~l penalty.*
 
-**14.** When any person licensed under this Act is con- canceiia-victed of an offence against this Act, the court may, if it tion or suspcngion thinks fit, cancel or suspend the licence of such person. of licencc
+**13.** Every person who acts in contravention of any of the provisions of this Act for which no special punishment is provided by this Act, shall be guilty of an offence agahst this Act and shall, upon summary conviction before a Resident Magistrate, be liable to a fine not exceeding two hundred dollars or to imprisonment for any term not exceeding twelve months, or to both such fine and imprisonment.
 
-**15.** The Minister may make regulations generally for Regulations. the better carrying out of the provisions of this Act, and, without prejudice to the generality of the foregoing power, may make regulations for prescribing anything which by this Act is required to be prescribed.
+*canceiia-tion or suspcngion of licencc*
+
+**14.** When any person licensed under this Act is con-victed of an offence against this Act, the court may, if it thinks fit, cancel or suspend the licence of such person.
+
+*Regulations.*
+
+**15.** The Minister may make regulations generally for the better carrying out of the provisions of this Act, and, without prejudice to the generality of the foregoing power, may make regulations for prescribing anything which by this Act is required to be prescribed.
 
 ### BICYCLES (CONTROL. OF SECOND-HAND)
 

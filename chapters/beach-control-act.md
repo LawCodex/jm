@@ -224,7 +224,9 @@ Rights in the Foreshore and Floor of the Sea
 
 **3.** (1) Subject to the provisions of this section, all rights in Foreshore and over the foreshore of this Island and the floor of the sea are f ?O : : : ; hereby declared to be vested in the Crown. declared to be vested in
 
-(2) All rights in or over the foreshore of this Island or the the Crow. floor of the sea derive from, or acquired under or by virtue of the Registration of Titles Act or any express grant or licence from the crown subsisting immediately before the commencement of this Act are hereby expressly~preserved.
+*the from*
+
+(2) All rights in or over the foreshore of this Island or the the Crow. floor of the sea derive from, or acquired under or by virtue of Registration of Titles Act or any express grant or licence the crown subsisting immediately before the commencement of this Act are hereby expressly~preserved.
 
 (3) Except as provided in section 7, nothing in this Act 2511960 s. 3. contained shall be deemed to affect-
 
@@ -276,17 +278,23 @@ such imprisonment and fine.
 
 (3) Where a company is guilty of a contravention of the provisions of subsection (I), every director, manager, agent and officer of the company in this Island who is knowingly a party to the contravention, shall be liable to the penalty prescribed by subsection (2).
 
-**6.** (1) Where at the 1st June, 1956, any person is Applicatio~i Tor licence encroaching on or using or permitting any encroachment bypersons on or user of the foreshore or the floor of the sea except as using the authorized by this Act, such person may continue or may ~ ~ ~ continue to permit such encroachment or user for a period not the sea at '""'. exceeding six months after the 1st June, 1956, but such person shall, if he intends to continue or to permit the continuance of such encroachment or user for any longer period, apply to the Authority for a licence under this Act within the aforesaid period of six months.
+*Applicatio~i Tor licence bypersons using the ~ ~ ~ '""'. the sea at*
+
+**6.** (1) Where at the 1st June, 1956, any person is encroaching on or using or permitting any encroachment on or user of the foreshore or the floor of the sea except as authorized by this Act, such person may continue or may continue to permit such encroachment or user for a period not exceeding six months after the 1st June, 1956, but such person shall, if he intends to continue or to permit the continuance of such encroachment or user for any longer period, apply to the Authority for a licence under this Act within the aforesaid period of six months.
 
 (2) Any person who applies for a licence pursuant to subsection (1) shall not be deemed to be acting in contravention of subsection (1) of section 5, between the date of application for the licence and the date on which the application is finally disposed of by the grant of the licence or otherwise, by reason only of the continuance of any encroachment or user prohibited by subsection (1) of section 5.
 
 Protected Areas
 
-**7.** (1) Notwithstanding anything to the contrary in this Protected ;z: ;:d Act, the Minister may, upon the recommendation of the Authority, make an order declaring-activities. 2511960
+*;z: ;:d Protected*
 
-(a) any part of the foreshore and the floor of the sea s.4.
+*activities. s.4.*
 
-defined in the order together with the water lying on such part of the floor of the sea to be a protected area for the purposes of this Act; and
+**7.** (1) Notwithstanding anything to the contrary in this Act, the Minister may, upon the recommendation of the Authority, make an order declaring-
+
+2511960
+
+(a) any part of the foreshore and the floor of the sea defined in the order together with the water lying on such part of the floor of the sea to be a protected area for the purposes of this Act; and
 
 (b) such activities as may be specified in the order to be prohibited activities in the area defined in the order, being any or all of the following activities-
 
@@ -312,27 +320,27 @@ bilitation of the area defined in such order.
 
 (3) The provisions of subsection (5) of section 9 (which relate to the laying of regulation before the House of Representatives and the Senate) shall apply to orders made 13 under this section as they apply to regulations made under the said section 9.
 
-(4) The Minister may, if he thinks fit, grant to any person applying therefor, in such form and subject to such conditions as the Minister may think fit, a licence to carry on in any area
-
 *r*
 
-defined in an order made under this section any prohibited activity specified in such order.
+(4) The Minister may, if he thinks fit, grant to any person applying therefor, in such form and subject to such conditions as the Minister may think fit, a licence to carry on in any area defined in an order made under this section any prohibited activity specified in such order.
 
 (5) Every person, not being a person appointed to undertake the conservation, protection or rehabilitation of any '712004 S. 4(c)(i). area defined in an order made under this section, who without a licence from the Minister carries on within such area any activity specified in such order shall be guilty of an offence against this Act and shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding five 1712004 S. 4(c)(ii). hundred thousand dollars.
 
 Construction o f Docks, Whurves, Piers, Jetties, etc.
 
-**8.** Every patent, licence, permit and right expressly granted ~'atcnts, E:";, by the Crown before the 1st June, 1956, for taking up of shoal water and for the erection, construction or maintenance of any rights t::naz. dock, wharf, pier, jetty, structure or other form of encroachment (whether similar to the foregoing or not) on the foreshore or the floor of the sea shall be deemed valid, and it shall not be necessary to obtain any licence therefor under the provisions of this Act during the continuance of such patent, licence, permit or right or during the period of any extension of such patent, licence, permit or right in accordance with the provisions of the original grant.
+**8.** Every patent, licence, permit and right expressly granted ~'atcnts, E:";, by the Crown before the 1st June, 1956, for taking up of shoal water and for the erection, construction or maintenance of any t::naz. rights dock, wharf, pier, jetty, structure or other form of encroachment (whether similar to the foregoing or not) on the foreshore or the floor of the sea shall be deemed valid, and it shall not be necessary to obtain any licence therefor under the provisions of this Act during the continuance of such patent, licence, permit or right or during the period of any extension of such patent, licence, permit or right in accordance with the provisions of the original grant.
 
-**9.** (1) Subject to the provisions of section 8, no person shall Future en-erect, construct or maintain any dock, wharf, pier or jetty on the croachmcnts to be foreshore or the floor of the sea, or any structure, apparatus or authorized :Fr; equipment pertaining to any dock, wharf, pier or jetty and encroaching on the foreshore or the floor of the sea, except appropriate under the authority of a licence granted by the Minister on Minister. behalf of the Crown.
+**9.** (1) Subject to the provisions of section 8, no person shall Future en-croachmcnts erect, construct or maintain any dock, wharf, pier or jetty on the to be foreshore or the floor of the sea, or any structure, apparatus or authorized :Fr; equipment pertaining to any dock, wharf, pier or jetty and encroaching on the foreshore or the floor of the sea, except appropriate under the authority of a licence granted by the Minister on Minister. behalf of the Crown.
 
-(2) Subject to subsection ( 2 ~ ) the Minister may, if he 3 3 1 1 ~ 1 thinks fit, grant to any person applying therefor, in such form S. 22. and subject to such conditions as he may think fit, a licence to erect, construct or maintain any dock, wharf, pier or jetty or any structure, apparatus or equipment as aforesaid.
+(2) Subject to subsection ( 2 ~ ) the Minister may, if he 3 3 1 1 ~ 1 S. 22. thinks fit, grant to any person applying therefor, in such form and subject to such conditions as he may think fit, a licence to erect, construct or maintain any dock, wharf, pier or jetty or any structure, apparatus or equipment as aforesaid.
 
 ( 2 ~ ) Any licence affecting the exclusive economic zone shall be subject to the provisions of the Exclusive Economic Zone Act or any order made under section 11 of that Act.
 
 ( 2 ~ ) A licence shall not be granted under this section unless the Authority has certified that the issue of the licence is not likely to conflict with the public interest in regard to fishing, bathing, recreation or the protection of the environment.
 
-(3) The Minister may make regulations with respect to--
+(3) The Minister may make regulations with respect
+
+*to--*
 
 (a) the form and manner of application for licences to be granted under this section;
 
@@ -346,7 +354,9 @@ Construction o f Docks, Whurves, Piers, Jetties, etc.
 
 (5) All regulations made under this section shall be 4211969
 
-3rd Sch. subject to negative resolution.
+*3rd Sch.*
+
+subject to negative resolution.
 
 (6) The decision of the Minister to grant or refuse a licence under this section shall be final and shall not be questioned in any legal proceeding.
 
@@ -356,13 +366,23 @@ Construction o f Docks, Whurves, Piers, Jetties, etc.
 
 lo. [ / M e l e d hy Acl 9 of 1991, 3rd Sch.]
 
-**11.** (1) Subject to the provisions of sections 3, 4 and 9, and Author~tyto of subsection (2), the Authority may, on application made in ~ ~ C c , l a r ~~~~~~~~~ such manner as may be prescribed under section 18, grant U\L'OI, licences (whether exclusive in character or not) for the use of the foreshore or the floor of the sea for any public purpose, or in seapubli-connection with any business or trade or for any other purpose cat~on ol' ga,vr (whether similar to the foregoing or not) to any person, upon rcfuwl such conditions (including the payment of an annual fee) and in such form as they may think fit.
+*Author~tyto*
 
-(2) Where an application is made for a licence under subsection (I), the Authority shall consider what public interests in regard to fishing, bathing or recreation, in regard to the 17,2004 protection of the environment or in regard to any future s . 6 ~ development of the land adjoining that part of the foreshore in respect of which the application is made, require to be protected, and they may provide for the protection of such interests by and in the terms of the licence or otherwise in accordance with the provisions of this Act.
+*~ ~ C c , l a r ~~~~~~~~~ U\L'OI,*
+
+*seapubli-cat~on ol' ga,vr rcfuwl*
+
+**11.** (1) Subject to the provisions of sections 3, 4 and 9, and of subsection (2), the Authority may, on application made in such manner as may be prescribed under section 18, grant licences (whether exclusive in character or not) for the use of the foreshore or the floor of the sea for any public purpose, or in connection with any business or trade or for any other purpose (whether similar to the foregoing or not) to any person, upon such conditions (including the payment of an annual fee) and in such form as they may think fit.
+
+*17,2004 s . 6 ~*
+
+(2) Where an application is made for a licence under subsection (I), the Authority shall consider what public interests in regard to fishing, bathing or recreation, in regard to the protection of the environment or in regard to any future development of the land adjoining that part of the foreshore in respect of which the application is made, require to be protected, and they may provide for the protection of such interests by and in the terms of the licence or otherwise in accordance with the provisions of this Act.
 
 (3) Every grant or rehsal of a licence by the Authority shall be published in the Gazelle.
 
-(4) Where application is made under this section to the 1712004 Authority for a licence for any use of the foreshore or floor of S.6(b). the sea, which involves the erection, in a harbour, of an encroachment not referred to in section 9, the Authority shall not issue the licence unless the Port Authority certifies-
+*S.6(b).*
+
+(4) Where application is made under this section to the 1712004 Authority for a licence for any use of the foreshore or floor of the sea, which involves the erection, in a harbour, of an encroachment not referred to in section 9, the Authority shall not issue the licence unless the Port Authority certifies-
 
 (a) that the encroachment is not likely to have an adverse impact on vessel traffic or other activities related to harbours; and
 
@@ -408,29 +428,25 @@ the licence, if the Authority is satisfied that there is a breach of any term or
 
 (3) The Authority shall not be obliged to serve a notice pursuant to subsection (2) in relation to any breach if an order pursuant to section 19 is in effect in relation to that breach.
 
-**12.** (1) The Authority shall from time to time determine the D U ~ Y to
+*D U ~ Y to*
 
-*~ ~ ~*
+*~ ~ ~ ~ ~ ~ needs of*
 
-*~ ~ ~*
+**12.** (1) The Authority shall from time to time determine the needs and requirements of the public in relation to the use of-
 
-needs and requirements of the public in relation to the use of-
+*power to acquire land therefor. s, 5*
 
-*needs of*
-
-(a) any portion of land, whether such portion of land
-
-*power to acquire land therefor.*
-
-adjoins the foreshore or not; and
+(a) any portion of land, whether such portion of land adjoins the foreshore or not; and
 
 ( b ) the foreshore,
 
 7 ,
 
-2511960 for or in connection with bathing or any other form of lawful s, 5 recreation or for the purpose of fishing as a trade or otherwise or for any other purpose in the interest of the economic development of the beaches of the Island.
+2511960 for or in connection with bathing or any other form of lawful recreation or for the purpose of fishing as a trade or otherwise or for any other purpose in the interest of the economic development of the beaches of the Island.
 
-(2) Where the Authority acting in accordance with their duty under subsection (1) consider it necessary or desirable to acquire any portion of land, or rights of user over the same, whether such portion of land adjoins the foreshore or not, the Authority may, with the approval of the Minister and by agreement with the owner or any other person having power to dispose of such portion of land, 1411964 acquire for any purpose specified in the said subsection S 2(a). such portion of land by lease or purchase, or rights of user over such portion of land.
+*S 2(a).*
+
+(2) Where the Authority acting in accordance with their duty under subsection (1) consider it necessary or desirable to acquire any portion of land, or rights of user over the same, whether such portion of land adjoins the foreshore or not, the Authority may, with the approval of the Minister and by agreement with the owner or any other person having power to dispose of such portion of land, acquire for any purpose specified in the said subsection such portion of land by lease or purchase, or rights of user over such portion of land.
 
 (3) Any lease taken by the Authority pursuant to this section shall be for such period, and subject to sub-
 
@@ -448,35 +464,43 @@ and upon the grant of any such licence the rights of the Authority or of any per
 
 ( 5 ) Where pursuant to this section the Authority have acquired land otherwise than by purchase the Authority may at any time by agreement with the owner or other person having power to dispose of such land and subject to the approval of the Minister vary the annual rent payable in respect thereof.
 
-**13.** The Authority may maintain, use and develop any & a O r i t y beach or land vested in them or may make provision for to mmtam, wmd the maintenance, use or development of such beach or land 225 f ~ r by any person, body or authority, on such terms as they g m ~ m ~ may think fit.
+*& a O r i t y mmtam, wmd to 225 f ~ r g m ~ m ~*
 
-14-(1) The Authority may, upon receipt of a petition from not less than five persons concerned in any dispute with respect to the right to use any beach, or any land, road, track or pathway to gain access to such beach, lodge a plaint in the appropriate Court pursuant to section 9 of the Prescription Act with a view to establishing such right;
+**13.** The Authority may maintain, use and develop any beach or land vested in them or may make provision for the maintenance, use or development of such beach or land by any person, body or authority, on such terms as they may think fit.
 
-and the Authority shall for the purposes of that section be deemed to be a person concerned in the dispute.
+14-(1) The Authority may, upon receipt of a petition from not less than five persons concerned in any dispute with respect to the right to use any beach, or any land, road, track or pathway to gain access to such beach, lodge a plaint in the appropriate Court pursuant to section 9 of the Prescription Act with a view to establishing such right; and the Authority shall for the purposes of that section be deemed to be a person concerned in the dispute.
 
-(2) Where the public or any class of the public I /I958 have used any beach, land, road, track or pathway in the 4 4 (C,
+*I /I958 4 4 (C,*
+
+(2) Where the public or any class of the public have used any beach, land, road, track or pathway in the
 
 manner and for the period specified in subsection (1) of section 4 of the F’resuiption Act and such user is not disputed, the Authority may, if they think it expedient so to do, make an application to the Supreme Court by motion for a declaration of the right of the public to use such beach, land, road, track or pathway, and the Court, upon being satisfied that the user is not disputed, shall have power to make such order as the Court m a y think fit.
 
 (3) The provisions of section 10 of the Prescription Act shall apply to an application under subsection (2) as they apply to a plaint pursuant to section 9 of the said Act, and references in section 10 of the said Act to the Clerk of the Court and to the judgment of the Court shall be construed as referenm to the Registrar of the Supreme Court and to the order of the Supreme Court, rzspectively.
 
-**15.** Subject to the provisions of this Act, the Authority shall have power, for the purpose of the discharge of their %E2 Ot hfity. functions and duties under this Act-
+*%E2 Ot hfity.*
 
-(a) to carry on all activities, the carrying on whereof appears to them to be requisite, advantageous or convenient for or in connection with the discharge of their said functions and duties;
+**15.** Subject to the provisions of this Act, the Authority shall have power, for the purpose of the discharge of their functions and duties under this Act-
+
+to carry on all activities, the carrying on whereof (a)
+
+appears to them to be requisite, advantageous or convenient for or in connection with the discharge of their said functions and duties;
 
 (6) to do anything and to enter into any transaction (whether or not involving expenditure, borrowing, granting of loans or investment of money, the acquisition of any property or rights or the disposal of any property or rights) which in their opinion is calculated to facilitate the proper discharge of their functions and duties or is h& dental or conducive thereto.
 
-**16.** [Deleted by Act 9 of i991,3rd Sch.1
+[Deleted by Act 9 of i991,3rd Sch.1 16.
 
 **17.** [Deleted by Act 9 of 1991,3rd Sch.1
 
-*PoWerto*
+*1 8 4*
 
-1 8 4 1 ) The Authority may, with the approval of the
+*PoWerto*
 
 *%loonS.*
 
-Minister, make regulations generally for the proper carrying out of the purposes and provisions of this Act and h particular but without prejudice to the generality of the foregoing may make regulations-
+*ing out*
+
+1 ) The Authority may, with the approval of the Minister, make regulations generally for the proper carry-of the purposes and provisions of this Act and h particular but without prejudice to the generality of the foregoing may make regulations-
 
 (a) with respect to the form and manner of application for licences to be granted under this Act by the Authority, the fees to be paid in respect of such licences, and the grant or refusal of such licences;
 
@@ -516,27 +540,33 @@ for prohibiting of regulating the use in or upon the 2~11960 water lying on any 
 
 the fund referred to in section 19 (1 0).
 
-(2) The provisions of subsections (4) and (5) of section 9 shall apply to regulations made under this section.
+*shall*
 
-*Court orders to protect foreshore. s. 9.*
+(2) The provisions of subsections (4) and (5) of section 9 apply to regulations made under this section.
 
-1 9 4 1 ) Where the Authority is of the view that-
+*1 9 Court orders*
+
+4 1 ) Where the Authority is of the view that-
+
+*to protect foreshore. s. 9.*
 
 1712004
 
 (a) a person is, or has been, using the foreshore or floor of the sea without, or in contravention of, a licence issued under section 1 1 ;
 
-0
-
-(b) a person refuses to remove an encroachment erected, or permitted to be erected, by that person on the foreshore or floor of the sea without, or in contravention of, a licence issued under section 11, after being served with a notice by the Authority requiring that the encroachment be removed within a specified period, upon the expiry of the specified period; or
+0 (b) a person refuses to remove an encroachment erected, or permitted to be erected, by that person on the foreshore or floor of the sea without, or in contravention of, a licence issued under section 11, after being served with a notice by the Authority requiring that the encroachment be removed within a specified period, upon the expiry of the specified period; or
 
 (c) the public interest in regard to fishing, bathing, recreation or the protection of the environment requires safeguarding by the closure of any beach or other facility owned or operated by any person;
 
 (6) a person, in contravention of this Act or any licence issued under section 11, causes damage to any natural resources situated in the floor of the sea,
 
-the Authority may apply to the Court for an order under subsection (2).
+*the*
 
-(2) Where an application is made under subsection (I), the Court , if satisfied that the circumstances so warrant, may make an order-
+Authority may apply to the Court for an order under subsection (2).
+
+*the*
+
+(2) Where an application is made under subsection (I), Court , if satisfied that the circumstances so warrant, may make an order-
 
 (a) prohibiting the person from using the foreshore or floor of the sea without, or in contravention of, a licence;
 
@@ -544,15 +574,23 @@ the Authority may apply to the Court for an order under subsection (2).
 
 (c) for the closure of any relevant beach or facility owned or operated by that person;
 
-( d ) requiring thc pcrson to carry out, within a spccificcl period, a rehabilitation of the foreshore or floor of thc sea so as to remedy any damage caused by such pcrson; or
+*( d )*
+
+requiring thc pcrson to carry out, within a spccificcl period, a rehabilitation of the foreshore or floor of thc sea so as to remedy any damage caused by such pcrson; or
 
 (e) in the case of damage to a natural rcsourcc, rcquiring the person to pay to the Authority such sum as thc Court may determine by way of an award of damages which may take into account any reasonably foreseeable loss in the economic value of the natural resource to the public.
 
-(3) For the purposes of subsection (2) (e), "economic value" includes-
+*value"*
 
-(a) income from sales of goods and services provided by marine resources;
+(3) For the purposes of subsection (2) (e), "economic includes-
 
-( h ) the value of marine resources used for subsistence;
+income from sales of goods and services provided by (a)
+
+marine resources;
+
+*( h )*
+
+the value of marine resources used for subsistence;
 
 (c) the value of ecological functions and services provided by marine resources;
 
@@ -614,7 +652,7 @@ arrive at any agreement with the owner or other person having power to dispose o
 
 S. 15 (a).
 
-**26.** The approval by the Minister of the compulsory approval to acquisition of any land by the Authority shall be published bepublished &;zt e in the Gazette and thereafter the land may be acquired in accordance with the terms of the approval and the pro- before acquisition. visions of this Act and not otherwise.
+**26.** The approval by the Minister of the compulsory approval to acquisition of any land by the Authority shall be published bepublished &;zt e in the Gazette and thereafter the land may be acquired in accordance with the terms of the approval and the pro-before acquisition. visions of this Act and not otherwise.
 
 2511960 S. 15 (a). 1211958 S. 6.
 
@@ -658,21 +696,25 @@ S. 8(a). to be awarded for land acquired compulsorily under this Act-
 
 (d) the reasonabIe expenses, if any, incidental to any change of residence or place of business of any interested party which is news-sary in consequence of the acquisition;
 
-(ii) the following matters shall not be taken into con-sidera tion-
+*(ii) the sidera*
 
-(U) the degree of urgency which has led to the acquisition;
+following matters shall not be taken into con-tion-
+
+the degree of urgency which has led to the (U)
+
+acquisition;
 
 (b) any disinclination of the interested party to part with the land acquired;
 
 (c) any damage sustained by the interested party which, if caused by a private person, would not be a good cause of adon;
 
-(d) any damage which is likely to be caused, I to the land acquired after the date of the, publication in the Guzetze of the approval ~ 1 of the Minister under section 26 by or in 8/1960 consequence of the use to which it has been s. 1s (a). put;
+(d) any damage which is likely to be caused, I to the land acquired after the date of the, publication in the Guzetze of the approval ~ 1 of the Minister under section 26 by or in 8/1960 s. 1s (a). consequence of the use to which it has been put;
 
 (e) any increase in the value of the land, acquired which is likely to accrue from the I use to which it will be put;
 
 *i*
 
-0 any outlay or additions or improvements to the land acquired, which was incurred after the date of the publication in the Gazezte of the approval of the Minister under',,,,, section 26, unless such additions or im- S. 1s (a).
+0 any outlay or additions or improvements to the land acquired, which was incurred after the date of the publication in the Gazezte of the approval of the Minister under',,,,, section 26, unless such additions or im-S. 1s (a).
 
 provements were necessary for the maintenance of any building in a proper state of rep&,
 
@@ -684,47 +726,45 @@ provements were necessary for the maintenance of any building in a proper state 
 
 *Vesting of land by orda of m e Minister and taking of possession by the Authorily.*
 
-**29.** The Minister may, after considering the recommen-dations of the Commission, by order published in the Gazette, vest the land to be acquired in the Authority in fee simple or for any lesser estate or interest, or upon such terms or subject to such conditions or for such period as he may think fit, and the Authority may at any time 2511960
-
 *S 15W.*
 
-after the publication of the order in the Gazette take possession of the land.
+**29.** The Minister may, after considering the recommen-dations of the Commission, by order published in the Gazette, vest the land to be acquired in the Authority in fee simple or for any lesser estate or interest, or upon such terms or subject to such conditions or for such period as he may think fit, and the Authority may at any time 2511960 after the publication of the order in the Gazette take possession of the land.
 
-*Publication ofr Commision.*
+*Publication ofr c ~ . o Commision.*
 
-**30.** The report of the cammission shall be published in c ~ . o f the Gazetie and in a daily newspaper circulating in the Island for the information of a l l interested parties.
+**30.** The report of the cammission shall be published in f the Gazetie and in a daily newspaper circulating in the Island for the information of a l l interested parties.
 
 Reference to Court and Procedure thereafter
 
 *RcfucUCC to court.*
 
-31.41) Any interested party who is dissatisfied with any award made by the Commission may, by written application to the Commission, require that the matter be referred by the Commission for the determination of the Court, whether his objection be in relation to the boundaries, definition or description of the land or in relation to the compensation
-
 *251 1960 s. 12.*
 
-or rent to be paid therefor or the persons to whom the compensation should be paid or the manner in which the compensation should be apportioned.
+31.41) Any interested party who is dissatisfied with any award made by the Commission may, by written application to the Commission, require that the matter be referred by the Commission for the determination of the Court, whether his objection be in relation to the boundaries, definition or description of the land or in relation to the compensation or rent to be paid therefor or the persons to whom the compensation should be paid or the manner in which the compensation should be apportioned.
 
 p k incluaim of thL ~a%s is &OM by U. 90119931
 
 ### BEACR CONTROL
 
-(2) The applicant shall state specifically the grounds on which the objection to the award is taken and at the hearing no other grounds shall be given in argument without the leave of the Court.
+*on*
+
+*out*
+
+(2) The applicant shall state specifically the grounds which the objection to the award is taken and at the hearing no other grounds shall be given in argument with-the leave of the Court.
 
 (3) Every such application shall be made-
 
-(a) if the person making it was present or represented before the Commission at the
-
 *c*
 
-time of the enquiry, withii six weeks after the publication of the report of the Commission in the Gazette;
+(a) if the person making it was present or represented before the Commission at the time of the enquiry, withii six weeks after the publication of the report of the Commission in the Gazette;
 
 (b) in other cases, within six months after the publication of the said report in the Gazette.
 
 (4) The period within which an application for reference to the Court shall be made shall not be capable of enlargement by any Court.
 
-*gEb ion3*
+*gEb -is-ion3*
 
-3L-(1) In making the reference the Commission shall -is-state for the information of the Court in writing-
+3L-(1) In making the reference the Commission shall state for the information of the Court in writing-
 
 (U) the boundaries, definition and description of the land, with particulars of any trees, buildings or standing crops thereon;
 
@@ -732,15 +772,17 @@ time of the enquiry, withii six weeks after the publication of the report of the
 
 ( E ) the amount of compensation awarded and the manner of apportionment thereof;
 
-(d if the objection be to the amount of the compensation, the grounds on which the amount of com-
-
 *f L*
 
-pensation was determined;
+(d if the objection be to the amount of the compensation, the grounds on which the amount of compensation was determined;
 
-*f*
+*/]gm f*
 
-(e) if the objection be to the amount of the annual /]gm rent assessed, the amount of such annual rent 13. and the grounds on which such amount was determined.
+(e) if the objection be to the amount of the annual rent assessed, the amount of such annual rent
+
+13.
+
+and the grounds on which such amount was determined.
 
 tTklnallrpionof tham is au(hmiz0d by LN. 90119931
 
@@ -748,11 +790,9 @@ tTklnallrpionof tham is au(hmiz0d by LN. 90119931
 
 *OOtiOa*
 
-**33.** (1) The Court shall thereupon cause to be served
-
 *,*
 
-3 upon-
+**33.** (1) The Court shall thereupon cause to be served 3 upon-
 
 the applicant;
 
@@ -828,7 +868,9 @@ which he sits as an assessor or upon which he is engaged in inspecting the land 
 
 (2) Every appeal under this section shall be presented within the time and in the manner provided for appeals by rules governing civil appeals to the Court of Appeal from the Supreme Court.
 
-**45.** (1) Where there is any dispute as to the apportion- Determina-ment of any compensation awarded under this Act a Judge in ~ ~ ~ o $ o n - Chambers shall determine the proportions in which any mentof com-interested parties are entitled to share in the compensation.
+**45.** (1) Where there is any dispute as to the apportion-
+
+Determina-ment of any compensation awarded under this Act a Judge in ~ ~ ~ o $ o n - Chambers shall determine the proportions in which any mentof com-interested parties are entitled to share in the compensation.
 
 pensation.
 
@@ -836,13 +878,13 @@ pensation.
 
 (3) Every appeal shall be presented within the time and in the manner provided for civil appeals by the Court of Appeal Rules.
 
-**46.** The costs of all proceedings in apportioning the costsor amount of compensation shall be borne by such of the Z:::; interested parties in such proportions as the Judge shall borneby determine.
+**46.** The costs of all proceedings in apportioning the costsor Z:::; amount of compensation shall be borne by such of the interested parties in such proportions as the Judge shall borneby determine.
 
 interested parties.
 
 Payment of Compensation
 
-**47.** (1) After an award has been made by the Commis- Authorityto sion in accordance with this Act, the Authority shall offer in :::s2z;, writing to pay the compensation awarded to the interested parties entitled thereto according to the award and shall pay it to such parties unless prevented by one or more of the contingencies mentioned in subsection (2).
+**47.** (1) After an award has been made by the Commis-Authorityto :::s2z;, sion in accordance with this Act, the Authority shall offer in writing to pay the compensation awarded to the interested parties entitled thereto according to the award and shall pay it to such parties unless prevented by one or more of the contingencies mentioned in subsection (2).
 
 (2) If any of the interested parties do not consent to receive such compensation or if there be no person competent to alienate the land or if there be any dispute as to the right to receive the compensation or as to the apportion-
 
@@ -886,11 +928,9 @@ Public Recreational Beaches
 
 *Power to declare beach to be a public*
 
-**52.** (1) Where any beach is used by the public for fishing, bathing or recreation, upon payment of a fee, the Authority may,
-
 *beach and to define the same.*
 
-after consulting the owner or any person exercising control thereof or receiving any such fee, and subject to the right of such
+**52.** (1) Where any beach is used by the public for fishing, bathing or recreation, upon payment of a fee, the Authority may, after consulting the owner or any person exercising control thereof or receiving any such fee, and subject to the right of such
 
 owner or person to appeal to the Minister as provided by section 55, by order published in the Gazette-
 
@@ -916,37 +956,31 @@ ejects or attempts to eject from any such beach, except for misconduct, any memb
 
 wilhlly causes any member of the public who has paid the fee for admission to or for the use of the beach to leave any such beach, by doing any act calculated to annoy such member of the public while he is lawhlly using the beach,
 
-liable on summary conviction before a Resident 1712004 Magistrate to a fine not exceeding fifty thousand dollars or to S. 14.
+*S. 14.*
 
-imprisonment with hard labour for any term not exceeding six months.
+liable on summary conviction before a Resident 1712004 Magistrate to a fine not exceeding fifty thousand dollars or to imprisonment with hard labour for any term not exceeding six months.
 
 Revesting of Land or Beach
 
-**53.** Any person from whom any land has been com-Revesting of
+*Revesting of land for purpose or in hrtherance of commercial by an enterprise.*
 
-land for
+**53.** Any person from whom any land has been compulsorily acquired by the Authority under the provisions of this Act may at any time thereafter seek the approval of the Minister application in writing for the recovery of the land for the 2511960
 
-pulsorily acquired by the Authority under the provisions of this purpose or in
+*S. 15(a) (b).*
 
-Act may at any time thereafter seek the approval of the Minister hrtherance of
+*estate*
 
-commercial
+*any), the*
 
-by an application in writing for the recovery of the land for the enterprise.
+purpose or in hrtherance of any commercial enterprise, and the Minister may, if he thinks fit, after consultation with the Authority, by order published in the Gazette, vest the land in fee simple or for any lesser estate or interest, having regard to the or interest held by such person before the land was acquired by the Authority and subject to such conditions (if including the payment of any stipulated consideration, as Minister may deem fit to impose, in such person for the purpose aforesaid.
 
-2511960
+**54.** Any person who is the owner for the time being R ~ D U ofordrr of any beach declared by an order under subsection (1) of de~lariag yW&* section 52 to be a public recreational beach may, at any time thereafter, request the Authority in writing to revoke l ~ , b ~ t 8 the order, to enable him to recover full control over such lintacs~of r l n-
 
-purpose or in hrtherance of any commercial enterprise, and the S. 15(a) (b).
-
-Minister may, if he thinks fit, after consultation with the Authority, by order published in the Gazette, vest the land in fee simple or for any lesser estate or interest, having regard to the estate or interest held by such person before the land was acquired by the Authority and subject to such conditions (if any), including the payment of any stipulated consideration, as the Minister may deem fit to impose, in such person for the purpose aforesaid.
-
-**54.** Any person who is the owner for the time being R ~ D U ofordrr of any beach declared by an order under subsection (1) of de~lariag section 52 to be a public recreational beach may, at any yW&* time thereafter, request the Authority in writing to revoke l ~ , b ~ t 8 the order, to enable him to recover full control over such lintacs~of r l n-
-
-beach for the purpose or in furtherance of any commercial -P enterprise, and the Authority may, if they think fit, after
+beach for the purpose or in furtherance of any commercial -P
 
 *c*
 
-consultation with the Local Authority of the parish in which the beach is situated, revoke the order.
+enterprise, and the Authority may, if they think fit, after consultation with the Local Authority of the parish in which the beach is situated, revoke the order.
 
 Appeals from the Authority
 

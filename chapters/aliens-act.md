@@ -110,27 +110,23 @@ induslon of t h s p g e IS a u t b r i d by L N 7 7 / 19891
 
 “vessel” includes aircraft; and “master of a vessel” includes the pilot of an aircraft.
 
-Retention 3. For the purpose of this Act-
+*Retention of nsnon-ality.*
 
-of nsnon-
-
-ality. (a) where an alien is recognized as a national by the law of more than one foreign State, or where for
+**3.** For the purpose of this Act-
 
 *c*
 
-any reason it is uncertain what nationality (if any) is to be ascribed to an alien, that alien may be treated as the national of the State with which he appears to be most closely connected for the time being in interest or sympathy, or as being of uncertain nationality or of no nationality;
+(a) where an alien is recognized as a national by the law of more than one foreign State, or where for any reason it is uncertain what nationality (if any) is to be ascribed to an alien, that alien may be treated as the national of the State with which he appears to be most closely connected for the time being in interest or sympathy, or as being of uncertain nationality or of no nationality;
 
 (b) where a deportation order under the Aliens A d h s i o n and Deportation Regulation Law (now repealed) or under this Act is in force against any person, that person shall, unless the Minister otherwise directs, be deemed to retain his nationality as at the date of the order, notwithstanding any intervening naturalization, marriage or any other event.
 
-**4.** (1) The Governor-General may appoint a Chief Appoint-
+*Appoint- :,,,:nt of immigration any*
 
-:,,,:nt of
+**4.** (1) The Governor-General may appoint a Chief Immigration Officer and also immigration officers for all or specified parts of the Island for the purpose of carrying out the provisions of this Act and of any other enactmeni relating to immigration or deportation.
 
-Immigration Officer and also immigration officers for all or immigration
+*shall and the to and*
 
-any specified parts of the Island for the purpose of carrying out the provisions of this Act and of any other enactmeni relating to immigration or deportation.
-
-(2) Subject to any special or general instructions issued by the Minister, officers appointed under this Act shall have power to enter or board any vessel and to detain and examine any person arriving at or leaving any port in the Island who is reasonably supposed to be an alien, and to require the production of any documents by such person, and shall have such other powers and duties as are conferred
+(2) Subject to any special or general instructions issued by the Minister, officers appointed under this Act have power to enter or board any vessel and to detain examine any person arriving at or leaving any port in Island who is reasonably supposed to be an alien, and require the production of any documents by such person, shall have such other powers and duties as are conferred
 
 ### A LIENS
 
@@ -148,11 +144,9 @@ upon them by or under this Act or as may be prescribed for giving effect to this
 
 he is in a position to support himself and his dependents;
 
-if desirous of entering the service of an employer in the Island, he produces a permit in writing issued to him and in his name under the pro-visions of the Foreign Nationals and Common- 4811964
-
 *S. 1 1 .*
 
-wealth Citizen (Employment) Act;
+if desirous of entering the service of an employer in the Island, he produces a permit in writing issued to him and in his name under the pro-visions of the Foreign Nationals and Common- 4811964 wealth Citizen (Employment) Act;
 
 he is not a person of unsound mind or a mentally defective person;
 
@@ -234,35 +228,33 @@ Provided that this subsection shall not apply if a period exceeding two months h
 
 BB
 
-**10.** (1) The master of any vessel landing or embarking Master to
+*Master to furnish the*
 
-furnish
+**10.** (1) The master of any vessel landing or embarking passengers coming from or bound for a destination outside Island at any port in the Island shall furnish, to such person and in such manner as may be prescribed, a return giving the prescribed particulars with respect to any passengers who are aliens, and every passenger shall furnish to the master of the vessel any information required by him purpose of the return. for the
 
-passengers coming from or bound for a destination outside the Island at any port in the Island shall furnish, to such person and in such manner as may be prescribed, a return giving the prescribed particulars with respect to any passengers who are aliens, and every passenger shall furnish to the master of the vessel any information required by him for the purpose of the return.
+*the such*
 
-(2) The master of any vessel arriving at any port in the Island from a port outside the Island shall furnish, to such person and in such manner as may be prescribed, a return giving the prescribed particulars with respect to any members of the crew who are aliens.
+(2) The master of any vessel arriving at any port in Island from a port outside the Island shall furnish, to person and in such manner as may be prescribed, a return giving the prescribed particulars with respect to any members of the crew who are aliens.
 
 ## PART 111. Supervision and Deportation of Aliens
 
-**11.** (1) An alien shall comply with the following Registra-
+*Registration.*
 
-tion.
+**11.** (1) An alien shall comply with the following requirements as to registration-
 
-requirements as to registration-
+*First Schedule.*
 
-(a) he shall, as soon as may be, furnish to the registration officer of the registration district in which he is resident particulars as to the matters set out First in the First Schedule, and shall, unless he gives Schedule.
-
-a satisfactory explanation of the circumstances which prevent his doing so, produce to the registration officer either a passport furnished with a photograph and duly issued to him or renewed in his favour not more than five years previously or some other document satisfactorily establishing his nationality and identity;
+(a) he shall, as soon as may be, furnish to the registration officer of the registration district in which he is resident particulars as to the matters set out in the First Schedule, and shall, unless he gives a satisfactory explanation of the circumstances which prevent his doing so, produce to the registration officer either a passport furnished with a photograph and duly issued to him or renewed in his favour not more than five years previously or some other document satisfactorily establishing his nationality and identity;
 
 (b) he shall furnish to the registration officer of the registration district in which he is resident parti-culars of any circumstances affecting in any manner the accuracy of the particulars previously furnished by him for the purpose of registration within seven days after the circumstance has occurred, and generally shall supply to the regis- ~ _ _
 
-tration officer all information (including, where required by the registration officer, a recent photograph) that may be necessary for maintaining the accuracy of the register kept under this Act;
+tration officer all information (including, where required by the registration officer, a recent photograph) that may be necessary for maintaining the accuracy of the register kept under this Act; he shall, if he is about to change his residence, (c)
 
-(c) he shall, if he is about to change his residence, furnish to the registration officer of the registration district in which he is then resident particu-lars as to the date on which his residence is to be changed and as to his intended place of residence, and on effecting any change of residence from one registration district to another he shall, within forty-eight hours of his arrival in the registration district into which he moves, report his arrival to the registration officer of that district;
+furnish to the registration officer of the registration district in which he is then resident particu-lars as to the date on which his residence is to be changed and as to his intended place of residence, and on effecting any change of residence from one registration district to another he shall, within forty-eight hours of his arrival in the registration district into which he moves, report his arrival to the registration officer of that district;
 
 (d) if at any time he is absent from his residence for a period exceeding such period as may be prescribed by regulation, he shall report to the registration officer of the district of his residence his current address and every subsequent change of address including his return to his residence;
 
-(e) he shall-
+he shall- (e)
 
 (i) on his registration, obtain from the registration officer a registration certificate;
 
@@ -296,7 +288,7 @@ Provided that if any alien not having a residence in the Island shall supply to 
 
 ality who was ordinarily resident in the Island during the two years next preceding the third day of September, 1939, except the Minister shall in any particular case or by order otherwise direct.
 
-12.41) It shall be the duty of the keeper of any premises Particulars to which this section applies to keep a register of all persons g$mhed staying at the premises who are aliens not being under the ?Jg1id age of sixteen years.
+12.41) It shall be the duty of the keeper of any premises Particulars to which this section applies to keep a register of all persons g$mhed ?Jg1id staying at the premises who are aliens not being under the age of sixteen years.
 
 OthaS.
 
@@ -306,7 +298,9 @@ on the departure of any such alien the keeper of the premises shall enter or cau
 
 required by the Minister he shall also ascertain and enter in the register from time to time such other particulars concerning the alien as the Minister may direct.
 
-(3) The keeper of any premises to which this section applies shall also, if directions for the purpose are issued by the Minister, make to the registration officer of the registration district in which the premises are situated, such returns concerning the persons staying at the premises, at such times or intervals and in such form, as may be specified in such directions.
+*such*
+
+(3) The keeper of any premises to which this section applies shall also, if directions for the purpose are issued by the Minister, make to the registration officer of the registration district in which the premises are situated, such returns concerning the persons staying at the premises, at times or intervals and in such form, as may be specified in such directions.
 
 (4) It shall be the duty-
 
@@ -318,21 +312,31 @@ at any premises to which this section applies to sign, when so required, a state
 
 (5) Every register kept, and all particulars furnished, under this section, shall at all reasonable hours be open for inspection by any officer of police or by any immigration officer or by any person authorized by the Minister.
 
-(6) The Minister may prescribe the form in which a register is to be kept or statements furnished under this * section.
+*\\**
+
+*a*
+
+(6) The Minister may prescribe the form in which register is to be kept or statements furnished under this section.
 
 me inclusion of thii page is authorieed by L.N. 480119731
 
-1s
+*1s*
 
 (7) This section applies to any premises, whether furnished or unfurnished, where lodging or sleeping accommodation is provided for reward.
 
-13.411 There shall be provided and maintained by the Registra-Chief Immigration Officer under the directions of the tion aufho. nOes . . and Minister a central register of aliens in which there shall Officers. be registered such particulars in such form as may be prescribed.
+*Registration aufho. . . and nOes*
+
+*Officers.*
+
+13.411 There shall be provided and maintained by the Chief Immigration Officer under the directions of the Minister a central register of aliens in which there shall be registered such particulars in such form as may be prescribed.
 
 (2) (a) For the purposes of this Act the Chief Immigration Officer shall be the registration officer for the parish of Kingston and the chief officer of police of every other parish shall be the registration officer for that parish, and each parish shall be a registration district;
 
 (b) A registration officer shall-
 
-(i) keep for his registration district a register of the aliens resident therein and required to be registered under this Act, and enter in the register parti-culars as to the matters set out in the First Schedule and such other particu- First lars and in such form as may be pres- Schedule. cribed; and
+*First Schedule.*
+
+(i) keep for his registration district a register of the aliens resident therein and required to be registered under this Act, and enter in the register parti-culars as to the matters set out in the First Schedule and such other particu-lars and in such form as may be prescribed; and
 
 (ii) furnish to the Chief Immigration Officer for the purposes of the central register at such times and in such manner as may be prescribed, copies of all entries in the register or such of them as may be prescribed; and
 
@@ -358,19 +362,27 @@ cases mentioned in subsection (6) make an order (in this Act referred to as a de
 
 (6) A deportation order may be made in any of the following c a s e s
 
-(a) if any court certifies to the Minister that the alien has been convicted, either by that court or by any inferior court from which the case of the alien has been brought by way of appeal, of any of the
+*Second Schedule.*
 
-*Schedule.*
+(a) if any court certifies to the Minister that the alien has been convicted, either by that court or by any inferior court from which the case of the alien has been brought by way of appeal, of any of the offences specified in the Second Schedule and that the court recommends that a deportation order should be made in his case either in addition to or in lieu of sentence;
 
-offences specified in the Second Schedule and that Second the court recommends that a deportation order should be made in his case either in addition to or in lieu of sentence;
+if a court certifies to the Minister that the alien (b)
 
-(b) if a court certifies to the Minister that the alien has been convicted by that court of an offence under this Act;
+has been convicted by that court of an offence under this Act;
 
 (4 if the alien has become a charge on public or parochial funds or if the Mayor of the Kingston and St. Andrew Corporation or the Chairman of a Parish Council or the Commissioner of Police certifies to the Minister that the alien has been found wandering without ostensible means of subsistence or has been living in insanitary conditions due to overcrowding;
 
-(d if the Minister deems it to be conducive to the public good to make a deportation order against the alien.
+*(d*
 
-(7) Where any case in which a court has made a recommendation for deportation is brought by way of appeal against conviction or sentence before a higher court and that court certifies to the Minister that it does not concur in the recommendation, such recommendation shall be of no effect but without prejudice to the power of the Minister to make an order of deportation under paragraph (4 of subsection (6).
+if the Minister deems it to be conducive to the public good to make a deportation order against the alien.
+
+*appeal and concur be of*
+
+(7) Where any case in which a court has made a recommendation for deportation is brought by way of against conviction or sentence before a higher court that court certifies to the Minister that it does not in the recommendation, such recommendation shall no effect but without prejudice to the power of the to make an order of deportation under paragraph Minister
+
+*(4 of*
+
+subsection (6).
 
 Expenses of 16. Where a deportation order is made in the case of any deportation.
 
@@ -436,11 +448,9 @@ ing to have acted in contraventon of this Act, he shall be guilty of an offence 
 
 (4 without lawful authority uses or has in his possession any forged, altered, or irregular certificate, passport, or other document or any passport or document on which any visa or endorsement has been altered or forged.
 
-(5) Any person who is guilty of an offence against this Act shall be liable on summary conviction before a
+*z~/t988 ’”*
 
-*’”*
-
-Resident Magistrate to a fine not exceeding ten thousand z~/t988 dollars or to imprisonment with or without hard labour for a term not exceeding three years, and the Resident Magistrate before whom he is convicted may either in
+(5) Any person who is guilty of an offence against this Act shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding ten thousand dollars or to imprisonment with or without hard labour for a term not exceeding three years, and the Resident Magistrate before whom he is convicted may either in
 
 ga AtlEhV
 
@@ -456,9 +466,9 @@ addition to or in lieu of any such punishment require such person to enter into 
 
 LTha induaion of UUS page h autBorizod by LN. 17/1%91
 
-**21.** Any person who acts in contravention of this Act, ~owersof or is reasonably suspected of having so acted or being about arrest. so to act, may be taken into custody without warrant by an immigration officer or by any constable.
+**21.** Any person who acts in contravention of this Act, ~owersof arrest. or is reasonably suspected of having so acted or being about so to act, may be taken into custody without warrant by an immigration officer or by any constable.
 
-22.41) The Minister may make regulations for prescrib- :;!?-ing anything which is by this Act to be prescribed and generally for carrying the purposes or provisions of this Act into effect.
+:;!?- 22.41) The Minister may make regulations for prescrib-ing anything which is by this Act to be prescribed and generally for carrying the purposes or provisions of this Act into effect.
 
 (2) Without prejudice to the generality of the power conferred by subsection (l), regulations may be made under this section authorizing the taking in relation to any alien who is in custody of all such steps as may be necessary for photographing, measuring, taking the finger-prints of, or otherwise identifying, that person in such manner as may be provided by the regulations.
 

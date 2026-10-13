@@ -58,13 +58,15 @@ retrieved: 2026-10-13
 
 V6rh November, 1944.1
 
-**1.** This Act may be cited as the Agricultural Marketing shorttitle. Act.
+*shorttitle.*
 
-*Interprets-*
+**1.** This Act may be cited as the Agricultural Marketing Act.
+
+*Interprets-tion.*
 
 **2.** In this Act-
 
-“agricultural produce” includes the produce of any plant tion. or animal in its natural state;
+“agricultural produce” includes the produce of any plant or animal in its natural state;
 
 “approved association” means any association declared by the Minister in accordance with the provisions of section 5 to be an approved association;
 
@@ -132,47 +134,59 @@ articles. (2) Regulations made under subsection (1) may, without prejudice to th
 
 (3) Every person who is required by any regulations made under this section to be registered as a producer of any specified article and who, without being so registered, sells or offers for sale any quantity of such article after the date upon which the register comes into force, shall be guilty of an offence against this subsection and, upon summary conviction thereof before a Resident Magistrate, shall be liable to a fine not exceeding two hundred dollars or to be imprisoned for any term not exceeding twelve months or to both such fine and imprisonment.
 
-(4) Every person who wilfully makes any statement which he knows to be false or does not believe to be true-
+Every person who wilfully makes any statement which he knows to be false or does not believe to be true-
 
-(a) in any application for registration under any regulations made in pursuance of the powers conferred by this section; or
+in any application for registration under any regulations made in pursuance of the powers conferred by this section; or
 
 (6) in any return which he is required to make under such regulations,
 
-shall be guilty of an offence against this subsection and, upon summary conviction thereof before a Resident Magistrate, shall be liable to a fine not exceeding one hundred dollars or to be imprisoned for any term not exceeding six months or to both such 6ne and imprisonment.
+guilty of an offence against this subsection and, shall be
 
-**5.** (1) Subject to the provisions of subsection (21, the Power to
+*upon*
 
-dedare
+summary conviction thereof before a Resident Magistrate, shall be liable to a fine not exceeding one hundred dollars or to be imprisoned for any term not exceeding six months or to both such 6ne and imprison-
 
-Minister may on the application of any association declare an approved such association to be an approved association in relation association.
+*ment.*
 
-to any specified article or class of specified articles of agricultural produce.
+*5.-(1)*
+
+*Power to dedare*
+
+*an approved such association. to any*
+
+Subject to the provisions of subsection (21, the Minister may on the application of any association declare association to be an approved association in relation specified article or class of specified articles of agricultural produce.
 
 (2) No association shall be declared to be an approved association unless the Minister is satisfied-
 
-(a) that it has as one of its principal objects the furtherance of the interests of the producers of agricultural produce in general or of the specified article or class of specified articles of agricultural produce in relation to which the application is made; and
+that it has as one of its principal objects the (a)
+
+furtherance of the interests of the producers of agricultural produce in general or of the specified article or class of specified articles of agricultural produce in relation to which the application is made; and
 
 (6) that a substantial proportion of its members are producers or are engaged in the production of agricultural produce in general or of such specified article or class of specified articles of agricultural produce; and
 
-(c) that its constitution is such as to ensure that all of its members have a right to participate directly or
+that its constitution is such as to ensure that all of its members have a right to participate directly or
 
 indirectly in the election or appointment of the governing body of the association; and
 
 (6) that its constitution is such as to ensure that the term of office of any member of its governing body does not exceed three years; so, however, that any member of the governing body may be eligible upon the expiration of any term of office to be re-elected for a further term of office.
 
-**6.** \-(1) Subject to the provisions of subsection (21, any ~ ~ ~ i ~ approved association may submit to the Minister a plan amrketing m a y submit zEikd for the marketing of any specified article of agricultural produce.
+*~ ~ ~ i ~ m a y submit amrketing zEikd artida.*
 
-artida.
+**6.** \-(1) Subject to the provisions of subsection (21, any approved association may submit to the Minister a plan for the marketing of any specified article of agricultural produce.
 
-(2) Every marketing plan shall make provision for First Schedule. the matters set out in the First Schedule.
+*First Schedule.*
 
-(3) Every marketing plan may, in addition to containing provision for the matters set out in the First Schedule, contain also provision for any of the matters set Ssmnd Schedule. out in the Second Schedule.
+(2) Every marketing plan shall make provision for the matters set out in the First Schedule.
 
-7 . 4 1 ) Where any marketing plan is submitted to the piantobe Minister under subsection (1) of section 6, the Minister shall cause the plan to be advertised in at least six issues of a newspaper at intervals of not less than one week.
+*Ssmnd Schedule.*
 
-(2) Where any plan is advertised in accordance with the provisions of subsection (l), there shall be inserted in the same issue of the newspaper in which the advertise-
+(3) Every marketing plan may, in addition to containing provision for the matters set out in the First Schedule, contain also provision for any of the matters set out in the Second Schedule.
 
-ment appears a notice that any person who objects to the adoption of the plan may give notice in writing of his objection and of the grounds upon which he relies in support thereof to such authority as may be specified in the notice on or before such day as may be so specified.
+*piantobe*
+
+7 . 4 1 ) Where any marketing plan is submitted to the Minister under subsection (1) of section 6, the Minister shall cause the plan to be advertised in at least six issues of a newspaper at intervals of not less than one week.
+
+(2) Where any plan is advertised in accordance with the provisions of subsection (l), there shall be inserted in the same issue of the newspaper in which the advertisement appears a notice that any person who objects to the adoption of the plan may give notice in writing of his objection and of the grounds upon which he relies in support thereof to such authority as may be specified in the notice on or before such day as may be so specified.
 
 (3) Every notice of objection to any plan shall be in such form as the Minister may prescribe.
 
@@ -206,9 +220,9 @@ lO.-(i) So soon as may be after any Committee of Enquiry has concluded its enqui
 
 (3) Every report under subsection (1) may also contain any recommendations by the Committee of Enquiry as to any respects in which the plan might with advantage be amended, together with the reasons in support of such recommendations.
 
-*of hiinistcr in*
+*of Powers hiinistcr in relationto*
 
-**11.** (1) Subject to the provisions of subsection (2), upon Powers receipt of any report under subsection (1) of section 10 relationto the Minister shall consider such report and shall either-
+**11.** (1) Subject to the provisions of subsection (2), upon receipt of any report under subsection (1) of section 10 the Minister shall consider such report and shall either-
 
 (a) approve the plan; or
 
@@ -224,43 +238,49 @@ lO.-(i) So soon as may be after any Committee of Enquiry has concluded its enqui
 
 (5) Where the approved association accepts any plan subject to the modifications approved by the Minister, the Minister shall cause the plan as modified to be advertised in two issues of a newspaper at an interval of not less than one week and thereafter the provisions of subsection (2)
 
-shall apply as they apply to a plan which is approved by the Minister without modification.
+*shall the*
 
-(6) Where the approved association does not accept any modification referred to it under subsection (4), the plan shall for all purposes be deemed to be rejected.
+apply as they apply to a plan which is approved by Minister without modification.
 
-Procedure 12.-(1) Where upon a poll being taken in accordance after taking
+*any plan*
 
-with any directions under subsection (3) of section 11, the a poll.
+(6) Where the approved association does not accept modification referred to it under subsection (4), the shall for all purposes be deemed to be rejected.
 
-Minister is satisfied that-
+*Procedure after taking with a poll.*
+
+**12.** (1) Where upon a poll being taken in accordance any directions under subsection (3) of section 11, the Minister is satisfied that-
 
 (a) not less than two-thirds in number of the registered producers of the specified article or class of article voting on the poll; and
 
 ( b ) registered producers who are capable of producing not less than two-thirds of the quantity of the specified article or class of article which all the registered producers voting on the poll are capable of producing
 
-are in favour of the adoption of the plan, the Minister shall cause the plan to be laid before the Senate and House of Representatives.
+favour of the adoption of the plan, the Minister are in
 
-(2) Where upon a poll being taken in accordance with any directions under subsection (3) of section 11, the Minister is not satisfied that-
+*shall of*
+
+cause the plan to be laid before the Senate and House Representatives.
+
+*with*
+
+(2) Where upon a poll being taken in accordance any directions under subsection (3) of section 11, the Minister is not satisfied that-
 
 (a) not less than two-thirds in number of the registered producers of the specified article or class of article voting on the poll; or
 
 (b) registered producers who are capable of producing not less than two-thirds of the quantity of the specified article or class of article which all the registered producers voting on the poll are capable of producing
 
-are in favour of the adoption of the plan, the plan shall be deemed to be rejected.
+*are in*
 
-*on laying*
+favour of the adoption of the plan, the plan shall be deemed to be rejected.
 
-13.41) Where any marketing plan is laid before the Procedure Senate and the House of Representatives in accordance o f ~ m
+*Procedure on laying o f ~ m before Parliament.*
 
-*Parliament.*
-
-with the provisions of subsection (1) of section 12, it shall before be accompanied by the report of the Committee of Enquiry appointed under section 8 and any objections to the plan and all documents relating thereto.
+13.41) Where any marketing plan is laid before the Senate and the House of Representatives in accordance with the provisions of subsection (1) of section 12, it shall be accompanied by the report of the Committee of Enquiry appointed under section 8 and any objections to the plan and all documents relating thereto.
 
 (2) The Senate and the House of Representatives may by resolution of either Chamber, if confirmed by resolution of the other Chamber, adopt any marketing plan laid before them in accordance with the provisions of subsection (I) of section 12 with effect from a date specified in such resolutions..
 
-*adoption*
+*EffEiof adoption ofplan.*
 
-1 4 4 1 ) Where the Senate and the House of Represen- EffEiof tatives adopt any marketing plan in accordance with the ofplan. provisions of subsection (2) of section 13, the provisions of the plan shall be deemed to form part of this Act with effect from the date specified in the resolution of the Senate and of the House of Representatives.
+1 4 4 1 ) Where the Senate and the House of Represen-tatives adopt any marketing plan in accordance with the provisions of subsection (2) of section 13, the provisions of the plan shall be deemed to form part of this Act with effect from the date specified in the resolution of the Senate and of the House of Representatives.
 
 (2) Where any plan is deemed in accordance with the provisions of subsection (1) to form part of this Act, subject to the provisions of section 15 no producer shall sell, and no person shall purchase, any quantity of the specified article to which the plan relates except-
 
@@ -290,17 +310,11 @@ contract is found by the Court not to have been made with a view to evading the 
 
 (7) No person shall be liable to any penalty in respect of a contravention of any plan in force under this Act, if he proves that the contravention was necessary for the performance of a contract which, by reason of the foregoing provisions of this section, was not, at the time of the contravention, void or unenforceable.
 
-*Minister to*
+*orderof Minister to mend, re-w k e or give d i r e tioos concerning plan. -,.... s. 2.*
 
-1 6 . 4 1 ) Where after the adoption of a plan in accord- orderof ance with the provisions of section 13, the Minister thinks it mend, re-
+1 6 . 4 1 ) Where after the adoption of a plan in accordance with the provisions of section 13, the Minister thinks it expedient so to do, he may make an order-
 
-*w k e or give d i r e tioos con-*
-
-expedient so to do, he may make an order-
-
-*plan. -,.... s. 2.*
-
-(a) amending the plan in such respects as he thinks fit; cerning or
+(a) amending the plan in such respects as he thinks fit; or
 
 111991
 
@@ -318,37 +332,53 @@ expedient so to do, he may make an order-
 
 ### AGRICULTURAL MARKETIA'G
 
-## FIRST SCHEDULE (Section 6 ) Every marketing plan shall provide for the following matters-
+*( b )*
 
-(0) for making the plan applicable to all of the articles of agricultural produce or any kind. variety or grade thereof specified in the plan which may be produced by every registered producer: ( b ) for keeping of the register of producers;
+FIRST SCHEDULE (Section 6 ) marketing plan shall provide for the following matters-for making the plan applicable to all of the articles of agricultural produce or any kind. variety or grade thereof specified in the plan which may be produced by every registered producer: for keeping of the register of producers;
 
-(c) for specifying the classes or description of producers which shall be exempted from registration and the procedure for securing such exemption;
+for specifying the classes or description of producers which (c)
+
+shall be exempted from registration and the procedure for securing such exemption;
 
 (d) for specirying the circumstances in which the sale or purchase of the specified articIe shall be exempt from the provisions of the plan;
 
-(e) for requiring registered producers to furnish to the association such estimates, returns. accounts and other information relat-ing to the specified article of agricultural produce as the association may consider necessary for the operation of the plan; U) for securing that any producer who is aggrieved by any act or omission of the association may refer the matter to one or more arbitrators appointed in such manner as may be provided by the plan and for the manner in which any such reference is to be heard and determined;
+*U)*
 
-0.) for regulating the manner in which the moneys of the association may be invested;
+(e) for requiring registered producers to furnish to the association such estimates, returns. accounts and other information relat-ing to the specified article of agricultural produce as the association may consider necessary for the operation of the plan; for securing that any producer who is aggrieved by any act or omission of the association may refer the matter to one or more arbitrators appointed in such manner as may be provided by the plan and for the manner in which any such reference is to be heard and determined;
+
+*0.)*
+
+for regulating the manner in which the moneys of the association may be invested;
 
 (h) for the furnishing by the association to registered producers of returns and other information, including an annual balance sheet and either an annual profit and loss account or, in the case of an association which does not trade for profit, an annual income and expenditure account;
 
 (i) for the furnishing by the association to the Minister within six mwtbs after the expiration of each year of operation which year of operation shall be defined in the plan, of a report for the year upon the administration of the affairs of the association together with a balance sheet and statement of the revenue and expenditure of the association duly audited by an auditor approved by the Minister:
 
-(i) for enabling the association to submit an amendment of tbe plan and for prescribing the procedure to be followed in order to give effect to such amendment;
+for enabling the association to submit an amendment of tbe (i)
 
-( k ) for the revocation of the plan by the submission of a subsequent plan.
+plan and for prescribing the procedure to be followed in order to give effect to such amendment;
+
+*( k )*
+
+for the revocation of the plan by the submission of a subsequent plan.
 
 _ _ ~~~~ ~ ~ ~~~
 
-## SECOND SCHEDULE ( m m 6) Every marketing plan may provide for all or any of the following matters-
+## SECOND SCHEDULE ( m m 6) marketing plan may provide for all or any of the following
 
-(a) for empowering the association to buy the specified article, to produce such commodities from that product as may be speci6ed in the plan, and to sell, grade, pack, store, adapt for sale, insure, advertise and transport the specified article and any commodity so produced by the association;
+*matters-*
 
-( 6 ) for requiring registered producers to sell the specified article or any kind, variety or grade thereof, or such quantity thereof or of any kind, variety or grade thereof as may from time to time be determined by the association, only to, or through the agency of, the association;
+for empowering the association to buy the specified article, to produce such commodities from that product as may be speci6ed in the plan, and to sell, grade, pack, store, adapt for sale, insure, advertise and transport the specified article and any commodity so produced by the association;
+
+*( 6 )*
+
+for requiring registered producers to sell the specified article or any kind, variety or grade thereof, or such quantity thereof or of any kind, variety or grade thereof as may from time to time be determined by the association, only to, or through the agency of, the association;
 
 (c) for empowering the association to buy, and sell or let for hire to registered producers, anything required for the production, adaptation for sale, or sale of the s p i 6 e d article;
 
-(d) for empowering the association to co-operate with any other person in doing anything which the association is or might be empowered to do by virtue of paragraph (a) or paragraph (c): ( e ) for empowering the association to regulate. sales of the speci- 6ed article by any registered producer by determining for such period as may be fixed by the association on the occasion of each determination-
+*( e )*
+
+(d) for empowering the association to co-operate with any other person in doing anything which the association is or might be empowered to do by virtue of paragraph (a) or paragraph (c): for empowering the association to regulate. sales of the speci- 6ed article by any registered producer by determining for such period as may be fixed by the association on the occasion of each determination-
 
 (i) the kind, variety or grade of the product which may be sold:
 
@@ -356,7 +386,9 @@ _ _ ~~~~ ~ ~ ~~~
 
 (f) for regulating the manner in which the spefisad article or any kind, variety or quantity thereof is to be. graded by 01 on behalf of registered producers or the manner in which the specified article or any kind, variety, grade or quantity thereof is to be marked, packed, stored, adapted for sale, insured. advertised or transported by or on behalf of registered producers;
 
-(g) for empowering any person authorized in writing by the association, for the purpose of securing compliance with the plan, to enter and inspect, at any reasonable time and on produc-
+for empowering any person authorized in writing by the asso- (g)
+
+ciation, for the purpose of securing compliance with the plan, to enter and inspect, at any reasonable time and on produc-
 
 p h e inclusion d this F g e is authorizcd by L.N. 90!'1!?43]
 
@@ -364,16 +396,24 @@ tion of his authority. any pan of the land or premises occn-pied by any register
 
 (h) for enabling the association to encourage agricultural co-operation, research and education;
 
-(13 for empowering the association to borrow money for the purpose of exercising its functions under the plan;
+*(13*
 
-cj) for empowering the association to accept grants of money from any source, and regulating the manner in which and the objezts upon which such grants may be expended;
+for empowering the association to borrow money for the purpose of exercising its functions under the plan;
 
-( k ) for empowering the association to lend to any registered producer a portion of the amount, which the association estimates that he will receive from the sale of any quantity of the speci-fied article produced or in course of production by him:
+*cj)*
 
-(0 for guaranteeing the payment of any sums secured by an agricultural charge created by a registered producer;
+for empowering the association to accept grants of money from any source, and regulating the manner in which and the objezts upon which such grants may be expended;
+
+*( k )*
+
+for empowering the association to lend to any registered producer a portion of the amount, which the association estimates that he will receive from the sale of any quantity of the speci-fied article produced or in course of production by him:
+
+*(0*
+
+for guaranteeing the payment of any sums secured by an agricultural charge created by a registered producer;
 
 (m) for all such matters as are incidental to or consequential on the provisions of this Act relating to the contents of plans or are neccesaary for giving effect to those provisions.
 
-____
+*____*
 
 [The indusion of this page is authorized by L.S. 90jlW31

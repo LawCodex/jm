@@ -116,15 +116,23 @@ def main():
         slug = it["href"].rstrip("/").split("/")[-1]
         mpath = os.path.join(RAW, kind, "meta", slug + ".json")
         ppath = os.path.join(RAW, kind, "pdf", slug + ".pdf")
-        if os.path.exists(mpath):
-            meta = json.load(open(mpath))
-        else:
-            meta = dict(it)
-            meta.update(detail(it["href"]))
-            time.sleep(DELAY)
+        try:
+            if os.path.exists(mpath):
+                meta = json.load(open(mpath))
+            else:
+                meta = dict(it)
+                meta.update(detail(it["href"]))
+                time.sleep(DELAY)
+        except RuntimeError as e:
+            print(n, slug, "FAILED", e, flush=True)
+            continue
         if meta.get("download") and not meta.get("pdf_ok"):
             if not pdf_ok(ppath, meta.get("pdf_len")):
-                r = get(BASE + meta["download"])
+                try:
+                    r = get(BASE + meta["download"])
+                except RuntimeError as e:
+                    print(n, slug, "FAILED", e, flush=True)
+                    continue
                 ct = r.headers.get("content-type", "")
                 if r.status_code == 200 and "pdf" in ct:
                     open(ppath, "wb").write(r.content)
